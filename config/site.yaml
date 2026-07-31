@@ -136,8 +136,7 @@ featuredSeries:
     label: Weekly # 简短名称 [ID] UBAH: Nama pendek seri di sidebar
     fullName: Weekly # 完整名称 [ID] UBAH: Nama panjang seri
     description: | # 支持多行 Markdown [ID] UBAH: Deskripsi seri (boleh teks panjang)
-      Kumpulan catatan mingguan, artikel pilar ekonomi, dan tips belajar santai 
-      yang diperbarui secara berkala. Selamat membaca dan semoga bermanfaat!
+      Khusus di halaman ini, saya kumpulin catatan pribadi. Isinya campur aduk, kadang soal ekonomi atau bisnis, kadang tips belajar maupun fiqih, kadang juga hal-hal random yang lagi bikin penasaran atau sekadar hobi. Semua ditulis santai, diperbarui sesekali, siapa tahu ada yang berguna atau minimal bisa jadi teman baca.
     cover: /img/weekly_header.webp # 系列页面头图
     enabled: true # 启用此系列
     icon: ri:newspaper-line # 导航图标
