@@ -331,7 +331,7 @@ content:
 # 碎碎念动态归档 - 默认关闭；启用时还需配置 KOHARU_SUITE_URL 和 dynamic Docker target
 # =============================================================================
 moments:
-  enabled: true
+  enabled: false
   path: moments # Jalur URL, misal /moments
   title: 碎碎念 # Judul halaman
   description: 记录频道中的日常消息 # Deskripsi halaman
