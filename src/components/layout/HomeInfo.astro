@@ -51,24 +51,24 @@ const strippedPath = stripLocaleFromPath(Astro.url.pathname);
   <p class="mt-2">{siteConfig?.name}</p>
   <p class="text-muted-foreground mt-3 text-center">{siteConfig?.description}</p>
   <Social />
-  <div
+<div
     class="text-muted-foreground mt-3 flex justify-center text-center text-sm/4 whitespace-nowrap select-none dark:text-white/80"
   >
-    <a href={localizedPath('/', locale)} class="hover:text-blue flex cursor-pointer flex-col gap-2 p-1 transition">
+    <a href={localizedPath('/', locale)} class="hover:text-blue flex cursor-pointer flex-col items-center gap-1.5 p-1 transition">
       <span class="text-lg/5 font-bold">{postCount}</span>
-      {t(locale, 'homeInfo.articles')}
+      <Icon name="ri:leaf-line" class="text-base" />
     </a>
     <div class="bg-muted-foreground mx-3 w-px"></div>
     <a href={localizedPath('/categories', locale)} aria-label={t(locale, 'homeInfo.categories')} class="hover:text-blue">
-      <p class="flex cursor-pointer flex-col gap-2 p-1 transition">
+      <p class="flex cursor-pointer flex-col items-center gap-1.5 p-1 transition">
         <span class="text-lg/5 font-bold">{Object.keys(countMap).length}</span>
-        {t(locale, 'homeInfo.categories')}
+        <Icon name="ri:layout-grid-line" class="text-base" />
       </p>
     </a>
     <div class="bg-muted-foreground mx-3 w-px"></div>
-    <a href={localizedPath('/tags', locale)} class="hover:text-blue flex cursor-pointer flex-col gap-2 p-1 transition">
+    <a href={localizedPath('/tags', locale)} class="hover:text-blue flex cursor-pointer flex-col items-center gap-1.5 p-1 transition">
       <span class="text-lg/5 font-bold">{allTags?.length ?? 0}</span>
-      {t(locale, 'homeInfo.tags')}
+      <Icon name="ri:price-tag-3-line" class="text-base" />
     </a>
   </div>
   <div class="mt-6 flex w-full flex-col items-center gap-2.5">

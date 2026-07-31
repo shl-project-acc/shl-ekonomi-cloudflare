@@ -22,6 +22,5 @@ Jika Anda memiliki pertanyaan, saran, tawaran kerja sama, atau sekadar ingin ber
 </div>
 </details>
 
-<br>
 
 Saya akan berusaha merespons pesan Anda secepat yang saya bisa. Terima kasih sudah mampir ke SHL Project!
