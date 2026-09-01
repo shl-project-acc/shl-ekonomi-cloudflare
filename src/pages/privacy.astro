@@ -2,20 +2,51 @@
 import PageLayout from '../layouts/PageLayout.astro';
 
 const frontmatter = {
-  title: 'Privacy Policy',
+  title: 'Kebijakan Privasi',
   coverTitle: 'Kebijakan Privasi',
-  description: 'Kebijakan Privasi di SHL Project',
+  description: 'Kebijakan Privasi resmi untuk pengunjung situs web SHL Project (www.shlproject.com).',
   comments: false,
 };
 ---
 
 <PageLayout frontmatter={frontmatter}>
-  <h2>Kebijakan Privasi</h2>
-  <p>Selamat datang di <strong>SHL Project</strong>. Privasi pengunjung adalah salah satu prioritas utama kami. Dokumen Kebijakan Privasi ini menjelaskan jenis informasi apa saja yang dikumpulkan dan dicatat oleh web ini, serta bagaimana kami menggunakannya.</p>
+  <h2>Kebijakan Privasi (Privacy Policy)</h2>
+  
+  <p>Selamat datang di <strong>SHL Project</strong> (<a href="https://www.shlproject.com">www.shlproject.com</a>). Kami sangat menghargai privasi setiap pengunjung yang mengakses dan membaca tulisan di situs web ini. Dokumen Kebijakan Privasi ini menguraikan jenis informasi apa saja yang diterima, dicatat, dan bagaimana informasi tersebut dikelola dengan aman serta penuh tanggung jawab.</p>
 
-  <h3>1. File Log (Log Files)</h3>
-  <p>SHL Project mengikuti prosedur standar menggunakan file log. Informasi yang dikumpulkan oleh file log termasuk alamat protokol internet (IP), jenis browser, Penyedia Layanan Internet (ISP), stempel tanggal dan waktu, halaman rujukan/keluar, dan mungkin jumlah klik. Tujuannya adalah untuk menganalisis tren, mengelola situs, dan melacak pergerakan pengguna di situs web.</p>
+  <hr />
 
-  <h3>2. Cookies dan Web Beacon</h3>
-  <p>Seperti situs web lainnya, SHL Project menggunakan 'cookies'. Cookie ini digunakan untuk menyimpan informasi termasuk preferensi pengunjung, dan halaman-halaman di situs web yang diakses atau dikunjungi pengunjung. Informasi tersebut digunakan untuk mengoptimalkan pengalaman pengguna.</p>
+  <h3>1. Informasi yang Dikumpulkan</h3>
+  <p>Secara umum, kamu dapat menjelajahi dan membaca seluruh artikel di blog ini secara anonim tanpa perlu mendaftar atau memberikan informasi pribadi. Namun, ada beberapa data teknis standar yang dapat tercatat secara otomatis:</p>
+  <ul>
+    <li><strong>Berkas Log (Log Files):</strong> Mengikuti prosedur standar operasional server web dan jaringan edge Cloudflare. Data ini mencakup alamat protokol internet (IP address anonim), jenis peramban (browser), sistem operasi, tanggal dan waktu akses, serta halaman rujukan/keluar. Data ini tidak dihubungkan dengan informasi pribadi apa pun dan hanya digunakan untuk analisis tren lalu lintas, pemeliharaan teknis, serta keamanan server.</li>
+    <li><strong>Pesan Sukarela:</strong> Jika kamu menghubungi kami melalui formulir kontak atau kanal komunikasi resmi, informasi yang kamu berikan (seperti nama panggilan dan isi pesan) hanya digunakan murni untuk keperluan membalas pesan tersebut dan tidak akan pernah diperjualbelikan kepada pihak ketiga.</li>
+  </ul>
+
+  <h3>2. Cookies dan Penyimpanan Lokal (Local Storage)</h3>
+  <p>Situs web ini menggunakan <em>cookies</em> dan <em>local storage</em> dalam peramban untuk hal-hal fungsional dasar:</p>
+  <ul>
+    <li>Menyimpan preferensi tampilan pengguna (misalnya pengaturan mode gelap/terang atau preferensi membaca).</li>
+    <li>Meningkatkan kecepatan pemuatan halaman (*caching*) melalui jaringan distribusi konten (CDN).</li>
+  </ul>
+  <p>Kamu memiliki kendali penuh untuk menonaktifkan atau menghapus cookies kapan saja melalui pengaturan peramban masing-masing tanpa mengganggu kemampuanmu membaca artikel di blog ini.</p>
+
+  <h3>3. Cookie Pihak Ketiga & Jaringan Iklan</h3>
+  <p>Untuk mendukung kelangsungan operasional dan pemeliharaan website, blog ini dapat bekerja sama dengan mitra pihak ketiga (seperti Google AdSense atau jaringan periklanan tepercaya):</p>
+  <ul>
+    <li>Mitra pihak ketiga dapat menggunakan cookies (termasuk cookie DoubleClick DART) untuk menayangkan iklan yang relevan berdasarkan kunjungan pengguna ke situs ini dan situs lainnya di internet.</li>
+    <li>Pengguna dapat memilih untuk keluar dari penggunaan DART cookie dengan mengunjungi <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">Kebijakan Privasi Jaringan Iklan Google</a>.</li>
+  </ul>
+
+  <h3>4. Keamanan dan Perlindungan Data</h3>
+  <p>Seluruh transmisi data di situs ini dilindungi dengan enkripsi standar industri <strong>HTTPS / SSL</strong> melalui infrastruktur Cloudflare untuk memastikan keamanan data dari penyadapan atau manipulasi pihak yang tidak bertanggung jawab.</p>
+
+  <h3>5. Perlindungan Privasi Anak</h3>
+  <p>SHL Project berkomitmen untuk melindungi privasi anak-anak dalam penggunaan internet. Konten di situs ini ditujukan untuk kalangan umum dan pendidikan, serta tidak secara sengaja mengumpulkan informasi identitas pribadi apa pun dari anak-anak di bawah usia 13 tahun.</p>
+
+  <h3>6. Pembaruan Kebijakan Privasi</h3>
+  <p>Kebijakan Privasi ini dapat diperbarui dari waktu ke waktu sesuai dengan perkembangan teknis website atau regulasi yang berlaku. Setiap perubahan akan langsung dipublikasikan di halaman ini dengan tanggal pembaruan yang transparan.</p>
+
+  <h3>7. Pertanyaan & Kontak</h3>
+  <p>Jika kamu memiliki pertanyaan atau memerlukan informasi lebih lanjut mengenai Kebijakan Privasi ini, jangan ragu untuk menyapa kami melalui <a href="/contact/">Halaman Kontak</a>.</p>
 </PageLayout>

@@ -1,0 +1,126 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+
+const frontmatter = {
+  title: 'Hubungi Saya',
+  coverTitle: 'Kontak & Diskusi',
+  description: 'Hubungi SHL Project untuk pertanyaan artikel, diskusi kajian muamalah, atau tawaran kerja sama.',
+  comments: true,
+};
+---
+
+<PageLayout frontmatter={frontmatter}>
+  <h2>Mari Terhubung & Berdiskusi</h2>
+
+  <p>Punya pertanyaan seputar artikel, ingin berdiskusi santai mengenai topik manajemen, fiqh muamalah, atau ada gagasan yang ingin diobrolkan bersama? Silakan gunakan formulir di bawah ini untuk mengirimkan pesan secara langsung, atau simak daftar pertanyaan umum (<em>FAQ</em>) yang sering ditanyakan.</p>
+
+  <hr />
+
+  <h3>Kirim Pesan Cepat</h3>
+
+  <div class="my-6 rounded-xl border border-border bg-card p-6 shadow-sm">
+    <form id="quick-contact-form" class="flex flex-col gap-4">
+      <div>
+        <label for="cf-name" class="mb-1.5 block text-sm font-semibold">Nama Lengkap / Panggilan:</label>
+        <input 
+          type="text" 
+          id="cf-name" 
+          class="w-full rounded-lg border border-border bg-background px-3.5 py-2.5 text-sm outline-none focus:border-primary focus:ring-1 focus:ring-primary" 
+        />
+      </div>
+
+      <div>
+        <label for="cf-topic" class="mb-1.5 block text-sm font-semibold">Tujuan / Keperluan:</label>
+        <select 
+          id="cf-topic" 
+          class="w-full rounded-lg border border-border bg-background px-3.5 py-2.5 text-sm outline-none focus:border-primary focus:ring-1 focus:ring-primary"
+        >
+          <option value="Pertanyaan Seputar Artikel">Pertanyaan seputar Artikel Blog</option>
+          <option value="Diskusi Manajemen & Bisnis">Diskusi Manajemen & Bisnis</option>
+          <option value="Kajian Fiqh Muamalah">Diskusi / Kajian Fiqh Muamalah</option>
+          <option value="Tawaran Kerjasama & Proyek">Tawaran Kerjasama & Proyek</option>
+          <option value="Sapaan Santai">Lainnya / Sapa Santai</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="cf-msg" class="mb-1.5 block text-sm font-semibold">Isi Pesan:</label>
+        <textarea 
+          id="cf-msg" 
+          rows="4" 
+          placeholder="Tuliskan pertanyaan atau pesanmu di sini..." 
+          required 
+          class="w-full resize-y rounded-lg border border-border bg-background px-3.5 py-2.5 text-sm outline-none focus:border-primary focus:ring-1 focus:ring-primary"
+        ></textarea>
+      </div>
+
+      <button 
+        type="submit" 
+        class="inline-flex items-center justify-center rounded-lg bg-blue-600 px-6 py-3 text-sm font-bold text-white transition-colors hover:bg-blue-700 active:scale-[0.98]"
+      >
+        Kirim Pesan
+      </button>
+    </form>
+  </div>
+
+  <hr />
+
+  <h3>Pertanyaan Umum (FAQ)</h3>
+
+  <details class="my-3 rounded-lg border border-border bg-card p-4">
+    <summary class="cursor-pointer font-bold select-none text-primary hover:underline">
+      Berapa lama pesan saya akan dibalas?
+    </summary>
+    <div class="mt-2.5 text-sm leading-relaxed opacity-90">
+      Pesan biasanya dibaca dan direspons dalam waktu 1×24 jam di hari kerja. Di akhir pekan, respon mungkin sedikit lebih lambat karena waktu santai berkebun.
+    </div>
+  </details>
+
+  <details class="my-3 rounded-lg border border-border bg-card p-4">
+    <summary class="cursor-pointer font-bold select-none text-primary hover:underline">
+      Bolehkah saya mengutip atau membagikan artikel blog ini?
+    </summary>
+    <div class="mt-2.5 text-sm leading-relaxed opacity-90">
+      Tentu sangat boleh! Silakan bagikan tulisan di sini untuk tujuan edukasi dan kebaikan, dengan tetap menyertakan tautan sumber asli (link blog) sebagai bentuk etika dan apresiasi.
+    </div>
+  </details>
+
+  <details class="my-3 rounded-lg border border-border bg-card p-4">
+    <summary class="cursor-pointer font-bold select-none text-primary hover:underline">
+      Apakah terbuka untuk kerja sama penulisan atau riset?
+    </summary>
+    <div class="mt-2.5 text-sm leading-relaxed opacity-90">
+      Sangat terbuka untuk kolaborasi edukatif, penulisan artikel, kajian literasi bisnis syariah, maupun proyek pengembangan perangkat lunak yang bermanfaat bagi masyarakat luas.
+    </div>
+  </details>
+</PageLayout>
+
+<script>
+  function setupContactForm() {
+    const form = document.getElementById('quick-contact-form');
+    if (!form) return;
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const nameInput = document.getElementById('cf-name') as HTMLInputElement;
+      const topicInput = document.getElementById('cf-topic') as HTMLSelectElement;
+      const msgInput = document.getElementById('cf-msg') as HTMLTextAreaElement;
+
+      const name = nameInput?.value?.trim() || 'Pembaca';
+      const topic = topicInput?.value || 'Tanya Artikel';
+      const msg = msgInput?.value?.trim();
+
+      if (!msg) {
+        alert('Silakan tuliskan pesan Anda terlebih dahulu.');
+        return;
+      }
+
+      const text = encodeURIComponent(`Halo SHL Project,\n\nNama: ${name}\nKeperluan: ${topic}\n\nPesan:\n${msg}`);
+      window.open(`https://t.me/shlproject?text=${text}`, '_blank');
+    });
+  }
+
+  // Setup on initial load and Astro page transitions
+  setupContactForm();
+  document.addEventListener('astro:page-load', setupContactForm);
+</script>

@@ -1,96 +1,56 @@
 ---
 layout: ../layouts/PageLayout.astro
-title: "Tentang Saya"
-coverTitle: "Tentang SHL Project"
+title: "Tentang SHL Project"
+coverTitle: "Tentang Blog Ini"
 date: 2026-09-01 18:00:00
-description: "Mengenal lebih dekat Syahril (SHL PROJECT) — Akademisi, Praktisi Bisnis Syariah, Android Developer, dan AI Enthusiast."
-comments: true
+description: "Mengenal lebih dekat SHL Project — Ruang berbagi seputar manajemen, ekonomi, fiqh bisnis, teknologi, dan catatan keseharian."
+comments: false
 ---
 
-# Selamat Datang di Ruang Digital Saya! 👋
+# Selamat Datang di SHL Project 👋
 
-Halo! Terima kasih banyak sudah menyempatkan waktu singgah di **SHL Project**. 
+Halo! Terima kasih banyak sudah meluangkan waktu untuk singgah di sudut digital ini.
 
-Blog ini lahir dari perjumpaan antara dunia **akademik, bisnis syariah, rekayasa perangkat lunak (software engineering), dan kecerdasan buatan (AI)**. Saya percaya bahwa ilmu pengetahuan dan teori yang mendalam akan jauh lebih berdaya guna ketika mampu diterjemahkan menjadi solusi praktis, alat bantu nyata, dan karya digital yang membumi.
-
-```infographic list-grid-badge-card
-data
-  items
-    - label Riset & Akademik
-      desc Islamic Economics & Business Studies
-      icon mdi/school
-    - label Software & Android
-      desc Kotlin, Jetpack Compose, & Modern Web
-      icon mdi/android
-    - label AI & Automation
-      desc Autonomous Agents & Edge Computing
-      icon mdi/robot
-    - label Konten & Komunitas
-      desc Edukasi Praktis & Literasi Digital
-      icon mdi/book-open-page-variant
-theme
-  palette
-    - #3b82f6
-    - #10b981
-    - #8b5cf6
-    - #f59e0b
-```
+Blog ini hadir sebagai ruang belajar mandiri dan catatan terbuka. Tempat mendokumentasikan pemikiran, merangkum intisari ilmu, serta merangkai gagasan agar tidak menguap begitu saja. Bagi saya, ilmu yang bermanfaat adalah ilmu yang tidak berhenti di kepala atau tumpukan buku, melainkan mampu disajikan secara sederhana, praktis, dan membumi.
 
 ---
 
-## 👤 Siapa di Balik Layar?
+## 🌿 Siapa di Balik Layar?
 
-Saya adalah **Syahril**, seorang pendidik, peneliti, dan pengembang digital yang berdomisili di **Salatiga, Jawa Tengah**.
+Saya hanya seorang pembelajar yang menyukai dunia **pendidikan, manajemen, dan kajian fiqh muamalah**, sekaligus menikmati ritme kehidupan yang tenang (*slow living*)—seperti merangkai tulisan di sela waktu luang, menikmati secangkir teh hangat, atau sekadar merawat tanaman di kebun mini depan rumah.
 
-Keseharian saya bergerak di persimpangan yang dinamis:
-* **Di Ranah Akademik:** Mengkaji dan mengembangkan materi seputar ==Manajemen, Ekonomi, Fiqh Muamalah, dan Tata Kelola Bisnis Islam== di lingkungan perguruan tinggi.
-* **Di Ranah Teknologi:** Mengembangkan aplikasi mobile Android (seperti aplikasi Al-Qur'an offline pro, reminder ibadah, dan platform PWA) dengan arsitektur modern (*Kotlin, Jetpack Compose, Glance Widgets, Material 3*), serta merancang pipeline web generasi baru (*Astro, Cloudflare Edge, dan Serverless*).
-* **Di Ranah AI & Otomasi:** Bereksperimen dengan sistem *multi-agent*, *edge intelligence*, dan *knowledge base architecture* di ekosistem **CIORA**.
+Di luar ketertarikan pada literasi bisnis dan pendidikan, saya juga senang bereksperimen dengan dunia teknologi, koding, dan desain. Perpaduan antara ketelitian logika sistem dan ketenangan menulis inilah yang melahirkan setiap artikel di blog ini.
 
 ---
 
-## 🧭 Apa yang Bisa Kamu Temukan di Blog Ini?
+## 🧭 Apa yang Ada di Blog Ini?
 
-```infographic sequence-zigzag-steps-underline-text
-data
-  items
-    - label 1. Edukasi & Muamalah
-      desc Ulasan santai seputar ekonomi, manajemen, dan fiqh bisnis
-    - label 2. Engineering & AI
-      desc Catatan teknis Android, web development, dan eksperimen agentic
-    - label 3. Business Tools
-      desc Kalkulator dan instrumen digital praktis untuk UMKM
-    - label 4. Refleksi & Opini
-      desc Sudut pandang personal mengenai produktivitas dan ritme hidup
-```
+Di dalam **SHL Project**, kamu akan menemukan berbagai topik yang dirangkum ke dalam beberapa pilar utama:
 
-1. **📚 Ekonomi, Manajemen, & Fiqh Muamalah:**  
-   Artikel berbobot namun disajikan dengan gaya obrolan teman sebaya—tanpa bahasa kaku dan jargon yang memusingkan—agar prinsip bisnis yang benar dan berkah bisa dipahami oleh siapa saja.
-2. **📱 Catatan Koding & Rekayasa AI:**  
-   Dokumentasi *hands-on* seputar arsitektur mobile, optimasi performa web di *edge network*, dan integrasi model AI cerdas.
-3. **🧮 Alat Bantu & Kalkulator Bisnis:**  
-   Inisiatif pembuatan aplikasi web mini dan kalkulator terukur (seperti perhitungan zakat, HPP, margin syariah, dan instrumen operasional UMKM).
+* 📚 **Ekonomi, Manajemen & Bisnis:**  
+  Ulasan konseptual dan praktis seputar pengelolaan usaha, manajemen risiko, strategi keuangan, dan literasi ekonomi yang dibawakan dengan bahasa santai layaknya obrolan teman sebaya.
+* ⚖️ **Kajian Fiqh & Muamalah:**  
+  Edukasi seputar etika bisnis Islam, prinsip kejujuran dalam berniaga, dan panduan muamalah sehari-hari agar aktivitas usaha tetap tenang, berkah, dan sesuai syariat.
+* 💻 **Kreatif, Web & Teknologi:**  
+  Catatan teknis, eksplorasi antarmuka (*UI/UX*), pengembangan aplikasi, dan pemanfaatan teknologi modern untuk mempermudah produktivitas.
+* ☕ **Catatan Keseharian & Refleksi:**  
+  Sudut pandang personal mengenai proses belajar, kebiasaan baik, dan seni menikmati ritme hidup yang bermakna.
 
 ---
 
-## 💡 Nilai & Prinsip Hidup
+## 💡 Filosofi & Landasan
 
 > **"Amalan yang paling dicintai Allah adalah amalan yang rutin dilakukan meskipun sedikit."**  
 > *(HR. Bukhari & Muslim)*
 
-Prinsip kontinuitas dan kesederhanaan (*istiqamah*) ini menjadi fondasi bagi setiap karya yang saya bangun: dari baris kode yang ditulis, draf artikel yang dipublikasikan, hingga riset kurikulum yang dirumuskan. 
-
-Bagi saya, teknologi bukan tujuan akhir, melainkan **sarana ikhtiar** untuk menyebarkan manfaat yang lebih luas dan abadi.
+Prinsip kontinuitas dan keistiqamahan ini adalah jiwa dari blog ini. Tidak perlu muluk-muluk membuat sesuatu yang langsung sempurna; yang terpenting adalah konsisten melangkah, terus belajar memperbaiki diri, dan menebar manfaat sekecil apa pun yang kita bisa.
 
 ---
 
-## 🤝 Mari Terhubung & Berdiskusi!
+## 🤝 Terhubung & Bersilaturahmi
 
-Punya pertanyaan, ide kolaborasi, tawaran riset/proyek, atau sekadar ingin bertukar pikiran santai? Pintu komunikasi selalu terbuka lebar:
+Jika kamu punya pertanyaan seputar artikel, ingin berdiskusi santai, atau sekadar bertukar sapa, silakan kunjungi halaman kontak kami:
 
-* 📧 **Email:** [kontak@shlproject.com](mailto:kontak@shlproject.com)
-* 🐙 **GitHub:** [github.com/shl-project-acc](https://github.com/shl-project-acc)
-* 📱 **Telegram:** [@shlproject](https://t.me/shlproject)
-* 🌐 **Jaringan Web:** [www.shlproject.com](https://www.shlproject.com)
+👉 **[Buka Halaman Kontak](/contact/)**
 
-Terima kasih sudah meluangkan waktu berharga untuk membaca profil ini. Semoga setiap tulisan di sini membawa percikan manfaat dan inspirasi bagi langkahmu! ✨
+Semoga setiap baris tulisan di sini bisa memberikan sedikit sudut pandang baru dan manfaat nyata untukmu. Selamat membaca dan menjelajah! ✨
