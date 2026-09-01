@@ -74,7 +74,6 @@ Berikut visualisasi ringkas keempat strategi tersebut:
 ```infographic
 infographic list-grid-badge-card
 data
-  title 4 Respon Risiko
   items
     - label Terminate
       desc Hindari bahaya fatal
@@ -135,7 +134,6 @@ Matriks ini cuma melihat dua sumbu sederhana:
 ```infographic
 infographic list-grid-candy-card-lite
 data
-  title Kuadran Matriks Risiko
   items
     - label Terminate
       desc Sering & Fatal (Scam / Ponzi)
@@ -169,7 +167,6 @@ Teori di atas bakal jadi tumpukan teks yang tidak berguna kalau tidak pernah dip
 ```infographic
 infographic sequence-zigzag-steps-underline-text
 data
-  title Alur 3 Langkah
   items
     - label Sesi Paranoia
       desc Tulis semua potensi masalah
