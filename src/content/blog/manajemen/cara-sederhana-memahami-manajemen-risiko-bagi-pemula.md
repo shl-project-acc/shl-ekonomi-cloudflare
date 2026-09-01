@@ -71,7 +71,8 @@ Dalam dunia manajemen risiko, ada satu kerangka kerja paling populer dan sangat 
 
 Berikut visualisasi ringkas keempat strategi tersebut:
 
-```infographic list-grid-badge-card
+```infographic
+infographic list-grid-badge-card
 data
   title 4 Jurus Sakti Menghadapi Risiko
   desc Panduan respon praktis memilah setiap ancaman
@@ -132,7 +133,8 @@ Matriks ini cuma melihat dua sumbu sederhana:
 1. **Peluang Terjadinya (*Likelihood/Probability*):** Seberapa sering atau seberapa besar kemungkinan hal itu terjadi? (Jarang vs Sering)
 2. **Dampak Kerugiannya (*Impact/Consequence*):** Seberapa parah kerusakan atau kerugian yang ditimbulkan kalau hal itu beneran terjadi? (Kecil vs Fatal)
 
-```infographic quadrant-quarter-simple-card
+```infographic
+infographic quadrant-quarter-simple-card
 data
   title Matriks Risiko Pemula
   items
@@ -165,7 +167,8 @@ Dengan memplot setiap kekhawatiranmu ke dalam 4 kotak ini, pikiranmu bakal langs
 
 Teori di atas bakal jadi tumpukan teks yang tidak berguna kalau tidak pernah dipraktikkan. Buat kamu yang saat ini sedang merencanakan sesuatu—entah itu mau mulai jualan online, bikin channel YouTube, mengerjakan skripsi, atau mengelola keuangan pribadi—coba ikuti alur tiga langkah bertahap ini:
 
-```infographic sequence-zigzag-steps-underline-text
+```infographic
+infographic sequence-zigzag-steps-underline-text
 data
   title 3 Langkah Memulai Manajemen Risiko
   items
