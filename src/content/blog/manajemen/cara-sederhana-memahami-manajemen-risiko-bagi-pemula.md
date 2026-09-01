@@ -74,8 +74,7 @@ Berikut visualisasi ringkas keempat strategi tersebut:
 ```infographic
 infographic list-grid-badge-card
 data
-  title 4 Jurus Respon Risiko
-  desc Strategi praktis menghadapi ketidakpastian
+  title 4 Respon Risiko
   items
     - label Terminate
       desc Hindari bahaya fatal
@@ -84,7 +83,7 @@ data
       desc Kurangi dampaknya
       icon mdi/wrench
     - label Transfer
-      desc Alihkan ke pihak ketiga
+      desc Alihkan ke pihak lain
       icon mdi/share-all
     - label Tolerate
       desc Terima risiko kecil
@@ -134,22 +133,22 @@ Matriks ini cuma melihat dua sumbu sederhana:
 2. **Dampak Kerugiannya (*Impact/Consequence*):** Seberapa parah kerusakan atau kerugian yang ditimbulkan kalau hal itu beneran terjadi? (Kecil vs Fatal)
 
 ```infographic
-infographic quadrant-quarter-simple-card
+infographic list-grid-candy-card-lite
 data
-  title Matriks Risiko
+  title Kuadran Matriks Risiko
   items
     - label Terminate
-      desc Sering & Fatal
-      illus notify
+      desc Sering & Fatal (Scam / Ponzi)
+      icon mdi/alert-octagon
     - label Treat
-      desc Sering & Kecil
-      illus coffee
+      desc Sering & Kecil (SOP Kasir)
+      icon mdi/cog-sync
     - label Transfer
-      desc Jarang & Fatal
-      illus invest
+      desc Jarang & Fatal (Kebakaran Ruko)
+      icon mdi/shield-sync
     - label Tolerate
-      desc Jarang & Kecil
-      illus diary
+      desc Jarang & Kecil (Pulpen Hilang)
+      icon mdi/check-decagram
 ```
 
 Mari kita bedah kotak-kotak matriks di atas:

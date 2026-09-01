@@ -13,7 +13,12 @@ import { openModal } from '@store/modal';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 
 function getFontConfig(locale: string) {
-  const fontFamily = locale === 'ja' ? 'Gen Jyuu Gothic P' : '寒蝉全圆体';
+  const fontFamily =
+    locale === 'ja'
+      ? 'Gen Jyuu Gothic P, sans-serif'
+      : locale === 'zh'
+        ? '寒蝉全圆体, system-ui, sans-serif'
+        : 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif';
   return `
 theme
   base

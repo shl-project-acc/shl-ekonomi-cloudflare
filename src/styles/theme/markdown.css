@@ -692,11 +692,20 @@
   border: 1px solid hsl(var(--border));
   border-top: none;
   margin: 0;
-  overflow: auto;
+  padding: 1rem 0.5rem;
+  overflow-x: auto;
+  overflow-y: hidden;
   background-color: hsl(var(--card));
   box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
   min-height: 200px;
-  min-width: min(920px, 100%);
+  width: 100%;
+}
+
+.infographic-container svg {
+  max-width: 100%;
+  height: auto !important;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Override infographic text wrapping - prevent title and label wrapping */
