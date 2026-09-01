@@ -702,7 +702,13 @@
 /* Override infographic text wrapping - prevent title and label wrapping */
 .infographic-container foreignObject[data-element-type="title"] span,
 .infographic-container foreignObject[data-element-type="desc"] span {
-  letter-spacing: -1px;
+  letter-spacing: normal;
+  line-height: 1.3;
+}
+
+.infographic-container foreignObject span {
+  word-break: normal;
+  overflow-wrap: normal;
 }
 
 /* Fullscreen SVG container */

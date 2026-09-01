@@ -74,20 +74,20 @@ Berikut visualisasi ringkas keempat strategi tersebut:
 ```infographic
 infographic list-grid-badge-card
 data
-  title 4 Jurus Sakti Menghadapi Risiko
-  desc Panduan respon praktis memilah setiap ancaman
+  title 4 Jurus Respon Risiko
+  desc Strategi praktis menghadapi ketidakpastian
   items
     - label Terminate
-      desc Hindari sumber bahaya fatal secara total
+      desc Hindari bahaya fatal
       icon mdi/shield-alert
     - label Treat
-      desc Pasang proteksi dan kurangi dampaknya
+      desc Kurangi dampaknya
       icon mdi/wrench
     - label Transfer
-      desc Alihkan kerugian besar ke pihak ketiga
+      desc Alihkan ke pihak ketiga
       icon mdi/share-all
     - label Tolerate
-      desc Terima risiko kecil yang terkendali
+      desc Terima risiko kecil
       icon mdi/check-circle
 theme
   palette
@@ -136,19 +136,19 @@ Matriks ini cuma melihat dua sumbu sederhana:
 ```infographic
 infographic quadrant-quarter-simple-card
 data
-  title Matriks Risiko Pemula
+  title Matriks Risiko
   items
-    - label Terminate (Hindari)
-      desc Sering & Fatal (Contoh: Scam / Judi)
+    - label Terminate
+      desc Sering & Fatal
       illus notify
-    - label Treat (Kendalikan)
-      desc Sering tapi Kecil (Contoh: SOP Kasir)
+    - label Treat
+      desc Sering & Kecil
       illus coffee
-    - label Transfer (Alihkan)
-      desc Jarang tapi Fatal (Contoh: Kebakaran / Logistik)
+    - label Transfer
+      desc Jarang & Fatal
       illus invest
-    - label Tolerate (Terima)
-      desc Jarang & Kecil (Contoh: Sedotan / Pulpen Hilang)
+    - label Tolerate
+      desc Jarang & Kecil
       illus diary
 ```
 
@@ -170,14 +170,14 @@ Teori di atas bakal jadi tumpukan teks yang tidak berguna kalau tidak pernah dip
 ```infographic
 infographic sequence-zigzag-steps-underline-text
 data
-  title 3 Langkah Memulai Manajemen Risiko
+  title Alur 3 Langkah
   items
-    - label 1. Sesi Paranoia
-      desc Tuliskan semua potensi masalah tanpa filter ke dalam Risk Register
-    - label 2. Pasang Strategi
-      desc Plotting ke matriks 4T dan tentukan Action Plan nyata
-    - label 3. Monitoring Rutin
-      desc Tinjau ulang catatan secara berkala sebulan sekali
+    - label Sesi Paranoia
+      desc Tulis semua potensi masalah
+    - label Susun Strategi
+      desc Plotting ke matriks 4T
+    - label Evaluasi Rutin
+      desc Tinjau catatan berkala
 ```
 
 ### Langkah 1: Bikin Sesi "Paranoia Terjadwal" (Risk Identification)
