@@ -4,17 +4,9 @@ title: "Musik"
 description: "Daftar putar musik favorit saya"
 ---
 
-Di halaman ini, bisa membagikan daftar lagu atau *playlist* musik favorit Anda.
+## Mengapa Ada Halaman Musik?
 
-Gunakan tag `{% media audio %}` untuk menyematkan lagu dari platform musik (seperti NetEase atau QQ Music) seperti contoh berikut:
-
-```markdown
-{% media audio %}
-- title: Playlist Saya
-  list:
-    - https://music.163.com/#/playlist?id=ID_PLAYLIST_ANDA
-{% endmedia %}
-```
+Di sela waktu riset, menulis, dan coding, musik sering kali menjadi teman yang menenangkan pikiran. Halaman ini memuat daftar putar (*playlist*) musik pilihan yang biasa saya dengarkan.
 
 {% media audio %}
 - title: Playlist A

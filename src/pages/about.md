@@ -7,7 +7,7 @@ description: "Mengenal lebih dekat SHL Project — Ruang berbagi seputar manajem
 comments: false
 ---
 
-# Selamat Datang di SHL Project 👋
+## Selamat Datang di SHL Project 👋
 
 Halo! Terima kasih banyak sudah meluangkan waktu untuk singgah di sudut digital ini.
 

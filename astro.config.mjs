@@ -237,7 +237,9 @@ export default defineConfig({
   },
   integrations: [
     react(),
-    sitemap(),
+    sitemap({
+      filter: (page) => !page.includes('/bangumi'),
+    }),
     icon({
       include: {
         gg: ['*'],
