@@ -406,18 +406,30 @@ bgm:
   enabled: true  # (有 audio 时自动启用，显式 false 可禁用)
   # metingApi: https://163.hyc.moe/  # Meting API 地址，默认为 https://163.hyc.moe/，推荐自部署
   audio:
-    - title: Playlist A
+    - title: US Billboard Hot 100
       list:
-        - https://music.163.com/playlist?id=8676645748
-    - title: Playlist B
+        - https://music.163.com/playlist?id=60198
+    - title: UK Official Top Hits
       list:
-        - https://music.163.com/playlist?id=8882890045
-    - title: Playlist C
+        - https://music.163.com/playlist?id=180106
+    - title: iTunes Global Top
       list:
-        - https://music.163.com/playlist?id=7483326429
-    - title: Playlist D
+        - https://music.163.com/playlist?id=11641012
+    - title: English Indie & Chill
       list:
-        - https://music.163.com/playlist?id=8882890045
+        - https://music.163.com/playlist?id=2809513713
+    - title: Lofi Instrumental Beats
+      list:
+        - https://music.163.com/playlist?id=26467411
+    - title: Electronic Chill
+      list:
+        - https://music.163.com/playlist?id=3812895
+    - title: Anime & Japanese Chill
+      list:
+        - https://music.163.com/playlist?id=60131
+    - title: Study & Focus Piano
+      list:
+        - https://music.163.com/playlist?id=706900186
 
 christmas:
   enabled: false # 总开关
