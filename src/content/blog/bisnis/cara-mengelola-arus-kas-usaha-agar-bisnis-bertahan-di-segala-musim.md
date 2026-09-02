@@ -20,7 +20,7 @@ tags:
   - shl project
   - bisnis pemula
 description: Panduan praktis mengelola arus kas usaha agar bisnis tidak mati mendadak di tengah jalan. Pelajari cara membaca cash flow, mencegah piutang macet, dan menghitung runway cadangan dana dengan santai.
-cover: https://img.shlproject.com/2026/09/cb5410b5229420ffca7d2a3a353aa43e.webp
+cover: https://img.shlproject.com/2026/09/987c1e7559dce17c30b6cc6e559e9a4a.webp
 ---
 
 Pernah nggak kamu punya kenalan yang gayanya di media sosial sudah mirip konglomerat minyak dari Timur Tengah, posting foto di depan mobil sewaan sambil pamer tangkapan layar omzet penjualan ratusan juta rupiah, tapi pas diajak nongkrong makan bakso di pinggir jalan tiba-tiba bisik-bisik, *"Bro, talangin dulu ya, nanti sore gue transfer"*?
@@ -36,6 +36,8 @@ Di artikel kali ini lewat **shl project**, kita bakal menguliti tuntas soal mana
 ***
 
 ## Oksigen Utama yang Menentukan Hidup Matinya Usaha
+
+![Manajemen Arus Kas Usaha](https://img.shlproject.com/2026/09/987c1e7559dce17c30b6cc6e559e9a4a.webp)
 
 Mari kita buat perumpamaan yang paling gampang dibayangkan oleh akal sehat kita.
 

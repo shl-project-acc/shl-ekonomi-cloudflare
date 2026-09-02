@@ -35,6 +35,8 @@ Di artikel kali ini lewat **shl project**, kita bakal membedah seluruh proses me
 
 ## Kenapa Banyak Bisnis Baru Tumbang di Tahun Pertama
 
+![Strategi Bisnis dari Nol](https://img.shlproject.com/2026/09/cb5410b5229420ffca7d2a3a353aa43e.webp)
+
 Kalau kita melihat data statistik kewirausahaan di berbagai belahan dunia, ada kenyataan pahit yang harus kita telan bersama: mayoritas bisnis rintisan baru gulung tikar sebelum sempat merayakan ulang tahun pertamanya. Kenapa hal ini bisa terjadi berulang kali pada ribuan pengusaha pemula?
 
 Apakah karena mereka kurang modal? Atau karena mereka kurang bekerja keras banting tulang dari pagi sampai subuh?
