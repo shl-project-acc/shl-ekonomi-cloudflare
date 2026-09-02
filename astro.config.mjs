@@ -238,7 +238,7 @@ export default defineConfig({
   integrations: [
     react(),
     sitemap({
-      filter: (page) => !page.includes('/bangumi') && !page.includes('/music'),
+      filter: (page) => !page.includes('/bangumi'),
     }),
     icon({
       include: {

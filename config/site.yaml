@@ -394,17 +394,44 @@ navigation:
         nameKey: nav.archives
         path: /archives
         icon: ri:archive-2-fill
-  # - name: Music
-  #   nameKey: nav.music
-  #   path: /music
-  #   icon: ri:music-2-fill
+  - name: Music
+    nameKey: nav.music
+    path: /music
+    icon: ri:music-2-fill
     
 # =============================================================================
 # Christmas/Seasonal Features
 # =============================================================================
 bgm:
-  enabled: false  # (Matikan BGM floating player)
-  audio: []
+  enabled: true  # (BGM floating player aktif)
+  audio:
+    - title: US Billboard Hot 100
+      list:
+        - https://music.163.com/playlist?id=60198
+    - title: UK Official Top Hits
+      list:
+        - https://music.163.com/playlist?id=180106
+    - title: Lofi Instrumental Beats
+      list:
+        - https://music.163.com/playlist?id=26467411
+    - title: Oldies 70s 80s 90s Classics
+      list:
+        - https://music.163.com/playlist?id=2884035
+    - title: Evergreen Nostalgia Hits
+      list:
+        - https://music.163.com/playlist?id=19723756
+    - title: Nature Forest & Ambient
+      list:
+        - https://music.163.com/playlist?id=2110255301
+    - title: Electronic Lounge
+      list:
+        - https://music.163.com/playlist?id=3812895
+    - title: Anime & Japanese Chill
+      list:
+        - https://music.163.com/playlist?id=60131
+    - title: Study & Focus Piano
+      list:
+        - https://music.163.com/playlist?id=706900186
 
 christmas:
   enabled: false # 总开关
