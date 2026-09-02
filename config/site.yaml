@@ -11,9 +11,9 @@
 # Site Basic Information
 # =============================================================================
 site:
-  title: Catatan Pribadi dan Artikel # 网站名称 [ID] UBAH: Ganti dengan Nama Web Anda
-  alternate: SHL PROJECT # 网站英文名称 用于页脚、Logo、@ handle 等 [ID] UBAH: Nama alternatif (bisa pakai nama Anda)
-  subtitle: Amalan yang paling dicintai Allah adalah amalan yang rutin dilakukan meskipun sedikit # 网站副标题 [ID] UBAH: Slogan atau Sub-judul web Anda
+  title: "Catatan Pribadi dan Artikel" # 网站名称
+  alternate: "SHL PROJECT" # 网站英文名称 用于页脚、Logo、@ handle 等
+  subtitle: "Amalan yang paling dicintai Allah adalah amalan yang rutin dilakukan meskipun sedikit" # 网站副标题
   name: SHL # 作者名称 - 请修改为你的名字 [ID] UBAH: Nama panggilan Anda
   description: Dari Ilmu ke Amal, Dari Teori ke Praktik # 网站描述 [ID] UBAH: Deskripsi web untuk SEO Google
   avatar: /img/avatarnews.gif # 网站头像 [ID] URL Foto Profil (Biarkan dulu jika belum diganti fotonya)
@@ -51,13 +51,12 @@ site:
 i18n:
   defaultLocale: en # [ID] UBAH: Ganti 'zh' menjadi 'en' agar bahasanya berubah jadi Inggris
   locales:
-    - code: zh
-      label: 中文
     - code: en
       label: English
-      # enabled: false  # 内容存在但暂时禁用（保留内容但不生成路由）
-    - code: ja
-      label: 日本語
+    # - code: zh
+    #   label: 中文
+    # - code: ja
+    #   label: 日本語
 
 # =============================================================================
 # Category Map
@@ -98,19 +97,19 @@ categoryMap:
 featuredCategories:
   - link: ekonomi # [ID] Sesuai dengan kategori slug di categoryMap
     label: Ekonomi # [ID] Judul yang tampil di atas gambar
-    image: /img/cover/2.webp # [ID] Lokasi gambar sampul (bisa diganti gambarnya di folder public)
+    image: https://img.shlproject.com/2026/09/4600f7785b8310af77250d81c86abaf7.webp
     description: Catatan seputar ekonomi # [ID] Deskripsi singkat
   - link: manajemen
     label: Manajemen
-    image: /img/cover/4.webp
+    image: https://img.shlproject.com/2026/09/f9ae56d7fb17dcfcf7b56d0f8b06d322.webp
     description: Teori dan praktik manajemen
   - link: bisnis
     label: Bisnis
-    image: /img/cover/1.webp
+    image: https://img.shlproject.com/2026/09/023764d2f389f4aa2a56bd1b41472c5d.webp
     description: Dunia bisnis dan strategi
   - link: fiqh
     label: Fiqh
-    image: /img/cover/11.webp
+    image: https://img.shlproject.com/2026/09/af463e67eee50cf53a2248d07cb2cc73.webp
     description: Kajian ilmu fiqh
 
 # =============================================================================
@@ -137,7 +136,7 @@ featuredSeries:
     fullName: Weekly # 完整名称 [ID] UBAH: Nama panjang seri
     description: | # 支持多行 Markdown [ID] UBAH: Deskripsi seri (boleh teks panjang)
       Khusus di halaman ini, saya kumpulin catatan pribadi. Isinya campur aduk, kadang soal ekonomi atau bisnis, kadang tips belajar maupun fiqih, kadang juga hal-hal random yang lagi bikin penasaran atau sekadar hobi. Semua ditulis santai, diperbarui sesekali, siapa tahu ada yang berguna atau minimal bisa jadi teman baca.
-    cover: /img/weekly_header.webp # 系列页面头图
+    cover: https://img.shlproject.com/2026/09/4600f7785b8310af77250d81c86abaf7.webp # 系列页面头图
     enabled: true # 启用此系列
     icon: ri:newspaper-line # 导航图标
     links: # 相关链接（可选）

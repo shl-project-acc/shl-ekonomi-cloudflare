@@ -211,10 +211,8 @@ export const icpConfig: { text: string; link?: string } | undefined = (() => {
   return raw;
 })();
 
-const { title, alternate, subtitle } = siteConfig;
-
 export const seoConfig = {
-  title: `${alternate ? `${alternate} = ` : ''}${title}${subtitle ? ` = ${subtitle}` : ''}`,
+  title: 'Catatan Pribadi dan Artikel | SHL PROJECT',
   description: siteConfig.description,
   keywords: siteConfig?.keywords?.join(',') ?? '',
   url: siteConfig.site,
