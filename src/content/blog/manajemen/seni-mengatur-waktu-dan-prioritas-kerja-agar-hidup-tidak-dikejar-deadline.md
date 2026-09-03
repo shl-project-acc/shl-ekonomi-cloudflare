@@ -38,8 +38,6 @@ Sekarang, ada satu aset paling adil sekaligus paling kejam di muka bumi yang waj
 
 Di artikel pilar kali ini lewat **shl project**, kita bakal mengupas tuntas seni manajemen waktu dan seni memilah prioritas kerja dengan bahasa yang santai, guyonan yang membumi, analogi yang dekat dengan realita tongkrongan, serta simulasi studi kasus super detail dari titik stres sampai hidup tenang. Kita awali dengan membongkar ilusi paling berbahaya yang sering mengecoh kita saat bekerja.
 
-***
-
 ## Ilusi Sibuk dan Perbedaan Nyata Antara Banyak Gerak dengan Menghasilkan Karya
 
 Banyak orang yang merasa bangga ketika ditanya oleh temannya, *"Gimana kabarmu bro?"*, lalu menjawab dengan wajah lelah yang dibuat-buat, *"Wah sibuk banget nih, kerjaan numpuk nggak ada habisnya!"*.
@@ -75,8 +73,6 @@ Biar kamu makin jelas melihat perbedaan mendasar antara kedua kondisi ini, mari 
 
 Setelah kita sadar bahwa produktivitas sejati adalah soal hasil nyata dan bukan soal pamer kesibukan, mari kita selidiki kenapa otak manusia sering kali sangat pandai menunda pekerjaan penting.
 
-***
-
 ## Musuh Terbesar Bernama Prokrastinasi dan Cara Otak Menipu Diri Sendiri
 
 Pernah nggak kamu bertanya-tanya, kenapa waktu disuruh menyelesaikan tugas penting seperti menyusun laporan skripsi atau membuat proposal bisnis baru, tiba-tiba kamar tidurmu terasa sangat kotor dan mendadak kamu punya dorongan kuat untuk menyapu lantai dan merapikan rak sepatu?
@@ -100,8 +96,6 @@ Kamu merasa tetap beraktivitas, merasa tidak malas-malasan, padahal hakikatnya k
 Ingat satu prinsip penting ini: *!!Menunda pekerjaan yang sulit tidak akan pernah membuatnya menjadi lebih mudah, ia hanya menumpuk beban kecemasan di kepalamu sampai akhirnya meledak menjadi kepanikan massal di detik-detik terakhir deadline!!*.
 
 Lantas, bagaimana cara kita memutus rantai penundaan ini dan membedakan mana tugas yang beneran penting dengan tugas yang cuma bikin repot? Mari kita pelajari sebuah kompas manajemen prioritas yang sudah teruji melintasi zaman.
-
-***
 
 ## Membedah Matriks Eisenhower untuk Memilah Tugas Tanpa Pusing
 
@@ -190,8 +184,6 @@ Biar kamu makin gampang menghafal keempat jurus ini, mari kita rangkum dalam tab
 
 Setelah kamu mampu memilah tugas ke dalam kotak-kotak yang tepat, langkah teknis selanjutnya adalah bagaimana cara menyusun jam kerja harianmu agar tidak gampang buyar saat digempur gangguan.
 
-***
-
 ## Teknik Time Blocking dan Pomodoro untuk Menjaga Konsentrasi Penuh
 
 Pernah nggak kamu merasa sudah duduk di depan laptop selama delapan jam penuh, tapi saat jam kerja selesai kepalamu terasa pusing berat dan hasil kerjaanmu sangat sedikit?
@@ -230,8 +222,6 @@ Teknik Pomodoro membagi waktu kerjamu menjadi siklus kecil yang sangat teratur:
 Dengan menggabungkan sistem time blocking dan interval pomodoro ini, kamu tidak hanya bekerja lebih cepat, tetapi juga pulang kerja dengan pikiran yang tetap segar dan bugar.
 
 Namun, bagaimana jika teori-teori ini diuji dalam kerasnya realita dunia kerja yang penuh interupsi mendadak? Mari kita bedah satu simulasi studi kasus nyata yang sangat detail dari awal sampai akhir.
-
-***
 
 ## Simulasi Nyata Transformasi Manajemen Waktu dari Titik Frustrasi Menuju Keteraturan
 
@@ -283,8 +273,6 @@ Perjalanan Hendra membuktikan satu kebenaran mutlak: **kamu tidak butuh menambah
 
 Melihat simulasi konkret dari pengalaman Hendra di atas, sekarang kamu sudah mengantongi peta jalannya secara utuh. Lalu tindakan taktis apa yang bisa kamu eksekusi sore ini juga?
 
-***
-
 ## Langkah Aksi Nyata Merapikan Jadwal Kerjamu Mulai Hari Ini
 
 Merapikan manajemen waktu bukanlah tentang membeli aplikasi produktivitas yang rumit atau memasang alarm di setiap menit. Langkah awal menuju hidup yang teratur selalu dimulai dari keputusan sederhana yang langsung kamu praktikkan hari ini.
@@ -304,8 +292,6 @@ Berikut adalah daftar aksi nyata yang bisa langsung kamu jalankan:
 Waktu adalah modal hidup paling berharga yang tidak akan pernah bisa kita beli kembali dengan uang sebanyak apa pun. Menghargai waktumu sendiri adalah bentuk penghormatan tertinggi terhadap potensi dirimu dan amanah kehidupan yang telah dipercayakan kepadamu.
 
 Sebagai bekal pengingat cepat sebelum kamu menutup artikel ini dan mulai menata agendamu, mari kita rangkum poin-poin terpentingnya.
-
-***
 
 ## Ringkasan Singkat
 

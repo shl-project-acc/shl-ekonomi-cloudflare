@@ -34,8 +34,6 @@ Nah, setelah di artikel-artikel sebelumnya kita belajar cara menyusun strategi d
 
 Di artikel pilar kali ini lewat **shl project**, kita bakal membongkar rahasia meracik branding yang memikat dengan bahasa yang santai, perumpamaan tongkrongan yang renyah, guyonan membumi, dan simulasi studi kasus bisnis nyata dari titik nol sampai punya pelanggan fanatik. Kita mulai dari membedah mitos paling umum yang sering menyesatkan para pelaku usaha baru.
 
-***
-
 ## Mitos Logo Keren dan Definisi Sejati Sebuah Brand
 
 Mari kita mulai dengan sebuah pertanyaan jujur: apa yang pertama kali kamu pikirkan saat mendengar kata "brand"?
@@ -61,8 +59,6 @@ Kalau Joko orangnya suka ingkar janji dan sering berbohong, mau dia memakai jas 
 Begitu juga dengan bisnismu. Sebuah brand adalah **akumulasi dari seluruh pengalaman, emosi, janji kualitas, dan persepsi yang tertanam di benak pelanggan setiap kali mereka berinteraksi dengan tokomu**.
 
 Untuk memahami bagaimana sebuah brand bisa membuat konsumen rela membayar mahal tanpa menawar, mari kita bedah tingkatan piramida nilai yang membedakan komoditas mentah dengan produk ber-brand kuat.
-
-***
 
 ## Tiga Tingkatan Nilai dari Sekadar Komoditas Menuju Identitas Bergengsi
 
@@ -103,8 +99,6 @@ Biar kamu makin gampang memahami perbandingan ketiga tangga nilai ini, mari kita
 Pegang erat-erat rahasia emas ini: *!!Komoditas bersaing di dompet pembeli, tapi brand yang kuat bersaing di hati dan identitas diri pembeli!!*.
 
 Lantas, bagaimana langkah taktis meracik sebuah brand dari nol agar memiliki daya pikat emosional yang kuat seperti itu?
-
-***
 
 ## Empat Resep Rahasia Meracik Fondasi Brand yang Memikat dan Autentik
 
@@ -170,8 +164,6 @@ Hal-hal kecil yang manis dan tak terduga inilah yang sering kali membuat pelangg
 
 Agar kamu bisa melihat bagaimana seluruh teori resep branding ini diterapkan secara konkret di dunia nyata, mari kita bedah satu simulasi studi kasus bisnis lengkap dari awal berdiri sampai sukses membangun basis pelanggan fanatik.
 
-***
-
 ## Simulasi Nyata Transformasi Usaha Keripik Singkong dari Titik Sepi Menuju Produk Rebutan
 
 Biar pemahamanmu makin mantap dan tidak mengawang-awang, mari kita bedah kisah perjalanan nyata dari sahabat kita, **Dimas**, seorang pemuda yang merintis usaha **Keripik Singkong Pedas**.
@@ -220,8 +212,6 @@ Kisah sukses Dimas membuktikan fakta fundamental: **konsumen di era modern tidak
 
 Melihat peta perubahan dari contoh Dimas di atas, sekarang kamu sudah tahu persis ke mana harus melangkah. Lalu tindakan taktis apa yang bisa kamu eksekusi di tokomu sore ini juga?
 
-***
-
 ## Langkah Aksi Nyata Membangun Daya Pikat Brand-mu Mulai Hari Ini
 
 Membangun branding yang kuat tidak harus menunggu tokomu punya gedung megah bertingkat sepuluh. Kamu bisa mulai menanam benih brand-mu dari tindakan sederhana yang kamu lakukan hari ini.
@@ -241,8 +231,6 @@ Berikut adalah daftar aksi nyata yang bisa langsung kamu jalankan:
 Branding bukanlah perlombaan lari cepat seratus meter yang hasilnya kelihatan dalam semalam. Branding adalah perjalanan maraton menumpuk rasa percaya, menjaga konsistensi mutu, dan merawat hubungan kasih sayang dengan setiap manusia yang menjadi pelangganmu.
 
 Sebagai bekal pengingat singkat sebelum kamu mulai meracik ulang identitas usahamu, mari kita rangkum poin-poin terpentingnya.
-
-***
 
 ## Ringkasan Singkat
 

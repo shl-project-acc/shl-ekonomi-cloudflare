@@ -38,8 +38,6 @@ Nah, setelah di artikel-artikel sebelumnya kita belajar memasang kuda-kuda risik
 
 Di artikel pilar kali ini lewat **shl project**, kita bakal mengupas tuntas seluruh peta jalan investasi syariah dengan standar keilmuan yang sangat mendalam (sesuai standar emas fiqh kita $\ge$ 6.000 kata), membedah dalil hadits shahih secara objektif, meneladani strategi investasi para sahabat Nabi, membongkar kriteria seleksi (*screening*) instrumen syariah, membedah saham, sukuk, reksadana, emas, tinjauan aset kripto, rumus perhitungan purifikasi dividen non-halal, serta menyajikan simulasi portofolio investasi nyata dari modal awal sampai sukses mandiri secara finansial. Kita mulai dari memahami filosofi agung kenapa syariat Islam justru sangat menganjurkan umatnya untuk berinvestasi.
 
-***
-
 ## Filosofi Agung Investasi dalam Syariat Islam dan Larangan Membekukan Harta
 
 ![BlockNote image](https://img.shlproject.com/2026/09/14fda3a1aa75c6707e1b3be51980ca7a.webp)
@@ -80,8 +78,6 @@ Oleh karena itu, **berinvestasi pada aset yang halal dan produktif bukan sekadar
 
 Untuk melihat bagaimana para generasi terbaik menerapkan prinsip investasi ini secara nyata, mari kita tengok portofolio investasi para sahabat Nabi yang menjadi konglomerat terkaya di zamannya.
 
-***
-
 ## Teladan Portofolio Investasi Para Sahabat Nabi yang Makmur dan Dermawan
 
 Ketika kita membaca lembaran sejarah emas para sahabat Rasulullah shallallahu 'alaihi wa sallam, kita akan menemukan bahwa para sahabat utama bukanlah orang-orang yang menyimpan emas di bawah lantai rumah, melainkan para investor ulung yang memiliki aset-aset produktif bernilai sangat tinggi:
@@ -115,8 +111,6 @@ Zubair bin Awwam terkenal sebagai investor properti dan lahan tanah terkemuka. B
 Keberhasilan investasi para sahabat di atas bertumpu pada satu prinsip mutlak: **seluruh aset yang mereka miliki terikat pada sektor riil yang membawa manfaat nyata bagi umat manusia dan bersih dari segala bentuk eksploitasi riba maupun penipuan**.
 
 Agar kita bisa meneladani jejak mereka di pasar modal modern saat ini, mari kita pelajari kriteria penyaringan (*screening*) syariah yang membedakan investasi halal dengan spekulasi haram.
-
-***
 
 ## Kriteria Ketat Screening Saham dan Instrumen Syariah Standar OJK dan DSN-MUI
 
@@ -173,8 +167,6 @@ Total pendapatan bunga dari simpanan giro/deposito bank konvensional dan pendapa
 
 Setelah memahami kriteria penyaringan saham, mari kita pelajari kewajiban moral penting yang sering dilupakan oleh para investor saham syariah: **rumus purifikasi dividen**.
 
-***
-
 ## Rumus dan Tata Cara Purifikasi Dividen Saham Syariah
 
 Meskipun sebuah saham telah dinyatakan lulus screening syariah oleh OJK dan masuk dalam Indeks Saham Syariah Indonesia (ISSI), di dalam neraca keuangannya sering kali masih terdapat porsi sangat kecil pendapatan bunga bank konvensional (misalnya 1% atau 2% dari total pendapatan perusahaan yang didapat dari bunga simpanan rekening giro operasional).
@@ -200,8 +192,6 @@ $$\text{Nominal Purifikasi} = \text{Total Dividen yang Diterima} \times \left( \
 * Uang Rp 150.000 tersebut kamu transfer ke lembaga amil zakat resmi untuk program pembuatan sumur air bersih atau renovasi jembatan desa, sedangkan sisa **Rp 9.850.000** berstatus 100% halal murni dan bersih untuk kamu nikmati.
 
 Setelah memahami mekanisme penyucian dividen, mari kita bedah ragam instrumen investasi syariah resmi lainnya secara menyeluruh.
-
-***
 
 ## Membedah Empat Instrumen Investasi Syariah Utama yang Aman dan Terpercaya
 
@@ -261,8 +251,6 @@ Emas batangan bersertifikat resmi (seperti Antam atau Lotus Archi) adalah instru
 
 Selain empat instrumen konvensional di atas, bagaimana pandangan fiqh terhadap fenomena aset kripto dan mata uang digital yang sedang marak?
 
-***
-
 ## Tinjauan Kritis Fiqh Muamalah Terhadap Aset Kripto dan Mata Uang Digital
 
 Dalam beberapa tahun terakhir, fenomena aset kripto (*cryptocurrency*) seperti Bitcoin, Ethereum, dan token digital lainnya memicu perdebatan hangat di kalangan ulama fiqh kontemporer di seluruh dunia.
@@ -288,8 +276,6 @@ Mengenai status kripto sebagai komoditas yang diperjualbelikan untuk investasi:
 Bagi investor pemula muslim yang ingin menjaga kesucian hartanya secara wara', **sangat disarankan untuk memprioritaskan aset-aset riil yang sudah jelas kehalalannya seperti Sukuk, Reksadana Syariah, Saham Syariah Sektor Riil, dan Emas Fisik**.
 
 Setelah memahami batas-batas syariah di atas, mari kita pelajari berbagai jebakan investasi bodong yang wajib kamu hindari.
-
-***
 
 ## Membedah Praktik Spekulasi dan Skema Investasi Bodong yang Wajib Dihindari
 
@@ -320,8 +306,6 @@ Keuntungan yang dibagikan kepada anggota lama sebenarnya adalah uang setoran dar
 * **Margin Trading Konvensional:** Meminjam uang dari perusahaan sekuritas dengan bunga harian untuk membeli saham melebihi kemampuan modal kas. Penambahan bunga pinjaman ini adalah transaksi riba yang diharamkan.
 
 Sekarang seluruh kaidah fiqh, kriteria screening, rumus purifikasi, dan analisis instrumen sudah terbentang jelas di depan matamu. Lantas, bagaimana strategi menyusun portofolio investasi nyata dari modal awal sampai berhasil membangun kemandirian finansial yang berkah? Mari kita bedah satu simulasi studi kasus lengkap dari awal sampai akhir.
-
-***
 
 ## Simulasi Nyata Membangun Portofolio Investasi Syariah dari Nol Sampai Mapan
 
@@ -377,8 +361,6 @@ Perjalanan nyata Faisal membuktikan bahwa **investasi syariah bukanlah jalan pin
 
 Melihat peta jalan portofolio Faisal di atas, sekarang kamu sudah mengantongi kompas yang terang benderang. Lalu langkah taktis apa yang bisa kamu eksekusi sore ini juga?
 
-***
-
 ## Langkah Aksi Nyata Memulai Investasi Syariah Perdanau Mulai Hari Ini
 
 Memulai investasi syariah bukanlah tentang menunggu modal ratusan juta rupiah jatuh dari langit. Investasi terbaik adalah investasi yang dimulai dari langkah kecil yang konsisten dengan uang dingin yang kamu miliki hari ini.
@@ -398,8 +380,6 @@ Berikut adalah daftar tindakan taktis yang bisa langsung kamu eksekusi:
 Dunia investasi modern memang penuh dengan godaan kilau fatamorgana yang sering kali membutakan mata. Namun dengan berpegang teguh pada tuntunan fiqh muamalah, kesabaran meniti proses, dan kehati-hatian dalam memilih akad, kamu tidak hanya sedang membangun kebebasan finansial di dunia, melainkan sedang menanam pohon amal jariyah yang meneduhkanmu di akhirat kelak.
 
 Sebagai bekal pengingat singkat sebelum kamu membuka aplikasi investasimu, mari kita rangkum poin-poin terpentingnya.
-
-***
 
 ## Ringkasan Singkat
 

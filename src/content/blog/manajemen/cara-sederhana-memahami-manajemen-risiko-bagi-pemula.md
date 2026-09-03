@@ -30,8 +30,6 @@ Di kehidupan sehari-hari, apalagi pas kita lagi antusias merintis usaha baru, bi
 
 Lewat artikel ini di **shl project**, kita bakal membongkar konsep manajemen risiko dengan bahasa yang santai, renyah, penuh visual infografis, contoh nyata, dan pastinya jauh dari istilah-istilah bikin pusing. Tujuannya satu: biar kamu punya tameng yang kuat sebelum melangkah jauh dan nggak gampang kaget saat realita di lapangan tidak sesuai dengan ekspektasi manis di kepala.
 
-***
-
 ## Apa Sih Sebenarnya Risiko Itu?
 
 ![BlockNote image](https://img.shlproject.com/2026/09/e36c346e2d4b4e57b3299a3a8fc05c20.webp)
@@ -45,8 +43,6 @@ Risiko adalah ==jarak antara ekspektasi dan realita yang disebabkan oleh ketidak
 Bayangkan kamu janjian mau ketemu teman di kedai kopi jam 4 sore. Ekspektasimu, perjalanan cuma butuh waktu 15 menit karena jalanan biasanya lancar. Tapi realitanya, ada truk mogok di perempatan jalan yang bikin macet total 40 menit. Hasilnya? Kamu terlambat setengah jam dan temanmu sudah keburu menghabiskan dua cangkir kopi sambil cemberut. Jarak 25 menit keterlambatan itulah wujud dari risiko.
 
 Jadi, risiko itu bukan cuma soal "hal buruk", melainkan soal **apapun yang berpotensi melenceng dari rencana awal kita**. Risiko bisa bikin kita kehilangan uang, kehilangan waktu, kehilangan reputasi, atau bahkan kehilangan kesempatan emas. Karena masa depan itu misteri dan kita bukan cenayang yang bisa meramal hari esok secara presisi, maka mengelola risiko adalah cara paling waras untuk bertahan hidup.
-
-***
 
 ## Jebakan Batman Pemula: Bias Optimisme Berlebihan
 
@@ -67,8 +63,6 @@ Eits, tunggu dulu bos. Menghitung proyeksi keuntungan di atas kertas memang kegi
 Tapi pas lapak beneran dibuka di hari pertama, tiba-tiba musim hujan tiba dan badai berlangsung seminggu penuh. Jalanan depan kampus sepi melompong karena mahasiswa kuliah online. Es batu mencair sia-sia, daun teh basi, dan pemilik sewa tempat menagih bayaran tepat waktu. Di titik ini, banyak pemula langsung drop, panik, dan buru-buru menyimpulkan kalau dirinya "nggak punya bakat bisnis".
 
 Padahal masalah aslinya bukan soal bakat, tapi karena dari awal kita sama sekali tidak memasukkan variabel risiko ke dalam kalkulasi. Kita cuma menyiapkan diri untuk menang, tapi lupa menyiapkan payung kalau-kalau badai datang. Di sinilah letak pentingnya manajemen risiko: bukan untuk menakut-nakuti sampai kamu takut melangkah, melainkan agar langkah kakimu jauh lebih mantap dan terukur.
-
-***
 
 ## 4 Jurus Dasar Menghadapi Risiko: Metode 4T
 
@@ -134,8 +128,6 @@ Jurus terakhir adalah *Tolerate* atau menerima risiko tersebut dengan lapang dad
 
 * **Contoh Bisnis:** Di sebuah kafe, ada risiko gelas kaca pecah tersenggol pelanggan sekali dalam sebulan. Pemilik kafe tidak perlu sampai mengganti semua gelas estetiknya dengan gelas plastik kaku cuma karena takut pecah. Risiko gelas pecah itu cukup dimasukkan ke dalam pos anggaran biaya operasional bulanan (*waste/breakage budget*) sebesar beberapa puluh ribu rupiah saja.
 
-***
-
 ## Mengenal Matriks Risiko: Alat Sederhana Pemilah Masalah
 
 Biar kamu tidak bingung menentukan kapan harus pakai jurus *Terminate*, *Treat*, *Transfer*, atau *Tolerate*, mari kita gunakan alat bantu visual yang sangat legendaris: **Matriks Risiko (Risk Matrix)**.
@@ -175,8 +167,6 @@ Mari kita bedah kotak-kotak matriks di atas:
 4. **Peluang Jarang + Dampak Kecil ➔ TOLERATE (Terima Saja):** Kejadian receh yang sesekali lewat. Contohnya staples kantor habis atau ada pelanggan minta tambahan kantong plastik gratis. Tidak perlu bikin rapat darurat berjam-jam untuk membahas sedotan yang terbuang sia-sia.
 
 Dengan memplot setiap kekhawatiranmu ke dalam 4 kotak ini, pikiranmu bakal langsung jernih. Kamu tidak akan lagi membuang energi berharga untuk mencemaskan hal-hal kecil yang dampaknya sepele, dan kamu bisa fokus mengamankan titik-titik kritis yang berpotensi melumpuhkan masa depanmu.
-
-***
 
 ## Tiga Langkah Konkret Memulai Manajemen Risiko Hari Ini
 
@@ -229,8 +219,6 @@ Dunia ini dinamis, tren berubah, dan kondisi lapangan selalu bergeser. Risiko ya
 
 Jadikan kebiasaan untuk menengok kembali daftar risiko ini secara berkala—misalnya sebulan sekali atau setiap kali proyekmu memasuki fase baru. Coret risiko yang sudah tidak relevan, dan tambahkan risiko baru yang baru saja terdeteksi. Seperti halnya riset dan pencatatan yang sering kita bahas di **shl project**, konsistensi meninjau catatan kecil inilah yang membedakan seorang pemula yang amatir dengan seorang praktisi yang tangguh.
 
-***
-
 ## Belajar dari Filosofi "Ikat Untamu Dulu": Menghubungkan Ikhtiar Logis dan Kepasrahan Hati
 
 Ada sebuah kisah klasik yang sangat indah dan sarat makna dari literatur Islam mengenai konsep manajemen risiko ini.
@@ -249,8 +237,6 @@ Pesan moral dari kisah di atas adalah intisari paling murni dari manajemen risik
 
 Setelah tali unta diikat kuat dengan simpul terbaik (ikhtiar maksimal selesai), barulah kita memasrahkan hasilnya kepada Sang Pencipta (tawakkal). Kalaupun setelah diikat ternyata tali tersebut putus karena digigit hewan lain atau dicuri orang, hati kita tetap tenang karena kita sudah menunaikan kewajiban akal sehat secara sempurna tanpa penyesalan "tahu gitu".
 
-***
-
 ## Mengubah Sudut Pandang: Risiko Bukan Musuh, Tapi Sahabat Pengingat
 
 Setelah membaca uraian panjang di atas, semoga kamu tidak lagi melihat manajemen risiko sebagai momok yang mengerikan atau beban birokrasi yang bikin malas melangkah.
@@ -260,8 +246,6 @@ Justru sebaliknya, manajemen risiko adalah **sahabat terbaik yang menjaga agar m
 Orang yang paham manajemen risiko bukan berarti orang yang penakut atau tidak berani mengambil peluang besar. Orang yang paling berani di dunia sirkus adalah pemain akrobat yang melompat di ketinggian tali—dan alasan kenapa dia berani melompat setinggi itu adalah karena dia tahu di bawahnya sudah terpasang !!jaring pengaman!! yang kokoh.
 
 Jaring pengaman itulah manajemen risiko. Saat kamu sudah tahu seberapa jauh batas terburuk yang bisa terjadi dan sudah menyiapkan payung untuk menahan dampaknya, rasa takutmu bakal lenyap berganti menjadi rasa percaya diri yang berlandaskan data dan perhitungan matang.
-
-***
 
 ## Rangkuman Singkat untuk Diingat Selamanya
 

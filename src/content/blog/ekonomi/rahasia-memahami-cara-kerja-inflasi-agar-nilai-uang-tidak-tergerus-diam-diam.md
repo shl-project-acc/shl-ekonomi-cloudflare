@@ -36,8 +36,6 @@ Nah, setelah di artikel sebelumnya kita belajar mitigasi bahaya di [Cara Sederha
 
 Di artikel kali ini lewat **shl project**, kita bakal membedah mekanisme kerja inflasi dengan bahasa yang santai, perumpamaan kocak yang membumi, dan simulasi kasus super lengkap dari awal sampai akhir. Kita mulai dari membedah apa sebenarnya wujud asli dari inflasi itu tanpa rumus ekonomi yang bikin kening berkerut.
 
-***
-
 ## Monster Tak Kasat Mata Bernama Inflasi
 
 ![Cara Kerja Inflasi dan Daya Beli Uang](https://img.shlproject.com/2026/09/4600f7785b8310af77250d81c86abaf7.webp)
@@ -55,8 +53,6 @@ Sepuluh tahun lalu, satu lembar kupon merah bisa dipakai untuk menaiki bianglala
 Itulah wujud asli dari inflasi: **pencuri senyap (*****the silent thief*****) yang tidak pernah membobol pintu rumahmu di malam hari, tapi diam-diam memotong separuh kekuatan belanja dari uang yang kamu simpan**.
 
 Lantas, kenapa fenomena penciutan nilai uang ini bisa terjadi serentak di seluruh penjuru negeri? Mari kita selidiki dalang utama di balik peristiwa ini.
-
-***
 
 ## Tiga Dalang Utama yang Membikin Harga Barang Kompak Naik
 
@@ -98,8 +94,6 @@ Apakah warga pulau tersebut bertambah kaya raya secara nyata? Jawabannya tentu t
 
 Memahami ketiga dalang ini menyadarkan kita bahwa inflasi adalah keniscayaan ekonomi yang terus berputar. Namun bahaya terbesarnya bukan terletak pada kenaikan harganya, melainkan pada ilusi psikologis yang sering mengecoh mata kita.
 
-***
-
 ## Ilusi Uang Nominal dan Bahaya Jebakan Menabung di Bawah Bantal
 
 Pernah nggak kamu merasa sangat bangga dan puas saat melihat saldo tabungan di buku rekening bankmu angkanya tidak pernah berkurang sepeser pun selama bertahun-tahun?
@@ -124,8 +118,6 @@ Menyimpan uang kas berlebihan di bawah bantal atau di rekening tabungan biasa be
 
 Lalu, bagaimana dampak nyata dari fenomena pencairan nilai uang ini terhadap kehidupan rumah tangga dan pelaku usaha sehari-hari?
 
-***
-
 ## Dampak Nyata Inflasi Terhadap Pelaku Usaha dan Rumah Tangga
 
 Inflasi bukan sekadar topik hangat yang dibicarakan para analis berita di televisi dengan setelan jas rapi. Efek gigitan inflasi terasa sangat nyata di meja makan keluarga dan meja kasir para pengusaha kecil:
@@ -149,8 +141,6 @@ Ketika harga bahan baku naik 30%, kamu dihadapkan pada dua pilihan yang sama-sam
 * **Pilihan Pahit Kedua:** Bertahan tidak menaikkan harga demi menjaga pelanggan. Risikonya, margin keuntungan usahamu bakal tergerus habis sampai tipis, dan lama-kelamaan bisnismu bekerja bakti tanpa menghasilkan keuntungan sepeser pun.
 
 Agar kamu tidak terjebak dalam dilema yang merusak ini dan bisa melihat strategi penyelamatan yang jitu, mari kita pelajari sebuah simulasi studi kasus perbandingan nyata dari awal sampai akhir.
-
-***
 
 ## Simulasi Nyata Pertarungan Dua Sahabat Melawan Gerusan Inflasi
 
@@ -202,8 +192,6 @@ Dari perbandingan di atas, kita bisa melihat dengan sangat gamblang: Pak Budi me
 
 Melihat fakta perbandingan yang begitu mencolok ini, langkah cerdas apa saja yang harus kita lakukan agar tidak bernasib seperti Pak Budi?
 
-***
-
 ## Strategi Cerdas Menjaga dan Membentengi Daya Beli dari Gerusan Inflasi
 
 Melindungi diri dari amukan inflasi bukan berarti kamu harus menjadi spekulan saham yang stres memelototi grafik naik-turun setiap detik. Yang kamu perlukan adalah menyusun benteng pertahanan aset yang seimbang dan masuk akal.
@@ -242,8 +230,6 @@ Jika kamu memiliki keahlian tingkat tinggi yang sangat dibutuhkan pasar—misaln
 
 Sekarang seluruh rahasia, mekanisme kerja, dan benteng pertahanan inflasi sudah kamu kuasai. Lalu tindakan nyata apa yang bisa kamu eksekusi sore ini juga?
 
-***
-
 ## Langkah Aksi Nyata yang Bisa Kamu Lakukan Hari Ini Juga
 
 Menghadapi inflasi bukanlah dengan cara mengeluh di media sosial atau meratapi nasib harga cabai yang mahal di pasar. Sikap seorang pembelajar sejati di **shl project** adalah mengambil kendali atas masa depan keuangannya sendiri secara proaktif.
@@ -263,8 +249,6 @@ Berikut adalah daftar tindakan taktis yang bisa kamu mulai selesaikan hari ini:
 Inflasi memang akan terus berjalan seiring bergeraknya roda peradaban manusia. Namun dengan pemahaman yang matang, pengelolaan aset yang cerdas, dan mentalitas yang terus bertumbuh, kamu tidak perlu lagi merasa takut. Kamu justru bisa melangkah dengan tenang, percaya diri, dan membangun kemandirian finansial yang kokoh di segala zaman.
 
 Sebagai rangkuman bekal penutup sebelum kamu mengecek kembali portofolio keuanganmu, mari kita garis bawahi poin-poin terpentingnya.
-
-***
 
 ## Ringkasan Singkat
 

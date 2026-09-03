@@ -36,8 +36,6 @@ Nah, setelah di artikel-artikel sebelumnya kita membongkar gerusan daya beli di 
 
 Di artikel pilar kali ini lewat **shl project**, kita bakal membedah seluruh tombol rahasia di dalam otak manusia yang sering memicu belanja impulsif dengan gaya santai, analogi tongkrongan yang renyah, guyonan membumi, dan simulasi studi kasus konkret dari awal sampai akhir. Kita awali dengan membongkar mitos klasik tentang makhluk rasional di buku teks ekonomi.
 
-***
-
 ## Mitos Manusia Rasional dan Pertarungan Dua Sistem di Otak Kita
 
 ![BlockNote image](https://img.shlproject.com/2026/09/916c366cdc5341019cfca5723166ec16.webp)
@@ -72,8 +70,6 @@ Biar kamu makin gampang memahami pertarungan abadi kedua sistem ini, mari kita p
 | **Peran dalam Belanja**  | **Biang kerok utama belanja impulsif**        | Rem penyelamat dompet dari kebangkrutan       |
 
 Setelah kita paham bahwa otak kita punya kecenderungan alami untuk mengambil jalan pintas emosional, mari kita bongkar lima jebakan bias psikologis yang paling sering dipasang oleh para penjual cerdas.
-
-***
 
 ## Lima Jebakan Bias Kognitif yang Sering Menipu Mata dan Dompet Kita
 
@@ -157,8 +153,6 @@ Biar kamu makin waspada saat berbelanja, mari kita rangkum kelima jebakan psikol
 
 Setelah membongkar seluruh trik psikologi di balik etalase toko, mari kita simak sebuah simulasi studi kasus nyata yang menggambarkan bagaimana seseorang bisa terjebak dan akhirnya berhasil keluar dari jeratan belanja impulsif.
 
-***
-
 ## Simulasi Nyata Pertarungan Melawan Godaan Belanja Impulsif dari Titik Bocor Menuju Merdeka
 
 Biar pembahasan kita tidak cuma berisi teori ilmiah di atas kertas, mari kita ikuti kisah nyata dari sahabat kita, **Nadia**, seorang karyawati muda yang setiap tanggal gajian selalu mengalami fenomena mistis: **uang gaji sepuluh juta rupiah menguap habis tak berbekas hanya dalam waktu sepuluh hari**.
@@ -201,8 +195,6 @@ Pengalaman nyata Nadia membuktikan bahwa memenangkan pertarungan finansial bukan
 
 Melihat peta pertarungan psikologis di atas, sekarang kamu sudah memegang perisainya. Lalu langkah taktis apa yang bisa kamu eksekusi sore ini juga untuk melindungi dompetmu?
 
-***
-
 ## Langkah Aksi Nyata Membentengi Diri dari Jebakan Belanja Impulsif Mulai Hari Ini
 
 Mengendalikan dorongan belanja bukanlah tentang menyiksa diri atau hidup seperti pertapa di puncak gunung. Ini adalah tentang menjadi tuan yang berdaulat atas uang hasil keringatmu sendiri.
@@ -222,8 +214,6 @@ Berikut adalah daftar aksi nyata yang bisa langsung kamu jalankan hari ini:
 Kekayaan sejati tidak pernah diukur dari seberapa banyak tumpukan kardus barang belanjaan yang memenuhi kamarmu, melainkan diukur dari seberapa besar rasa tenang, kebebasan, dan kedaulatan yang kamu miliki atas hidup dan masa depanmu sendiri.
 
 Sebagai bekal pengingat ringkas sebelum kamu menutup artikel ini dan mengecek keranjang belanjamu, mari kita garis bawahi poin-poin intinya.
-
-***
 
 ## Ringkasan Singkat
 

@@ -103,6 +103,7 @@ export interface FriendLink {
   desc: string;
   image: string;
   color?: string;
+  category?: string;
 }
 
 export interface FriendsIntro {

@@ -38,8 +38,6 @@ Nah, setelah di artikel-artikel sebelumnya kita belajar menyusun benteng risiko 
 
 Di artikel pilar kali ini lewat **shl project**, kita bakal membedah tuntas cara memisahkan rekening bisnis dan dompet pribadi dengan bahasa yang santai, analogi tongkrongan yang renyah, guyonan membumi, dan simulasi studi kasus konkret dari awal sampai akhir. Kita awali dengan memahami bahaya laten di balik tercampurnya dua dompet yang berbeda fungsi ini.
 
-***
-
 ## Bahaya Laten Mencampur Uang Pribadi dan Usaha
 
 ![BlockNote image](https://img.shlproject.com/2026/09/ddb2bbc50eb0eb735618f2aa3fec644a.webp)
@@ -70,8 +68,6 @@ Biar kamu makin sadar betapa berbahayanya kondisi ini, mari kita petakan dalam t
 | **Peluang Mendapat Modal**  | Ditolak bank/investor karena laporan keuangan kacau | Sangat mudah diaudit dan dipercaya oleh mitra bisnis |
 
 Setelah kita paham bahwa pemisahan rekening adalah hukum wajib yang tidak bisa ditawar lagi, mari kita pelajari empat pilar sistematis untuk membedah dan memisahkan kedua aliran uang tersebut.
-
-***
 
 ## Empat Pilar Praktis Memisahkan Keuangan Bisnis dan Dompet Pribadi
 
@@ -130,8 +126,6 @@ Gunakan aturan alokasi laba bersih yang sehat:
 
 Biar kamu makin gampang melihat bagaimana keempat pilar ini diterapkan secara konkret di lapangan, mari kita bedah satu simulasi studi kasus bisnis nyata dari awal berdiri sampai tertib finansial.
 
-***
-
 ## Simulasi Nyata Transformasi Keuangan Usaha Laundry dari Titik Bocor Menuju Sehat
 
 Biar kamu punya gambaran konkret dan tidak merasa ini cuma teori kosong, mari kita bedah kisah perjalanan nyata dari sahabat kita, **Bayu**, seorang pemilik usaha **Laundry Kiloan "Fresh Clean"**.
@@ -179,8 +173,6 @@ Hanya dalam waktu tiga bulan setelah pemisahan rekening, Laundry Fresh Clean mil
 
 Melihat simulasi konkret dari pengalaman Bayu di atas, sekarang kamu sudah mengantongi peta jalannya secara utuh. Lalu tindakan taktis apa yang bisa kamu eksekusi sore ini juga?
 
-***
-
 ## Langkah Aksi Nyata Memisahkan Keuangan Usahamu Mulai Hari Ini
 
 Merapikan keuangan bukanlah tentang menunggu tokomu membuka cabang di sepuluh kota. Langkah awal menuju bisnis yang berwibawa selalu dimulai dari tindakan sederhana yang langsung kamu praktikkan hari ini.
@@ -200,8 +192,6 @@ Berikut adalah daftar aksi nyata yang bisa langsung kamu jalankan:
 Membangun bisnis yang sehat dan berumur panjang memang menuntut disiplin batin dan ketegasan sikap terhadap diri sendiri. Namun rasa tenang yang kamu dapatkan saat melihat bisnismu bertumbuh rapi, kas selalu tebal, dan keuangan pribadimu tetap aman adalah hadiah terbaik bagi integritas kerja kerasmu.
 
 Sebagai bekal pengingat singkat sebelum kamu membuka buku kas tokomu, mari kita rangkum poin-poin terpentingnya.
-
-***
 
 ## Ringkasan Singkat
 

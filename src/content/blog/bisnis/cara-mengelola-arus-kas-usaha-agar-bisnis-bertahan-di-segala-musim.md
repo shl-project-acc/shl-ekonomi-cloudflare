@@ -33,8 +33,6 @@ Nah, setelah di artikel sebelumnya kita belajar cara pasang kuda-kuda lewat [Car
 
 Di artikel kali ini lewat **shl project**, kita bakal menguliti tuntas soal manajemen uang kas dengan gaya santai, humor jalanan yang membumi, dan langkah praktis yang bisa langsung kamu terapkan tanpa perlu rumus matematika dewa. Kita mulai dari alasan mendasar kenapa uang kas itu ibarat tabung oksigen bagi bisnismu.
 
-***
-
 ## Oksigen Utama yang Menentukan Hidup Matinya Usaha
 
 ![Manajemen Arus Kas Usaha](https://img.shlproject.com/2026/09/987c1e7559dce17c30b6cc6e559e9a4a.webp)
@@ -52,8 +50,6 @@ Begitu juga dengan sebuah usaha. Sebuah bisnis baru bisa saja bertahan hidup sel
 Banyak pebisnis pemula yang mengira kalau musuh terbesar mereka adalah kompetitor raksasa yang punya modal tak terbatas. Padahal faktanya, algojo nomor satu yang paling sering mengeksekusi mati bisnis rintisan adalah **krisis likuiditas kas alias kehabisan napas uang tunai**.
 
 Biar kamu tidak gampang silau dan tidak tertipu oleh ilusi angka-angka manis di luaran sana, mari kita bedah perbedaan mendasar antara omzet penjualan dengan uang kas yang sesungguhnya.
-
-***
 
 ## Perbedaan Mendasar Antara Omzet Besar dan Uang Kas Nyata
 
@@ -86,8 +82,6 @@ Pegang erat-erat mantra bisnis yang satu ini: *!!Omzet itu cuma pajangan ego, la
 
 Setelah kamu sadar kalau uang kas adalah raja di atas segala raja, mari kita pelajari bagaimana cara uang kas tersebut mengalir keluar-masuk di dalam bisnismu setiap hari.
 
-***
-
 ## Tiga Jalur Arus Kas yang Wajib Kamu Pahami di Luar Kepala
 
 Di buku-buku teks akuntansi perkuliahan yang tebalnya bisa dipakai buat ganjal pintu gudang, materi arus kas biasanya dijelaskan dengan rumus-rumus rumit yang bikin mengantuk. Tapi kalau kita preteli ke intisarinya, uang kas di bisnismu itu sebenarnya cuma mengalir lewat tiga pintu utama:
@@ -113,8 +107,6 @@ Uang masuknya terjadi saat kamu menyuntikkan uang tabungan pribadimu ke kas toko
 
 Dengan memahami ketiga pintu ini, kamu tidak akan bingung lagi ke mana larinya uang hasil jualanmu setiap hari. Namun sayangnya, di lapangan banyak pebisnis yang tanpa sadar membiarkan dompet kasnya bocor halus karena kebiasaan-kebiasaan sepele yang merusak.
 
-***
-
 ## Kebiasaan Buruk yang Bikin Kas Usaha Cepat Mengering
 
 Pernah nggak kamu merasa jualanmu laris manis setiap hari, pesanan tidak pernah sepi, tapi pas mau belanja bahan baku kok saldonya selalu megap-megap? Jangan-jangan bisnismu sedang terkena salah satu dari tiga penyakit kas kronis berikut ini:
@@ -139,8 +131,6 @@ Ini dia biang kerok nomor satu yang paling sering bikin usaha gulung tikar. Ment
 Dalam pikiran bawah sadarnya dia bergumam, *"Ah, cuma ambil lima puluh ribu ini, kan toko-toko gue sendiri."* Padahal kalau sehari ambil lima puluh ribu tanpa kontrol, sebulan uang kas yang menguap sudah tembus satu setengah juta rupiah. Ketika uang pribadi dan uang bisnis tercampur aduk seperti bubur diaduk, jangan heran kalau suatu saat tokomu tiba-tiba bangkrut tanpa kamu tahu ke mana perginya modal awalmu.
 
 Lantas, bagaimana caranya agar aliran uang kas kita bisa mengalir deras, tertib, dan bebas dari kebocoran konyol semacam ini?
-
-***
 
 ## Strategi Praktis Menjaga Arus Kas Tetap Positif dan Mengalir Lancar
 
@@ -171,8 +161,6 @@ Contohnya seperti biaya langganan aplikasi editing yang sudah tidak pernah dipak
 
 Begitu arus kas harianmu sudah surplus dan tidak bocor lagi, benteng pertahanan terakhir yang wajib kamu bangun adalah menciptakan bantalan penyelamat saat musim paceklik tiba.
 
-***
-
 ## Membangun Dana Cadangan dan Menghitung Runway Usaha dengan Tenang
 
 Pernah nggak kamu membayangkan, bagaimana kalau tiba-tiba bulan depan jalanan di depan tokomu dibongkar total oleh proyek perbaikan gorong-gorong selama empat bulan penuh sehingga tidak ada satu pun pembeli yang bisa lewat?
@@ -195,8 +183,6 @@ Artinya, jika besok pagi terjadi badai krisis atau musibah tak terduga yang memb
 Bagi pebisnis pemula, jangan buru-buru bernafsu buka cabang baru di mana-mana kalau runway usahamu belum genap minimal 3 sampai 6 bulan operasional. Kunci dulu nafas cadanganmu agar bisnismu tahan banting di segala musim.
 
 Agar semua teori dan jurus yang kita bahas tadi tidak menguap begitu saja di kepalamu, mari kita bedah satu simulasi studi kasus nyata dari awal buka sampai sukses mengamankan kas usahanya.
-
-***
 
 ## Simulasi Nyata Mengelola Kas Usaha dari Titik Nol Sampai Aman
 
@@ -242,8 +228,6 @@ Dengan saldo kas segar Rp 12.000.000 di rekening usahanya, Rian berhasil mengama
 
 Melihat simulasi nyata dari kasus Rian di atas, sekarang kamu sudah punya peta jalan yang terang benderang. Lalu apa langkah awal paling gampang yang bisa kamu kerjakan sore ini juga?
 
-***
-
 ## Langkah Taktis Merapikan Laporan Arus Kas Mulai Hari Ini
 
 Kamu tidak perlu langsung minder dan merasa harus menyewa akuntan lulusan luar negeri seharga puluhan juta untuk membereskan kas usahamu. Langkah awal menuju bisnis yang sehat selalu dimulai dari tindakan sederhana yang dilakukan secara konsisten setiap hari.
@@ -259,8 +243,6 @@ Berikut adalah daftar aksi nyata yang bisa langsung kamu eksekusi sore ini juga:
 Mengelola arus kas memang butuh ketelatenan dan kesabaran ekstra. Tapi percayalah, tidur nyenyak di malam hari tanpa rasa was-was dikejar tagihan tempo besok pagi adalah kenikmatan hidup paling mewah yang layak diperjuangkan oleh setiap pengusaha.
 
 Sebagai rangkuman bekal penutup sebelum kamu membuka buku kas tokomu, mari kita ingat kembali intisarinya.
-
-***
 
 ## Ringkasan Singkat
 

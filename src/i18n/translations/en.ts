@@ -13,7 +13,7 @@ export const uiStrings: UIStrings = {
   'nav.categories': 'Categories',
   'nav.tags': 'Tags',
   'nav.archives': 'Archives',
-  'nav.friends': 'Friends',
+  'nav.friends': 'Tools',
   'nav.about': 'About',
   'nav.music': 'Music',
   'nav.weekly': 'Weekly',
@@ -93,7 +93,7 @@ export const uiStrings: UIStrings = {
   'search.dialogOpen': 'Open',
 
   // ── Friends ─────────────────────────────────────────────────
-  'friends.title': 'Friends',
+  'friends.title': 'Web Tools',
   'friends.applyTitle': 'Apply for Friend Link',
   'friends.siteName': 'Site Name',
   'friends.siteUrl': 'Site URL',

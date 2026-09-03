@@ -232,42 +232,137 @@ social:
 # -----------------------------------------------------------------------------
 friends:
   intro:
-    title: Tautan Teman # 友情链接 - 页面标题 [ID] Judul Halaman Teman
-    subtitle: Mari bertukar link! # 欢迎交换友链！ - 页面副标题 [ID] Sub-judul
-    applyTitle: Pengajuan Link Teman # 申请友链 - 申请区块标题 [ID] Judul form
-    applyDesc: Silakan tinggalkan pesan di halaman ini dengan format berikut # 请在本页留言，格式如下 - 申请说明 [ID] Keterangan
+    title: Web Tools & Partner # [ID] Judul Halaman
+    subtitle: Kumpulan web tools interaktif dan partner resmi SHL Project # [ID] Sub-judul
+    applyTitle: Pengajuan Link / Partner # [ID] Judul form
+    applyDesc: Ingin bertukar tautan atau berkolaborasi? Silakan kirimkan informasi web kamu dengan format berikut # [ID] Keterangan
     exampleYaml: | # 申请格式示例，会显示在页面上
-      - site: Nama Blog Anda # 你的博客名称 - 站点名称
-        url: https://your-blog.com/ # 站点网址
-        owner: Nama Panggilan Anda # 你的昵称 - 昵称
-        desc: Deskripsi singkat situs Anda # 站点简介 - 站点简介
-        image: https://your-blog.com/avatar.jpg # 头像链接
-        color: "#ffc0cb" # 主题色（可选）
-  data: # 友链列表 [ID] Daftar Teman yang Tampil
-    - site: Teman A # 余弦の博客
-      url: www.shlproject.com
-      owner: Shl Project
-      desc: FE / ACG / Kerajinan tangan / Pecandu Dark Mode / INFP / Otaku dengan banyak hobi & 2 kucing / remote # FE / ACG / 手工 / 深色模式强迫症 / INFP / 兴趣广泛养两只猫的老宅女 / remote
-      image: https://blog.cosine.ren/img/avatar.webp
-      color: '#ed788b'
-    - site: Contoh Blog A # 示例博客 A
-      url: https://example-a.com
-      owner: Alice
-      desc: Seorang developer yang menyukai teknologi # 一个热爱技术的开发者
-      image: https://api.dicebear.com/7.x/avataaars/svg?seed=Alice
-      color: '#BEDCFF'
-    - site: Contoh Blog B # 示例博客 B
-      url: https://example-b.com
-      owner: Bob
-      desc: Tempat kecil untuk berbagi kehidupan dan teknologi # 分享生活与技术的小站
-      image: https://api.dicebear.com/7.x/avataaars/svg?seed=Bob
-      color: '#FBC1CC'
-    - site: Contoh Blog C # 示例博客 C
-      url: https://example-c.com
-      owner: Carol
-      desc: Tempat mencatat proses belajar dan berkembang # 记录学习与成长的地方
-      image: https://api.dicebear.com/7.x/avataaars/svg?seed=Carol
-      color: '#ABDCFF'
+      - site: Nama Web / Tools Anda
+        url: https://your-domain.com/
+        owner: Nama Pemilik / Brand
+        desc: Deskripsi singkat fungsi web atau profil Anda
+        image: https://your-domain.com/avatar.jpg
+        color: "#4A7C59"
+  data: # 友链列表 [ID] Daftar Teman / Tools yang Tampil
+    - site: SHL Tools
+      category: Finansial & Syariah
+      url: https://www.shlproject.my.id/p/kalkulator-zakat.html
+      owner: Kalkulator Zakat
+      desc: Kalkulator zakat komprehensif (Maal, Profesi, Fitrah, Emas, Pertanian, Perniagaan)
+      image: https://img.shlproject.com/2026/09/af463e67eee50cf53a2248d07cb2cc73.webp
+      color: '#4A7C59'
+    - site: SHL Tools
+      category: Bisnis & UMKM
+      url: https://www.shlproject.my.id/p/kalkulator-hpp.html
+      owner: Kalkulator HPP
+      desc: Aplikasi hitung Harga Pokok Penjualan, margin laba, dan kelayakan usaha
+      image: https://img.shlproject.com/2026/09/023764d2f389f4aa2a56bd1b41472c5d.webp
+      color: '#E07A5F'
+    - site: SHL Tools
+      category: Bisnis & UMKM
+      url: https://www.shlproject.my.id/p/kalkulator-bep-syariah.html
+      owner: Kalkulator BEP Syariah
+      desc: Alat hitung Titik Impas (Break Even Point) agar modal usaha kembali sepenuhnya
+      image: https://img.shlproject.com/2026/09/f9ae56d7fb17dcfcf7b56d0f8b06d322.webp
+      color: '#3D5A80'
+    - site: SHL Tools
+      category: Finansial & Syariah
+      url: https://www.shlproject.my.id/p/kalkulator-warisan-syariah-faraid.html
+      owner: Kalkulator Waris Faraid
+      desc: Kalkulator pembagian waris Islam otomatis sesuai kaidah ilmu faraid
+      image: https://img.shlproject.com/2026/09/af463e67eee50cf53a2248d07cb2cc73.webp
+      color: '#2B5B84'
+    - site: SHL Tools
+      category: Investasi & Pasar Modal
+      url: https://www.shlproject.my.id/p/kalkulator-saham.html
+      owner: Kalkulator Saham
+      desc: Ultimate investment analyzer, money management, dan jurnal trading portofolio
+      image: https://img.shlproject.com/2026/09/4600f7785b8310af77250d81c86abaf7.webp
+      color: '#2A9D8F'
+    - site: SHL Tools
+      category: Investasi & Pasar Modal
+      url: https://www.shlproject.my.id/p/kalkulator-harga-wajar-saham.html
+      owner: Kalkulator Harga Wajar
+      desc: Analisis valuasi fundamental dan estimasi nilai intrinsik wajar saham emiten
+      image: https://img.shlproject.com/2026/09/4600f7785b8310af77250d81c86abaf7.webp
+      color: '#264653'
+    - site: SHL Tools
+      category: Bisnis & UMKM
+      url: https://www.shlproject.my.id/p/kalkulator-umkm-syariah.html
+      owner: Kalkulator UMKM Syariah
+      desc: Simulasi biaya produksi, penetapan harga jual retail/grosir, dan target impas UMKM
+      image: https://img.shlproject.com/2026/09/023764d2f389f4aa2a56bd1b41472c5d.webp
+      color: '#E76F51'
+    - site: SHL Tools
+      category: Bisnis & UMKM
+      url: https://www.shlproject.my.id/p/kalkulator-operasional-umkm.html
+      owner: Kalkulator Operasional
+      desc: Sistem mini ERP manajemen biaya operasional dan mitigasi risiko bisnis harian
+      image: https://img.shlproject.com/2026/09/987c1e7559dce17c30b6cc6e559e9a4a.webp
+      color: '#F4A261'
+    - site: SHL Tools
+      category: Finansial & Syariah
+      url: https://www.shlproject.my.id/p/kalkulator-inflasi-daya-beli.html
+      owner: Kalkulator Inflasi
+      desc: Simulasi penyusutan nilai riil uang akibat kenaikan harga dan kewajiban zakat
+      image: https://img.shlproject.com/2026/09/4600f7785b8310af77250d81c86abaf7.webp
+      color: '#D4A373'
+    - site: SHL Tools
+      category: Finansial & Syariah
+      url: https://www.shlproject.my.id/p/kalkulator-tabungan-haji-umrah.html
+      owner: Tabungan Haji & Umrah
+      desc: Rencanakan target dana keberangkatan ibadah ke Baitullah dengan proyeksi inflasi
+      image: https://img.shlproject.com/2026/09/af463e67eee50cf53a2248d07cb2cc73.webp
+      color: '#588157'
+    - site: SHL Tools
+      category: Finansial & Syariah
+      url: https://www.shlproject.my.id/p/kalkulator-perencanaan-keuangan-syariah.html
+      owner: Perencanaan Keuangan
+      desc: Audit kesehatan finansial pribadi dan keluarga berbasis indikator 50/20/20/10
+      image: https://img.shlproject.com/2026/09/f9ae56d7fb17dcfcf7b56d0f8b06d322.webp
+      color: '#3A5A40'
+    - site: SHL Tools
+      category: Finansial & Syariah
+      url: https://www.shlproject.my.id/p/kalkulator-kpr-syariah-vs-konvensional.html
+      owner: Kalkulator KPR Syariah
+      desc: Komparasi cicilan tetap syariah vs anuitas bunga floating bank konvensional
+      image: https://img.shlproject.com/2026/09/023764d2f389f4aa2a56bd1b41472c5d.webp
+      color: '#457B9D'
+    - site: SHL Tools
+      category: Finansial & Syariah
+      url: https://www.shlproject.my.id/p/kalkulator-gadai-syariah-vs-konvensional.html
+      owner: Kalkulator Gadai Rahn
+      desc: Simulasi taksiran barang, biaya titip (ujrah), dan perbandingan dengan bunga
+      image: https://img.shlproject.com/2026/09/af463e67eee50cf53a2248d07cb2cc73.webp
+      color: '#1D3557'
+    - site: SHL Tools
+      category: Investasi & Pasar Modal
+      url: https://www.shlproject.my.id/p/kalkulator-reksadana-syariah.html
+      owner: Reksadana Syariah
+      desc: Proyeksi investasi rutin DCA, evaluasi AUM/Drawdown, dan rebalancing portofolio
+      image: https://img.shlproject.com/2026/09/4600f7785b8310af77250d81c86abaf7.webp
+      color: '#606C38'
+    - site: SHL Tools
+      category: Tools Multimedia & Utilitas
+      url: https://www.shlproject.my.id/p/batch-image-converter.html
+      owner: Image Converter
+      desc: Konversi dan kompresi format gambar (WebP, AVIF, JPG, PNG) secara massal di browser
+      image: https://img.shlproject.com/2026/09/1cdf7fab38ab5a5d3ed643aee88f1ada.webp
+      color: '#8338EC'
+    - site: SHL Tools
+      category: Tools Multimedia & Utilitas
+      url: https://www.shlproject.my.id/p/qr-code-dan-barcode-generator.html
+      owner: QR & Barcode Generator
+      desc: Pembuat kode QR dan Barcode kustom batch untuk teks, URL, vCard, dan Wi-Fi
+      image: https://img.shlproject.com/2026/09/1cdf7fab38ab5a5d3ed643aee88f1ada.webp
+      color: '#3A86FF'
+    - site: SHL Tools
+      category: Tools Multimedia & Utilitas
+      url: https://www.shlproject.my.id/p/generator-kuitansi.html
+      owner: Generator Kuitansi
+      desc: Pembuat bukti tanda terima dan kuitansi transaksi digital dengan terbilang otomatis
+      image: https://img.shlproject.com/2026/09/023764d2f389f4aa2a56bd1b41472c5d.webp
+      color: '#FB5607'
 
 # =============================================================================
 # Announcements
@@ -355,10 +450,6 @@ navigation:
       - name: About Me
         path: /about
         icon: fa6-regular:circle-user
-      - name: Friends
-        nameKey: nav.friends
-        path: /friends
-        icon: ri:links-line
       - name: Contact Us
         path: /contact
         icon: ri:mail-send-line
@@ -371,6 +462,10 @@ navigation:
       - name: Disclaimer
         path: /disclaimer
         icon: ri:error-warning-line
+  - name: Tools
+    nameKey: nav.friends
+    path: /tools
+    icon: ri:tools-fill
   - name: Weekly
     nameKey: nav.weekly
     path: /weekly

@@ -35,8 +35,6 @@ Nah, setelah di artikel-artikel sebelumnya kita belajar memasang benteng pertaha
 
 Di artikel pilar kali ini lewat **shl project**, kita bakal mengupas tuntas ilmu fiqh muamalah secara sangat mendalam, membedah dalil hadits secara objektif, meneladani sejarah pasar percontohan Rasulullah, membongkar racun transaksi haram, dan menyajikan simulasi studi kasus transaksi modern yang super lengkap dan detail dari awal sampai akhir. Kita mulai dengan memahami kaidah emas fiqh muamalah yang sering kali belum dipahami dengan benar oleh banyak orang.
 
-***
-
 ## Kaidah Emas Fiqh Muamalah yang Luas dan Membebaskan
 
 ![Fiqh Muamalah Bisnis Modern](https://img.shlproject.com/2026/09/0824d2a8f312f591b020ff551270a5d2.webp)
@@ -57,8 +55,6 @@ Berbeda dengan urusan ibadah mahdhah (seperti tata cara shalat dan puasa) yang h
 Islam tidak pernah anti terhadap kemajuan teknologi atau keuntungan komersial. Yang diatur oleh syariat adalah **keadilan (*'adalah*), transparansi (*wudhuh*), dan perlindungan bagi semua pihak agar tidak ada yang dizalimi (*la tazhlimuna wa la tuzhlamun*)**.
 
 Untuk melihat bagaimana prinsip keadilan ini diterapkan secara nyata di dunia perdagangan, mari kita tengok lembaran sejarah emas ketika Rasulullah dan para sahabat mulia membangun pasar perdagangan yang makmur di kota Madinah.
-
-***
 
 ## Teladan Nyata Rasulullah dan Sahabat dalam Membangun Ekosistem Bisnis yang Berkah
 
@@ -91,8 +87,6 @@ Keagungan pasar Islam ini dijaga dengan sangat disiplin oleh khalifah kedua, **U
 > **(HR. At-Tirmidzi no. 487)**
 
 Maklumat Umar bin Khattab ini adalah peringatan keras bagi kita semua di era modern. Agar kita tidak terjerumus secara tidak sengaja, mari kita bedah satu per satu racun utama transaksi yang diharamkan dalam syariat Islam beserta contoh-contoh kasusnya yang sangat detail.
-
-***
 
 ## Empat Racun Utama Transaksi yang Wajib Dihindari Pebisnis Muslim
 
@@ -195,8 +189,6 @@ Mari kita bedah dua contoh detail kasus Tadlis di dunia digital:
 
 Setelah kita membersihkan hati dan transaksi dari empat racun haram di atas, sekarang mari kita pelajari pilar-pilar akad syariah yang sah dan bisa kita gunakan untuk membangun bisnis modern.
 
-***
-
 ## Membedah Akad Bisnis Syariah yang Menjadi Solusi Usaha Modern
 
 Di dalam fiqh muamalah, akad adalah kesepakatan dua pihak yang mengikat secara syar'i. Islam menyediakan ragam akad yang sangat fleksibel untuk menopang seluruh sektor bisnis modern di **shl project**:
@@ -243,13 +235,9 @@ Bagi kamu yang berkecimpung di dunia makelar, agen properti, atau sistem reselle
 
 Sekarang seluruh kaidah, empat racun transaksi, dan ragam akad syariah sudah kita kuasai secara komprehensif. Lantas, bagaimana simulasi penerapannya pada transaksi modern yang rumit di lapangan? Mari kita bedah empat simulasi studi kasus paling nyata dengan kupasan super mendalam dan menyeluruh.
 
-***
-
 ## Simulasi Nyata Transaksi Bisnis Digital dari Titik Nol Sampai Tuntas
 
 Biar pembahasan kita benar-benar tuntas, gamblang, dan terhindar dari bias, mari kita bedah empat skenario studi kasus modern ini dengan simulasi alur langkah demi langkah, audit hukum syariah, perbandingan skema haram vs halal, hingga format klausul akadnya secara super detail:
-
----
 
 ### Kasus 1 – Anatomi Mendalam Bisnis Dropshipping, Reseller, dan Pre Order Online
 
@@ -308,8 +296,6 @@ Model ini cocok jika dropshipper ingin bertindak independen sebagai penjual utam
 
 Setelah tuntas membedah dunia e-commerce, mari kita masuk ke studi kasus kedua yang sering menjadi sumber perselisihan di antara para sahabat karib: kerja sama pendanaan modal usaha.
 
----
-
 ### Kasus 2 – Audit Mendalam Pendanaan Usaha, Modal Kongsi, dan Crowdfunding Syariah
 
 Banyak orang yang ingin berbisnis secara syariah tetapi masih membawa pola pikir perbankan konvensional: ingin modalnya aman 100% tanpa risiko rugi, tapi di saat yang sama menuntut keuntungan pasti setiap bulan. 
@@ -351,8 +337,6 @@ Mari kita lihat simulasi laporan keuangan dan pembagian laba-rugi Barokah Coffee
 * **Pada Kuartal 4 (Kerugian Akibat Kelalaian Pengelola):** Terjadi kebakaran kecil di dapur kedai kopi karena Bima lupa mematikan kompor gas saat pulang malam, dan ditemukan nota belanja bahan baku fiktif sebesar Rp 10 juta yang dimanipulasi oleh Bima. Berdasarkan kaidah fiqh *At-Ta'addi wat Tafrith* (pelanggaran batas dan kelalaian), Bima wajib menanggung kerugian Rp 30 juta tersebut dari harta pribadinya dan mengembalikan saldo modal Rizki ke posisi semula.
 
 Setelah urusan kongsi modal tertata rapi, mari kita selidiki transaksi teknologi finansial yang paling masif digunakan oleh masyarakat saat ini: ekosistem Paylater dan dompet digital.
-
----
 
 ### Kasus 3 – Audit Fiqh Ekosistem Paylater, P2P Lending, E-Wallet, dan Promo Diskon Bersyarat
 
@@ -399,8 +383,6 @@ Ketika seorang konsumen mengambil promo ini, dia mendapatkan manfaat materiil be
 2. **Untuk Penjual / Merchant:** Jika toko onlinemu otomatis menyediakan opsi pembayaran Paylater dari sistem marketplace tanpa bisa dinonaktifkan, posisimu sebagai penjual tetap menerima uang hasil penjualan barang secara sah (karena barangmu beneran laku dan uang masuk dari marketplace adalah pelunasan harga barang). Namun, kamu dilarang membuat materi iklan promosi khusus yang membujuk pembeli untuk berutang menggunakan Paylater demi mengejar komisi tambahan.
 
 Setelah memahami ranah fintech dan perbankan digital, mari kita ulas studi kasus terakhir yang menjadi ladang penghasilan baru bagi jutaan generasi muda: dunia konten kreator, affiliate marketing, dan jasa titip (jastip).
-
----
 
 ### Kasus 4 – Audit Fiqh Konten Kreator, Affiliate Marketing, Jasa Titip (Jastip), dan Freelance Digital
 
@@ -453,8 +435,6 @@ Menjual template Canva, source code aplikasi, lisensi musik instrumen latar, ebo
 
 Setelah seluruh studi kasus dari e-commerce, perbankan, pendanaan modal, hingga bisnis kreatif digital terbedah secara sangat terang benderang, apa langkah nyata yang harus kita ambil untuk memastikan bisnis kita bersih mulai detik ini?
 
-***
-
 ## Langkah Aksi Nyata Membersihkan dan Menjaga Kehalalan Bisnismu Hari Ini Juga
 
 Menjaga kesucian rezeki bukanlah tentang menunggu sampai kita menjadi ulama besar yang hafal ribuan kitab kuning. Kesucian rezeki dimulai dari keberanian untuk menata ulang akad-akad harian di usahamu secara bertahap, disiplin, dan istiqamah.
@@ -470,8 +450,6 @@ Berikut adalah daftar tindakan praktis yang bisa kamu mulai eksekusi sore ini ju
 Membangun bisnis yang halal dan berkah memang menuntut kesabaran ekstra di tengah arus zaman yang serba menghalalkan segala cara demi mengejar cuan instan. Namun ketahuilah, satu rupiah uang yang halal dan diridhai Allah jauh lebih berharga, mendatangkan ketenangan jiwa, dan menumbuhkan generasi penerus yang shalih, dibandingkan timbunan harta miliaran rupiah yang dipenuhi oleh debu-debu haram.
 
 Sebagai bekal pengingat singkat sebelum kamu kembali menjalankan roda usahamu, mari kita rangkum intisari pembahasannya.
-
-***
 
 ## Ringkasan Singkat
 
