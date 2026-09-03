@@ -21,11 +21,11 @@ Bahkan di tengah perjalanan saat sedang berkendara, terkadang ketika menjumpai p
 
 Kecintaan pada alam ini juga saya wujudkan lewat hobi berkebun, menanam aneka benih hijau, serta merawat tanaman dengan telaten di halaman rumah. Ada rasa syukur yang mendalam saat menyaksikan sebutir biji perlahan bertunas dan mekar memberi kesegaran bagi mata yang memandangnya.
 
-Di luar ranah literasi bisnis dan pendidikan, saya juga bergerak aktif di dunia kreatif dan visual sebagai seorang videografer, editor video, editor foto, dan desainer grafis. Saya sangat menikmati seni merangkai cerita lewat bidikan lensa kamera, menyelaraskan nuansa warna visual, serta merancang antarmuka grafis yang nyaman dipandang. 
+Melengkapi dunia literasi bisnis dan pendidikan, saya juga mendedikasikan waktu di ranah kreatif serta rekayasa perangkat lunak sebagai Videographer, Video & Photo Editor, Graphic & Web Designer, Android App Developer, dan Web App Developer. Menemukan harmoni antara keindahan bidikan visual, kenyamanan desain antarmuka, dan ketelitian logika pemrograman selalu memberi kepuasan tersendiri dalam menciptakan karya yang nyata dan bermanfaat, serta menjadi sarana bagi saya untuk terus belajar dan berkontribusi.
 
-Tidak hanya itu, saya juga memiliki ketertarikan mendalam pada dunia teknologi, logika koding, dan astronomi. Menatap hamparan langit malam yang dihiasi taburan bintang, merenungkan keagungan alam semesta, dan mempelajari misteri luar angkasa selalu berhasil menghadirkan rasa takjub yang luar biasa atas betapa luasnya ciptaan Sang Maha Kuasa. 
+Di waktu senggang, saya juga memiliki ketertarikan mendalam pada keindahan astronomi. Menatap hamparan langit malam yang tenang dihiasi taburan bintang, merenungkan keagungan alam semesta, dan menyelami misteri luar angkasa selalu berhasil menghadirkan rasa takjub yang mendalam atas betapa luasnya ciptaan Sang Maha Kuasa.
 
-Perpaduan antara ketelitian logika sistem, keindahan estetika visual, kedamaian alam semesta, dan ketenangan menulis inilah yang melahirkan setiap baris artikel di blog ini.
+Perpaduan antara ketelitian logika rekayasa digital, kepekaan estetika visual, kedamaian alam semesta, dan ketenangan merangkai kata inilah yang melahirkan setiap baris tulisan di blog ini.
 
 ## Apa yang Ada di Blog Ini
 
