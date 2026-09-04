@@ -44,7 +44,7 @@ Bayangkan kamu janjian mau ketemu teman di kedai kopi jam 4 sore. Ekspektasimu, 
 
 Jadi, risiko itu bukan cuma soal "hal buruk", melainkan soal **apapun yang berpotensi melenceng dari rencana awal kita**. Risiko bisa bikin kita kehilangan uang, kehilangan waktu, kehilangan reputasi, atau bahkan kehilangan kesempatan emas. Karena masa depan itu misteri dan kita bukan cenayang yang bisa meramal hari esok secara presisi, maka mengelola risiko adalah cara paling waras untuk bertahan hidup.
 
-## Jebakan Batman Pemula: Bias Optimisme Berlebihan
+## Jebakan Batman Pemula Bias Optimisme Berlebihan
 
 Salah satu penyakit paling umum yang sering menyerang pemula waktu baru pertama kali bikin usaha atau proyek adalah apa yang sering disebut para psikolog sebagai ==optimism bias== alias bias optimisme berlebih.
 
@@ -64,7 +64,7 @@ Tapi pas lapak beneran dibuka di hari pertama, tiba-tiba musim hujan tiba dan ba
 
 Padahal masalah aslinya bukan soal bakat, tapi karena dari awal kita sama sekali tidak memasukkan variabel risiko ke dalam kalkulasi. Kita cuma menyiapkan diri untuk menang, tapi lupa menyiapkan payung kalau-kalau badai datang. Di sinilah letak pentingnya manajemen risiko: bukan untuk menakut-nakuti sampai kamu takut melangkah, melainkan agar langkah kakimu jauh lebih mantap dan terukur.
 
-## 4 Jurus Dasar Menghadapi Risiko: Metode 4T
+## 4 Jurus Dasar Menghadapi Risiko Metode 4T
 
 Dalam dunia manajemen risiko, ada satu kerangka kerja paling populer dan sangat praktis yang sering disingkat sebagai ++Metode 4T++ (*Terminate, Treat, Transfer, Tolerate*).
 
@@ -128,7 +128,7 @@ Jurus terakhir adalah *Tolerate* atau menerima risiko tersebut dengan lapang dad
 
 * **Contoh Bisnis:** Di sebuah kafe, ada risiko gelas kaca pecah tersenggol pelanggan sekali dalam sebulan. Pemilik kafe tidak perlu sampai mengganti semua gelas estetiknya dengan gelas plastik kaku cuma karena takut pecah. Risiko gelas pecah itu cukup dimasukkan ke dalam pos anggaran biaya operasional bulanan (*waste/breakage budget*) sebesar beberapa puluh ribu rupiah saja.
 
-## Mengenal Matriks Risiko: Alat Sederhana Pemilah Masalah
+## Mengenal Matriks Risiko Alat Sederhana Pemilah Masalah
 
 Biar kamu tidak bingung menentukan kapan harus pakai jurus *Terminate*, *Treat*, *Transfer*, atau *Tolerate*, mari kita gunakan alat bantu visual yang sangat legendaris: **Matriks Risiko (Risk Matrix)**.
 
@@ -184,7 +184,7 @@ data
       desc Tinjau catatan berkala
 ```
 
-### Langkah 1: Bikin Sesi "Paranoia Terjadwal" (Risk Identification)
+### Langkah 1 Bikin Sesi "Paranoia Terjadwal" (Risk Identification)
 
 Ambil selembar kertas kosong atau buka aplikasi catatan favoritmu. Tuliskan proyek yang sedang kamu kerjakan, lalu tanyakan pada dirimu sendiri pertanyaan ini:
 
@@ -202,7 +202,7 @@ Tuliskan semua ketakutanmu secara jujur dan brutal tanpa disaring. Contoh:
 
 Daftar ketakutan yang tertulis rapi di atas kertas ini dinamakan **Risk Register** (Daftar Risiko). Saat ketakutan sudah berwujud tulisan nyata, otak kita tidak lagi menganggapnya sebagai hantu abstrak yang menakutkan, melainkan sebagai daftar masalah teknis yang siap dicarikan solusinya.
 
-### Langkah 2: Beri Skor Sederhana dan Pasang Strategi (Risk Action Plan)
+### Langkah 2 Beri Skor Sederhana dan Pasang Strategi (Risk Action Plan)
 
 Dari daftar risiko yang sudah kamu kumpulkan di Langkah 1, masukkan masing-masing poin ke dalam Matriks Risiko tadi. Tentukan jurus apa yang mau kamu pasang:
 
@@ -213,13 +213,13 @@ Dari daftar risiko yang sudah kamu kumpulkan di Langkah 1, masukkan masing-masin
 | Barang kiriman rusak di jalan | Sedang         | Transfer (Alihkan) | Wajibkan asuransi ekspedisi dan tambahkan lapisan bubble wrap tebal.                               |
 | Karyawan izin sakit mendadak  | Kecil - Sedang | Tolerate & Treat   | Buat panduan kerja sederhana (checklist) agar anggota tim lain bisa saling menggantikan sementara. |
 
-### Langkah 3: Tinjau Ulang Secara Berkala (Monitoring & Review)
+### Langkah 3 Tinjau Ulang Secara Berkala (Monitoring & Review)
 
 Dunia ini dinamis, tren berubah, dan kondisi lapangan selalu bergeser. Risiko yang bulan lalu terlihat sangat sepele, bisa jadi bulan ini berubah jadi ancaman besar.
 
 Jadikan kebiasaan untuk menengok kembali daftar risiko ini secara berkala—misalnya sebulan sekali atau setiap kali proyekmu memasuki fase baru. Coret risiko yang sudah tidak relevan, dan tambahkan risiko baru yang baru saja terdeteksi. Seperti halnya riset dan pencatatan yang sering kita bahas di **shl project**, konsistensi meninjau catatan kecil inilah yang membedakan seorang pemula yang amatir dengan seorang praktisi yang tangguh.
 
-## Belajar dari Filosofi "Ikat Untamu Dulu": Menghubungkan Ikhtiar Logis dan Kepasrahan Hati
+## Belajar dari Filosofi "Ikat Untamu Dulu" Menghubungkan Ikhtiar Logis dan Kepasrahan Hati
 
 Ada sebuah kisah klasik yang sangat indah dan sarat makna dari literatur Islam mengenai konsep manajemen risiko ini.
 
@@ -237,7 +237,7 @@ Pesan moral dari kisah di atas adalah intisari paling murni dari manajemen risik
 
 Setelah tali unta diikat kuat dengan simpul terbaik (ikhtiar maksimal selesai), barulah kita memasrahkan hasilnya kepada Sang Pencipta (tawakkal). Kalaupun setelah diikat ternyata tali tersebut putus karena digigit hewan lain atau dicuri orang, hati kita tetap tenang karena kita sudah menunaikan kewajiban akal sehat secara sempurna tanpa penyesalan "tahu gitu".
 
-## Mengubah Sudut Pandang: Risiko Bukan Musuh, Tapi Sahabat Pengingat
+## Mengubah Sudut Pandang Risiko Bukan Musuh, Tapi Sahabat Pengingat
 
 Setelah membaca uraian panjang di atas, semoga kamu tidak lagi melihat manajemen risiko sebagai momok yang mengerikan atau beban birokrasi yang bikin malas melangkah.
 

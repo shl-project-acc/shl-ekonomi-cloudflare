@@ -7,7 +7,7 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-02 20:00:00
-updated: 2026-09-03 20:03:28
+updated: 2026-09-04 17:49:10
 categories:
   - [Manajemen]
 tags:
@@ -199,12 +199,15 @@ Untuk mengatasi penyakit ini, ada dua senjata pamungkas yang sangat praktis dan 
 Alih-alih membuat daftar tugas yang mengambang tanpa jam yang pasti, bagilah harimu ke dalam blok-blok waktu bertema khusus seperti menyusun balok lego:
 
 * **Blok Kerja Mendalam (*****Deep Work Block*****&#x20;– 08.30 s.d 11.30):**\
+  \
   Tiga jam pertama di pagi hari saat energi otakmu masih segar digunakan khusus untuk menyelesaikan 1 atau 2 tugas paling berat di Kuadran 2. Selama blok ini berjalan: matikan notifikasi handphone, tutup tab media sosial, dan pasang status sibuk.
 
 * **Blok Administrasi dan Komunikasi (*****Shallow Work Block*****&#x20;– 13.30 s.d 15.00):**\
+  \
   Waktu khusus setelah makan siang untuk membalas email, merespons pesan WhatsApp kerjaan, mengurus berkas administrasi, dan koordinasi ringan.
 
 * **Blok Evaluasi dan Persiapan (*****Buffer Block*****&#x20;– 16.00 s.d 17.00):**\
+  \
   Waktu santai untuk mereview apa saja yang sudah selesai hari ini dan menyusun rencana tiga tugas utama untuk besok pagi.
 
 Setelah waktu kerjamu terbagi rapi ke dalam blok-blok khusus, gunakan teknik interval fokus agar energimu tidak cepat habis di tengah jalan.

@@ -140,8 +140,8 @@ featuredSeries:
     enabled: true # 启用此系列
     icon: ri:newspaper-line # 导航图标
     links: # 相关链接（可选）
-      github: https://github.com/your-username/your-repo # (可选) GitHub 仓库
-      rss: /rss.xml # (可选) RSS 订阅链接
+      github: https://github.com/shl-project-acc/shl-ekonomi-cloudflare
+      rss: /rss.xml
       # chrome: https://chromewebstore.google.com/detail/your-extension-id # (可选) 浏览器插件
       # docs: https://your-docs-url # (可选) 文档链接
   # 示例：添加第二个系列（取消注释启用）
@@ -168,28 +168,27 @@ featuredSeries:
 # -----------------------------------------------------------------------------
 social:
   github:
-    url: https://github.com/your-username # [ID] Ganti dengan link GitHub Anda
+    url: https://github.com/shl-project-acc
     icon: ri:github-fill
     color: '#191717'
   email:
-    url: mailto:your@email.com # [ID] Ganti dengan email Anda
+    url: mailto:shlprojectbusiness@gmail.com
     icon: ri:mail-line
     color: '#55acd5'
   rss:
     url: /rss.xml
     icon: ri:rss-line
     color: '#ff6600'
-  # [ID] Tambahan Media Sosial Baru
   youtube:
-    url: https://youtube.com/@your-username # [ID] Ganti dengan link channel YouTube Anda
+    url: https://www.youtube.com/@SHLPROJECT
     icon: ri:youtube-fill
     color: '#ff0000'
   facebook:
-    url: https://facebook.com/your-username # [ID] Ganti dengan link Facebook Anda
+    url: https://facebook.com
     icon: ri:facebook-fill
     color: '#1877f2'
   telegram:
-    url: https://t.me/your-username # [ID] Ganti dengan link Telegram Anda
+    url: https://telegram.org
     icon: ri:telegram-fill
     color: '#229ed9'
   # -------------------------------------------------------------------------

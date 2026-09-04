@@ -266,7 +266,7 @@ SKEMA DROPSHIP HARAM (JUAL BELI LANGSUNG TANPA IZIN SUPPLIER):
 
 #### Tiga Model Solusi Dropshipping yang 100% Halal dan Sah
 
-##### Model A: Skema Keagenan Resmi (Akad Wakalah bil Ujrah)
+##### Model A Skema Keagenan Resmi (Akad Wakalah bil Ujrah)
 Ini adalah model terbaik dan paling direkomendasikan oleh Dewan Syariah Nasional (DSN-MUI):
 1. **Penandatanganan Perjanjian Keagenan:** Dropshipper menghubungi produsen/supplier resmi dan membuat kesepakatan tertulis: *"Saya bertindak sebagai agen pemasaran resmi tokomu. Harga jual konsumen adalah Rp 150.000. Untuk setiap produk yang laku, saya mendapatkan upah jasa pemasaran (ujrah) sebesar Rp 30.000 per pcs"*.
 2. **Pemasangan Produk di Etalase:** Dropshipper memajang foto produk dengan mencantumkan identitas jelas sebagai agen resmi dari supplier.
@@ -274,14 +274,14 @@ Ini adalah model terbaik dan paling direkomendasikan oleh Dewan Syariah Nasional
 4. **Penerusan Pesanan dan Notifikasi:** Dropshipper mentransfer Rp 120.000 ke supplier, menyimpan Rp 30.000 sebagai upah jasanya, dan memberikan data alamat pengiriman pembeli.
 5. **Pengiriman dan Risiko Barang:** Supplier mengemas dan mengirimkan barang langsung ke pembeli atas nama agen. Jika barang cacat di perjalanan, supplier yang bertanggung jawab mengganti rugi karena barang tersebut adalah milik supplier sampai diterima konsumen.
 
-##### Model B: Skema Akad Salam (Jual Beli Pesanan Terikat)
+##### Model B Skema Akad Salam (Jual Beli Pesanan Terikat)
 Model ini cocok jika dropshipper ingin bertindak independen sebagai penjual utama tanpa terikat status agen:
 1. **Spesifikasi Barang Dibuat Sangat Presisi:** Dropshipper merinci spesifikasi baju: jenis kain (Katun Rayon Twill Grade A), warna (Sage Green kode #7A9A8B), ukuran lingkar dada (105 cm), panjang baju (140 cm), dan tanggal pengiriman maksimal (7 hari kerja).
 2. **Pembayaran Lunas 100% di Muka:** Sesuai rukun Akad Salam, pembeli wajib membayar lunas Rp 150.000 di awal transaksi. Tidak boleh dicicil atau bayar separuh, karena menunda uang dan menunda barang sekaligus dilarang dalam syariat (*ba'i al-kali' bil kali'*).
 3. **Dropshipper Membeli Barang ke Supplier:** Dropshipper menggunakan uangnya untuk membeli barang tersebut dari supplier, memastikan barang sampai ke gudangnya atau berada di bawah kendalinya (*qabdh hukmi*), lalu mengirimkannya ke pembeli.
 4. **Tanggung Jawab Mutu:** Jika barang yang datang tidak sesuai spesifikasi yang disepakati di awal, dropshipper wajib mengganti barang baru atau mengembalikan uang pembeli 100%.
 
-##### Model C: Skema Janji Beli Tidak Mengikat (Akad Wa'ad)
+##### Model C Skema Janji Beli Tidak Mengikat (Akad Wa'ad)
 1. Calon pembeli menghubungi dropshipper: *"Saya berminat beli jaket kulit model X ukuran L ini, tolong carikan ya"*.
 2. Dropshipper menjawab: *"Baik, saya akan belikan jaket tersebut dari supplier saya seharga Rp 350.000. Begitu jaketnya sudah ada di tangan saya, saya akan kabari kamu dan jika kamu cocok, baru kita lakukan akad jual beli"* (Ini berstatus janji sepihak / *wa'ad* dan belum terjadi perpindahan kepemilikan maupun akad jual beli).
 3. Dropshipper membeli jaket tersebut dengan uang modal pribadinya sendiri.
