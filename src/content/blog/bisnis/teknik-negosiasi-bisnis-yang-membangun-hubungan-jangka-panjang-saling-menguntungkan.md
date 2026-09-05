@@ -124,7 +124,7 @@ Di dunia nyata, tidak semua orang mau bermain cantik. Ada negosiator yang sengaj
 
 * **Ciri-ciri:** Setelah bernegosiasi alot berjam-jam dan mencapai kesepakatan, lawan tiba-tiba berkata: *"Sebenarnya saya setuju dengan harga ini, tapi bos besar saya di pusat baru saja telepon dan minta diskon tambahan 10% lagi baru boleh tanda tangan kontrak."*.
 
-* **Cara Menghadapinya:** Buka kembali seluruh variabel perundingan: *"Jika ada perubahan harga sebesar 10% dari pihak direksi Anda, maka jadwal pengiriman barang dan syarat tempo pembayaran juga harus kita sesuaikan ulang dari awal."*. Jangan pernah memberikan konsesi baru tanpa meminta konsesi balasan.
+* **Cara Menghadapinya:** Buka kembali seluruh variabel perundingan: *"Jika ada perubahan harga sebesar 10% dari pihak direksi pihak kamu, maka jadwal pengiriman barang dan syarat tempo pembayaran juga harus kita sesuaikan ulang dari awal."*. Jangan pernah memberikan konsesi baru tanpa meminta konsesi balasan.
 
 ### 3. Taktik Menyerang Kepribadian (*Good Cop / Bad Cop*)
 
