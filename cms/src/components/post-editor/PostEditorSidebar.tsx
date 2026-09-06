@@ -10,9 +10,9 @@ import type { BlogSchema } from '@/types';
 export type SidebarTab = 'frontmatter' | 'toc' | 'preview';
 
 const SIDEBAR_TABS = [
-  { id: 'frontmatter', icon: 'ri:settings-3-line', label: '属性' },
-  { id: 'toc', icon: 'ri:list-unordered', label: '目录' },
-  { id: 'preview', icon: 'ri:eye-line', label: '预览' },
+  { id: 'frontmatter', icon: 'ri:settings-3-line', label: 'Properties' },
+  { id: 'toc', icon: 'ri:list-unordered', label: 'Table of Contents' },
+  { id: 'preview', icon: 'ri:eye-line', label: 'Live Preview' },
 ] as const;
 
 interface PostEditorSidebarProps {

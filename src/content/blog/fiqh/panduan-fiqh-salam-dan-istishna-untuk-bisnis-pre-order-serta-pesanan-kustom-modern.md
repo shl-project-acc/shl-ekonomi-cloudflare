@@ -7,7 +7,7 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-05 13:00:00
-updated: 2026-09-05 19:26:19
+updated: 2026-09-05 21:35:47
 categories:
   - [Fiqh]
 tags:
@@ -52,6 +52,10 @@ Hal ini ditegaskan secara shahih dalam sabda Rasulullah ﷺ kepada sahabat Hakim
 > \
 > \
 > \
+> \
+> \
+> \
+> \
 > *"Janganlah engkau menjual sesuatu yang tidak ada pada dirimu (belum engkau miliki barangnya)."* (HR. Abu Dawud No. 3503, At-Tirmidzi No. 1232, dan An-Nasa'i No. 4613)
 
 Namun ketika Rasulullah ﷺ hijrah ke kota Madinah, beliau mendapati para sahabat terbiasa melakukan transaksi pemesanan buah kurma dari para petani dengan cara membayar uang tunai di muka secara penuh, sedangkan buah kurmanya baru dipanen dan diserahkan satu atau dua tahun kemudian.
@@ -59,6 +63,10 @@ Namun ketika Rasulullah ﷺ hijrah ke kota Madinah, beliau mendapati para sahaba
 Melihat kebutuhan riil masyarakat petani yang membutuhkan modal kerja awal untuk mengolah kebun mereka, Rasulullah ﷺ tidak mengharamkan praktik tersebut, melainkan melegalkannya dengan memberikan batasan standarisasi kualitas yang sangat ketat:
 
 > **مَنْ أَسْلَفَ فِي شَيْءٍ فَفِي كَيْلٍ مَعْلُومٍ وَوَزْنٍ مَعْلُومٍ إِلَى أَجَلٍ مَعْلُومٍ**\
+> \
+> \
+> \
+> \
 > \
 > \
 > \
