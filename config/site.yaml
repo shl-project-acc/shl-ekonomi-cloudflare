@@ -556,8 +556,8 @@ analytics:
     id: G-610Y2YKZT9
   umami:
     enabled: true
-    id: your-umami-id
-    endpoint: https://stats.example.com
+    id: a462e1ff-1ddb-443b-ad5b-da806f092000
+    endpoint: https://cloud.umami.is
 
 # =============================================================================
 # SEO Configuration
