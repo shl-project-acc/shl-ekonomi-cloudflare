@@ -493,8 +493,14 @@ export interface UmamiConfig {
   };
 }
 
+export interface GoogleAnalyticsConfig {
+  enabled: boolean;
+  id: string;
+}
+
 export interface AnalyticsConfig {
   umami?: UmamiConfig;
+  google?: GoogleAnalyticsConfig;
 }
 
 // =============================================================================

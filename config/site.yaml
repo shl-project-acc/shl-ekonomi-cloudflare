@@ -548,9 +548,12 @@ comment:
     envId: https://your-twikoo.vercel.app  # Twikoo 环境 ID (腾讯云) 或 Vercel 环境地址 (必填)
 
 # =============================================================================
-# Analytics (Umami)
+# Analytics (Umami & Google Analytics)
 # =============================================================================
 analytics:
+  google:
+    enabled: true
+    id: G-610Y2YKZT9
   umami:
     enabled: true
     id: your-umami-id

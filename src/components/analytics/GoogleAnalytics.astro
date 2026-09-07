@@ -1,0 +1,36 @@
+---
+import { analyticsConfig } from '@constants/site-config';
+
+const config = analyticsConfig.google;
+const enabled = config?.enabled === true && Boolean(config.id);
+const gaId = config?.id;
+---
+
+{enabled && (
+  <>
+    <script
+      is:inline
+      async
+      src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
+    />
+    <script is:inline define:vars={{ gaId }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', gaId);
+
+      // Support Astro ClientRouter View Transitions
+      document.addEventListener('astro:page-load', () => {
+        if (typeof gtag === 'function') {
+          gtag('config', gaId, {
+            page_path: window.location.pathname,
+            page_title: document.title,
+            page_location: window.location.href,
+          });
+        }
+      });
+    </script>
+  </>
+)}
