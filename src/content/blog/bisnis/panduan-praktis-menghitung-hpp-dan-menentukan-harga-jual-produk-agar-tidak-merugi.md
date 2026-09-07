@@ -7,7 +7,7 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-05 10:00:00
-updated: 2026-09-05 19:26:10
+updated: 2026-09-07 09:21:33
 categories:
   - [Bisnis]
 tags:
@@ -19,7 +19,7 @@ tags:
   - bisnis pemula
   - shl project
 description: Panduan praktis dan lengkap menghitung HPP dari nol untuk bisnis kuliner dan produk fisik. Membedah biaya tersembunyi, formula mark up, value based pricing, dan simulasi studi kasus konkret.
-cover: https://img.shlproject.com/2026/09/cover-hitung-hpp-bisnis-modern.webp
+cover: https://img.shlproject.com/2026/09/344566538cddfe721f9ccc696dbb5c7b.webp
 link: bisnis/Panduan-Praktis-Menghitung-HPP-dan-Menentukan-Harga-Jual-Produk-agar-Tidak-Merugi
 ---
 Pernah nggak kamu merasa tokomu setiap hari sangat ramai didatangi pembeli, kurir ekspedisi bolak-balik mengambil tumpukan paket pengiriman, notifikasi transfer masuk di aplikasi m-banking berdenting tiada henti, tetapi anehnya saat akhir bulan tiba saldo tabungan bisnismu justru tidak pernah bertambah?
