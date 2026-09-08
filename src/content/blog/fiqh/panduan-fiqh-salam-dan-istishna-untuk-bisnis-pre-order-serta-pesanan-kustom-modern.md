@@ -11,13 +11,10 @@ updated: 2026-09-05 21:35:47
 categories:
   - [Fiqh]
 tags:
-  - fiqh muamalah
-  - salam
-  - istishna
-  - bisnis pre order
-  - pesanan kustom
-  - bisnis syariah
   - shl project
+  - fiqh muamalah
+  - akad jual beli
+  - bisnis syariah
 description: Panduan mendalam fiqh salam dan istishna untuk bisnis pre-order (PO) dan pesanan manufaktur modern. Membedah rukun syarat, titik kritis gharar, dan simulasi kasus konkret.
 cover: https://img.shlproject.com/2026/09/9f04a79c5a5d83159512020b3ae82460.webp
 link: fiqh/Panduan-Fiqh-Salam-dan-Istishna-untuk-Bisnis-Pre-Order-serta-Pesanan-Kustom-Modern

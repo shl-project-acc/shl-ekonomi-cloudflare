@@ -12,13 +12,10 @@ updated: 2026-09-02 18:30:00
 categories:
   - [Fiqh]
 tags:
+  - shl project
   - fiqh muamalah
   - bisnis syariah
-  - ekonomi islam
-  - jual beli halal
   - etika bisnis
-  - shl project
-  - belajar fiqh
 description: Panduan mendalam fiqh muamalah praktis untuk pelaku usaha modern. Kupas tuntas teladan dagang Nabi, dalil hadits sahih, membedah riba gharar maisir, dan simulasi studi kasus transaksi kekinian super detail.
 cover: https://img.shlproject.com/2026/09/0824d2a8f312f591b020ff551270a5d2.webp
 ---

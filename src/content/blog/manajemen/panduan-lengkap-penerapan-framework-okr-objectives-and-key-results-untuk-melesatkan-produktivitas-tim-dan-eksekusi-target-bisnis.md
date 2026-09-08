@@ -7,19 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-07 19:00:00
-updated: 2026-09-07 09:23:22
+updated: 2026-09-07 19:00:00
 categories:
   - [Manajemen]
 tags:
-  - okr-framework
-  - objectives-and-key-results
-  - manajemen-kinerja
-  - produktivitas-tim
-  - strategi-eksekusi
-  - kepemimpinan-bisnis
-  - kpi-vs-okr
-  - manajemen-modern
-  - cfr-framework
+  - shl project
+  - manajemen kinerja
+  - produktivitas
+  - strategi bisnis
 description: Panduan lengkap penerapan framework OKR (Objectives and Key Results) dari nol. Membedah arsitektur objective kualitatif dan key results kuantitatif, perbedaan KPI vs OKR, integrasi CFR (Conversations Feedback Recognition), anti-patterns, ritme check-in mingguan, scoring grading, serta simulasi riil implementasi tim.
 cover: https://img.shlproject.com/2026/09/fed3b3dcdf098b230a14ed4ffe142db7.webp
 link: manajemen/panduan-lengkap-penerapan-framework-okr-objectives-and-key-results-untuk-melesatkan-produktivitas-tim-dan-eksekusi-target-bisnis

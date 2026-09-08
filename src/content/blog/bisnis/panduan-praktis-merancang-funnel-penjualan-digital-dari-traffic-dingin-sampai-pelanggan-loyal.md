@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-08 15:30:00
-updated: 2026-09-08 08:14:55
+updated: 2026-09-08 15:30:00
 categories:
   - [Bisnis]
 tags:
-  - sales-funnel
-  - digital-marketing
-  - lead-generation
-  - customer-retention
-  - akuisisi-pelanggan
-  - bisnis-online
+  - shl project
+  - sales & marketing
+  - strategi bisnis
+  - digital marketing
 description: Panduan praktis membangun arsitektur funnel penjualan digital modern dari tahap awareness traffic dingin, lead nurturing, tripwire offer, hingga sistem retensi pelanggan yang menghasilkan repeat order.
 cover: https://img.shlproject.com/2026/09/8311bdeb6d47c078950aba298e74771f.webp
 link: bisnis/panduan-praktis-merancang-funnel-penjualan-digital-dari-traffic-dingin-sampai-pelanggan-loyal

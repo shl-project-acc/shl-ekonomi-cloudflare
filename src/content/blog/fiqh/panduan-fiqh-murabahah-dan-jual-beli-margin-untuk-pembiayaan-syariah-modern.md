@@ -11,12 +11,10 @@ updated: 2026-09-06 09:19:40
 categories:
   - [Fiqh]
 tags:
-  - fiqh muamalah
-  - murabahah
-  - perbankan syariah
-  - jual beli syariah
-  - kpr syariah
   - shl project
+  - fiqh muamalah
+  - akad jual beli
+  - perbankan syariah
 description: Panduan mendalam fiqh murabahah dan pembiayaan jual beli margin modern. Membedah rukun kepemilikan aset qabdh, murabahah bil wakalah, denda ta'widh, dan simulasi KPR 15 tahun.
 cover: https://img.shlproject.com/2026/09/5140a4e8bb0ee3b939c159ecd1d46fff.webp
 link: fiqh/panduan-fiqh-murabahah-dan-jual-beli-margin-untuk-pembiayaan-syariah-modern

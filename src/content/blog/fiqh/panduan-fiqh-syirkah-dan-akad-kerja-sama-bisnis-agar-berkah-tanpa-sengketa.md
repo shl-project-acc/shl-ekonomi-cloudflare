@@ -11,13 +11,10 @@ updated: 2026-09-05 19:25:27
 categories:
   - [Fiqh]
 tags:
-  - fiqh muamalah
-  - syirkah
-  - mudharabah
-  - musyarakah
-  - kerja sama bisnis
-  - bisnis syariah
   - shl project
+  - fiqh muamalah
+  - akad syirkah
+  - bisnis syariah
 description: Panduan mendalam fiqh syirkah dan kemitraan bisnis modern. Membedah mudharabah, musyarakah, pembagian nisbah keuntungan, mitigasi sengketa, dan simulasi 4 kuartal usaha nyata.
 cover: https://img.shlproject.com/2026/09/b2b852095fb562d9b62431a28a2ea651.webp
 link: fiqh/Panduan-Fiqh-Syirkah-dan-Akad-Kerja-Sama-Bisnis-agar-Berkah-Tanpa-Sengketa

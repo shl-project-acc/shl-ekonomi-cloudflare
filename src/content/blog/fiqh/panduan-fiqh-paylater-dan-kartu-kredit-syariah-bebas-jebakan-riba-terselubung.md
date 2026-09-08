@@ -7,20 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-07 13:00:00
-updated: 2026-09-07 09:24:43
+updated: 2026-09-07 13:00:00
 categories:
   - [Fiqh]
 tags:
-  - fiqh-muamalah
-  - paylater-syariah
-  - kartu-kredit-syariah
-  - riba-nasiah
-  - qardh
-  - ijarah
-  - kafalah
-  - dsn-mui
-  - aaoifi
-  - financial-technology
+  - shl project
+  - fiqh muamalah
+  - fintech syariah
+  - fatwa dsn mui
 description: Panduan komprehensif fiqh paylater dan kartu kredit syariah. Membedah skema hybrid qardh, ijarah, dan kafalah, batas biaya admin riil vs riba terselubung, merchant discount rate, denda keterlambatan gharamah vs ta'widh, standar AAOIFI 2, fatwa DSN-MUI 54/2006, serta simulasi audit fintech modern.
 cover: https://img.shlproject.com/2026/09/0f4a38ccf6eefe8ac95603779e756780.webp
 link: fiqh/panduan-fiqh-paylater-dan-kartu-kredit-syariah-bebas-jebakan-riba-terselubung

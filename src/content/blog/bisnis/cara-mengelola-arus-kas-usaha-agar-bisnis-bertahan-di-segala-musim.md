@@ -12,13 +12,10 @@ updated: 2026-09-02 17:30:00
 categories:
   - [Bisnis]
 tags:
-  - arus kas
-  - cash flow
-  - keuangan bisnis
-  - manajemen keuangan
-  - strategi bisnis
   - shl project
-  - bisnis pemula
+  - keuangan bisnis
+  - arus kas
+  - manajemen keuangan
 description: Panduan praktis mengelola arus kas usaha agar bisnis tidak mati mendadak di tengah jalan. Pelajari cara membaca cash flow, mencegah piutang macet, dan menghitung runway cadangan dana dengan santai.
 cover: https://img.shlproject.com/2026/09/987c1e7559dce17c30b6cc6e559e9a4a.webp
 ---

@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-08 19:30:00
-updated: 2026-09-08 08:14:19
+updated: 2026-09-08 19:30:00
 categories:
   - [Ekonomi]
 tags:
-  - stagflasi
+  - shl project
   - makroekonomi
   - inflasi
-  - alokasi-aset
-  - manajemen-portofolio
-  - krisis-ekonomi
+  - manajemen risiko
 description: Bedah tuntas fenomena stagflasi ketika inflasi tinggi bertemu resesi ekonomi, anatomi siklus krisis global, breakdown phillips curve, serta strategi alokasi portofolio defensif pelindung kekayaan.
 cover: https://img.shlproject.com/2026/09/21ec95d719784e091895e6e20d1370f0.webp
 link: ekonomi/panduan-memahami-fenomena-stagflasi-dan-strategi-alokasi-aset-perlindungan-nilai-modal

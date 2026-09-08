@@ -11,13 +11,10 @@ updated: 2026-09-04 17:56:21
 categories:
   - [Ekonomi]
 tags:
-  - hukum permintaan penawaran
-  - ekonomi mikro
-  - mekanisme harga
-  - dynamic pricing
-  - perilaku pasar
   - shl project
-  - literasi ekonomi
+  - mikroekonomi
+  - analisis pasar
+  - teori ekonomi
 description: Panduan mendalam memahami hukum permintaan dan penawaran dari lapak pasar tradisional hingga algoritma dynamic pricing platform digital. Dilengkapi rumus elastisitas praktis, studi kasus kedai kopi, dan guyonan membumi.
 cover: https://img.shlproject.com/2026/09/2c03a4f2d258611874d18e96cd2f3861.webp
 link: ekonomi/Hukum-Permintaan-dan-Penawaran-dalam-Realita-Pasar-Tradisional-sampai-Platform-Digital

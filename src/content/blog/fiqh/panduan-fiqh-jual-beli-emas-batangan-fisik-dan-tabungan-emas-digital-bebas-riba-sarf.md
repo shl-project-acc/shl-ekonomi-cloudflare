@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-06 19:00:00
-updated: 2026-09-06 09:17:27
+updated: 2026-09-06 19:00:00
 categories:
   - [Fiqh]
 tags:
-  - fiqh muamalah
-  - jual beli emas
-  - tabungan emas digital
-  - riba sarf
-  - investasi syariah
   - shl project
+  - fiqh muamalah
+  - investasi syariah
+  - riba & batil
 description: Panduan mendalam fiqh jual beli emas batangan fisik dan tabungan emas digital bebas riba sarf. Mengupas hadits komoditas ribawi, qabdh hakiki dan hukmi, serta fatwa DSN MUI 77.
 cover: https://img.shlproject.com/2026/09/3fb6e3949e9b5e6bfef742e7192bcbb4.webp
 link: fiqh/panduan-fiqh-jual-beli-emas-batangan-fisik-dan-tabungan-emas-digital-bebas-riba-sarf

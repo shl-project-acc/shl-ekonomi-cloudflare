@@ -11,13 +11,10 @@ updated: 2026-09-03 20:04:48
 categories:
   - [Ekonomi]
 tags:
-  - perilaku konsumen
-  - psikologi ekonomi
-  - belanja impulsif
-  - behavioral economics
-  - literasi keuangan
   - shl project
-  - belajar ekonomi
+  - perilaku konsumen
+  - sales & marketing
+  - literasi keuangan
 description: Menguliti rahasia psikologi di balik keputusan belanja manusia dan jebakan belanja impulsif. Pahami bias kognitif, teknik FOMO marketing, dan strategi cerdas mengendalikan dompetmu.
 cover: https://img.shlproject.com/2026/09/916c366cdc5341019cfca5723166ec16.webp
 link: ekonomi/Psikologi-Perilaku-Konsumen-dan-Alasan-Mengapa-Kita-Sering-Belanja-Impulsif

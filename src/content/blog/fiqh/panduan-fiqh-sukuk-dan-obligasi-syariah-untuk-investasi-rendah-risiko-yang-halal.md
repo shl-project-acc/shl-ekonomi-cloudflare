@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-08 08:30:00
-updated: 2026-09-08 08:18:14
+updated: 2026-09-08 08:30:00
 categories:
   - [Fiqh]
 tags:
-  - sukuk
-  - obligasi-syariah
-  - investasi-syariah
-  - fiqh-muamalah
-  - sbsn
-  - pasar-modal-syariah
+  - shl project
+  - fiqh muamalah
+  - investasi syariah
+  - pasar modal syariah
 description: Panduan komprehensif memahami fiqh sukuk dan obligasi syariah, perbedaan dengan obligasi konvensional, akad ijarah hingga wakalah, mitigasi risiko default, serta simulasi imbal hasil halal.
 cover: https://img.shlproject.com/2026/09/917b859c4cc1a1f47ea62543e2dd89b4.webp
 link: fiqh/panduan-fiqh-sukuk-dan-obligasi-syariah-untuk-investasi-rendah-risiko-yang-halal

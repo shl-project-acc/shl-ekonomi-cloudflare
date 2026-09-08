@@ -7,18 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-07 11:15:00
-updated: 2026-09-07 09:25:00
+updated: 2026-09-07 11:15:00
 categories:
   - [Fiqh]
 tags:
-  - fiqh-muamalah
-  - dropship-syariah
-  - reseller
-  - jastip-syariah
-  - bai-ma-laisa-indak
-  - wakalah-bil-ujrah
-  - akad-salam
-  - e-commerce-syariah
+  - shl project
+  - fiqh muamalah
+  - bisnis syariah
+  - akad jual beli
 description: Panduan komprehensif fiqh dropshipping, reseller, dan jastip modern. Mengurai larangan bai' ma laisa 'indak, konsep qabdh hakiki vs hukmi, skema akad salam dan wakalah bil ujrah, serta simulasi riil transaksi e-commerce bebas riba dan gharar.
 cover: https://img.shlproject.com/2026/09/82bc7f16991f05b63f8c803e064bdcca.webp
 link: fiqh/panduan-fiqh-dropshipping-reseller-dan-jastip-modern-bebas-bai-ma-laisa-indak

@@ -12,13 +12,10 @@ updated: 2026-09-01 17:44:53
 categories:
   - [Manajemen]
 tags:
-  - manajemen risiko
-  - risiko bisnis
-  - tips bisnis pemula
-  - mitigasi risiko
-  - strategi bisnis
   - shl project
-  - belajar manajemen
+  - manajemen risiko
+  - manajemen operasional
+  - strategi bisnis
 description: Panduan santai dan visual memahami konsep manajemen risiko buat pemula. Kupas tuntas metode 4T, visualisasi infografis, matriks risiko, dan filosofi ikat untamu agar bisnismu tidak gampang boncos.
 cover: https://img.shlproject.com/2026/09/e36c346e2d4b4e57b3299a3a8fc05c20.webp
 ---

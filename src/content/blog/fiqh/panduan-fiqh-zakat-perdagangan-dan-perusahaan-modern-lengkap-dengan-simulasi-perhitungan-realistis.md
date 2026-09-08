@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-08 10:45:00
-updated: 2026-09-08 08:17:59
+updated: 2026-09-08 10:45:00
 categories:
   - [Fiqh]
 tags:
-  - zakat-perdagangan
-  - zakat-perusahaan
-  - fiqh-zakat
-  - akuntansi-syariah
-  - nisab-haul
-  - bisnis-berkah
+  - shl project
+  - fiqh muamalah
+  - zakat bisnis
+  - akuntansi syariah
 description: Panduan lengkap fiqh zakat perdagangan dan perniagaan modern, metode working capital vs ekuitas terinvestasi, nisab, haul, perlakuan utang piutang, serta simulasi perhitungan nyata UMKM hingga holding.
 cover: https://img.shlproject.com/2026/09/d8c6128e8f4ddac028e7e24c1919bea1.webp
 link: fiqh/panduan-fiqh-zakat-perdagangan-dan-perusahaan-modern-lengkap-dengan-simulasi-perhitungan-realistis

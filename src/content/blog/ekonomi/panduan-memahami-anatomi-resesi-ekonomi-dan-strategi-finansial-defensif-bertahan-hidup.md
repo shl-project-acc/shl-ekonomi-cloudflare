@@ -7,19 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-07 16:30:00
-updated: 2026-09-07 09:23:53
+updated: 2026-09-07 16:30:00
 categories:
   - [Ekonomi]
 tags:
-  - resesi-ekonomi
+  - shl project
   - makroekonomi
-  - manajemen-risiko-finansial
-  - dana-darurat
-  - inflasi-dan-suku-bunga
-  - strategi-investasi-defensif
-  - cash-flow-management
-  - literasi-keuangan
-  - krisis-ekonomi
+  - manajemen risiko
+  - literasi keuangan
 description: Panduan komprehensif memahami anatomi resesi ekonomi, kurva imbal hasil terbalik (inverted yield curve), transmisi suku bunga bank sentral, komparasi krisis historis, serta strategi proteksi aset defensif dan alokasi dana darurat bertahan hidup.
 cover: https://img.shlproject.com/2026/09/3676e30b995278f54e4f3cab1b4f2e88.webp
 link: ekonomi/panduan-memahami-anatomi-resesi-ekonomi-dan-strategi-finansial-defensif-bertahan-hidup

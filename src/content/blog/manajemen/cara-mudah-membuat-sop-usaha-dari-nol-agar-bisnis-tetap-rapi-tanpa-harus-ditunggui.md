@@ -11,12 +11,10 @@ updated: 2026-09-05 19:26:01
 categories:
   - [Manajemen]
 tags:
-  - sop bisnis
-  - standar operasional prosedur
-  - sistemasi bisnis
-  - manajemen operasional
-  - otomatisasi usaha
   - shl project
+  - sop bisnis
+  - manajemen operasional
+  - bisnis pemula
 description: Panduan praktis menyusun Standar Operasional Prosedur (SOP) usaha dari nol. Mengubah bisnis yang bergantung pada pemilik menjadi sistem mandiri yang rapi, efisien, dan autopilot.
 cover: https://img.shlproject.com/2026/09/eae9b89ce86200fb995ef3d1a966d15b.webp
 link: manajemen/Cara-Mudah-Membuat-SOP-Usaha-dari-Nol-agar-Bisnis-Tetap-Rapi-Tanpa-Harus-Ditunggui

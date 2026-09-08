@@ -11,13 +11,10 @@ updated: 2026-09-03 20:05:48
 categories:
   - [Bisnis]
 tags:
-  - keuangan bisnis
-  - pemisahan keuangan
-  - pembukuan sederhana
-  - manajemen keuangan
-  - bisnis pemula
   - shl project
-  - belajar bisnis
+  - keuangan bisnis
+  - literasi keuangan
+  - bisnis pemula
 description: Panduan praktis memisahkan rekening pribadi dan kas usaha dari nol. Bebaskan bisnismu dari jebakan bocor halus, penetapan gaji pemilik yang adil, dan simulasi studi kasus konkret.
 cover: https://img.shlproject.com/2026/09/ddb2bbc50eb0eb735618f2aa3fec644a.webp
 link: bisnis/Cara-Praktis-Memisahkan-Keuangan-Pribadi-dan-Usaha-agar-Saldo-Tidak-Bocor-Halus

@@ -11,13 +11,10 @@ updated: 2026-09-04 17:55:00
 categories:
   - [Bisnis]
 tags:
-  - negosiasi bisnis
-  - win win negotiation
-  - kemitraan bisnis
-  - batna dan zopa
-  - etika bisnis
   - shl project
+  - negosiasi bisnis
   - strategi bisnis
+  - komunikasi bisnis
 description: Panduan mendalam seni dan teknik negosiasi bisnis modern yang mengedepankan prinsip win-win solution. Dilengkapi konsep BATNA, ZOPA, taktik menghadapi negosiator agresif, etika syariah, dan simulasi kasus kemitraan rantai pasok.
 cover: https://img.shlproject.com/2026/09/99c150f253c278f0b7150bd5f260b244.webp
 link: bisnis/Teknik-Negosiasi-Bisnis-yang-Membangun-Hubungan-Jangka-Panjang-Saling-Menguntungkan

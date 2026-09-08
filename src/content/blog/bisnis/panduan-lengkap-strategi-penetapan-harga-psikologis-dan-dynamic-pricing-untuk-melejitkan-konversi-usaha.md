@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-08 13:15:00
-updated: 2026-09-08 08:17:41
+updated: 2026-09-08 13:15:00
 categories:
   - [Bisnis]
 tags:
-  - pricing-strategy
-  - psychological-pricing
-  - dynamic-pricing
-  - strategi-bisnis
-  - konversi-penjualan
-  - margin-profit
+  - shl project
+  - strategi pricing
+  - sales & marketing
+  - strategi bisnis
 description: Kupas tuntas strategi penetapan harga psikologis dari charm pricing, decoy effect, tiered Good-Better-Best, hingga dynamic pricing cerdas untuk menaikkan omzet dan melindungi profit margin usaha.
 cover: https://img.shlproject.com/2026/09/156f02da7c1a4c6858df85d4610e4da2.webp
 link: bisnis/panduan-lengkap-strategi-penetapan-harga-psikologis-dan-dynamic-pricing-untuk-melejitkan-konversi-usaha

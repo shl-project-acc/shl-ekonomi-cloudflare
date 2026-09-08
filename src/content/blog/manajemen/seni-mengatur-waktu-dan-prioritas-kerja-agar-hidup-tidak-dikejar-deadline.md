@@ -11,13 +11,9 @@ updated: 2026-09-04 17:49:10
 categories:
   - [Manajemen]
 tags:
+  - shl project
   - manajemen waktu
   - produktivitas
-  - prioritas kerja
-  - time management
-  - tips produktif
-  - shl project
-  - manajemen diri
 description: Panduan mendalam seni mengelola waktu dan memilah prioritas kerja tanpa stres. Dilengkapi matriks Eisenhower praktis, teknik time blocking, simulasi studi kasus nyata, dan guyonan membumi.
 cover: https://img.shlproject.com/2026/09/cdbdc223e3943248c31ce4b8fb5bab76.webp
 link: manajemen/Seni-Mengatur-Waktu-dan-Prioritas-Kerja-agar-Hidup-Tidak-Dikejar-Deadline

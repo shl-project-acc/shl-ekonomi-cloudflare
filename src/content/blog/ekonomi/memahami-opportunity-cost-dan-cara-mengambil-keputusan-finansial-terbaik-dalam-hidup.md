@@ -11,13 +11,10 @@ updated: 2026-09-05 19:25:50
 categories:
   - [Ekonomi]
 tags:
-  - opportunity cost
-  - biaya peluang
-  - keputusan finansial
-  - literasi keuangan
-  - ekonomi terapan
-  - sunk cost fallacy
   - shl project
+  - literasi keuangan
+  - mikroekonomi
+  - pengambilan keputusan
 description: Panduan mendalam memahami konsep opportunity cost (biaya peluang) dalam kehidupan nyata. Membedah trade-off tersembunyi, sunk cost fallacy, dan simulasi alokasi modal 50 juta.
 cover: https://img.shlproject.com/2026/09/67e175bd7350a5a7868a2609a5c1720c.webp
 link: ekonomi/Memahami-Opportunity-Cost-dan-Cara-Mengambil-Keputusan-Finansial-Terbaik-dalam-Hidup

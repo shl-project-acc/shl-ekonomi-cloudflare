@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-08 17:45:00
-updated: 2026-09-08 08:14:38
+updated: 2026-09-08 17:45:00
 categories:
   - [Manajemen]
 tags:
-  - kpi
-  - manajemen-kinerja
-  - key-performance-indicators
-  - manajemen-sdm
-  - evaluasi-kinerja
-  - produktivitas-tim
+  - shl project
+  - manajemen kinerja
+  - manajemen sdm
+  - produktivitas
 description: Panduan komprehensif merancang Key Performance Indicators (KPI) yang terukur, transparan, bebas bias evaluasi, lengkap dengan matriks cascading target, formula pembobotan, dan individual development plan.
 cover: https://img.shlproject.com/2026/09/6ead318912ae5214bd9f81b0c682a696.webp
 link: manajemen/panduan-lengkap-merancang-kpi-karyawan-dan-sistem-penilaian-kinerja-yang-adil-tanpa-drama

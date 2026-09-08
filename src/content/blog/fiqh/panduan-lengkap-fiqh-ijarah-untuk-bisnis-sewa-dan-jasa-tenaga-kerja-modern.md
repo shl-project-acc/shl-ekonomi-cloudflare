@@ -11,13 +11,10 @@ updated: 2026-09-04 17:55:35
 categories:
   - [Fiqh]
 tags:
-  - fiqh ijarah
-  - sewa menyewa syariah
-  - upah tenaga kerja
-  - fiqh muamalah
-  - imbt
   - shl project
-  - bisnis berkah
+  - fiqh muamalah
+  - akad ijarah
+  - etika bisnis
 description: Panduan komprehensif fiqh ijarah terlengkap untuk bisnis sewa properti, rental kendaraan, cloud SaaS, hingga akad ketenagakerjaan dan freelancer modern. Dilengkapi dalil hadits sahih, komparasi empat mazhab, fatwa DSN-MUI, studi kasus simulasi mendalam, dan komparasi halal-haram.
 cover: https://img.shlproject.com/2026/09/bc4953d88ebed3c28c96d3f830b5d646.webp
 link: fiqh/Panduan-Lengkap-Fiqh-Ijarah-untuk-Bisnis-Sewa-dan-Jasa-Tenaga-Kerja-Modern

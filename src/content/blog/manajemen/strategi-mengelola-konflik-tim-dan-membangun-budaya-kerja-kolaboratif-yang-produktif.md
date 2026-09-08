@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-06 13:15:00
-updated: 2026-09-06 09:18:34
+updated: 2026-09-06 13:15:00
 categories:
   - [Manajemen]
 tags:
-  - manajemen konflik
-  - kepemimpinan tim
-  - budaya kerja
-  - komunikasi efektif
-  - produktivitas tim
   - shl project
+  - manajemen tim
+  - kepemimpinan
+  - produktivitas
 description: Panduan strategis mengelola konflik dalam tim kerja dan membangun budaya kolaborasi produktif. Membedah model Thomas Kilmann, Non Violent Communication, dan mediasi pimpinan.
 cover: https://img.shlproject.com/2026/09/3337c81fbc51c722ff46cb9d28d401f4.webp
 link: manajemen/strategi-mengelola-konflik-tim-dan-membangun-budaya-kerja-kolaboratif-yang-produktif

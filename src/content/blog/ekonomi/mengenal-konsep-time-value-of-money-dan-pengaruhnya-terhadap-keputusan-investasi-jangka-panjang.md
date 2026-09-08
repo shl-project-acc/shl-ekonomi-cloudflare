@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-06 15:30:00
-updated: 2026-09-06 09:17:56
+updated: 2026-09-06 15:30:00
 categories:
   - [Ekonomi]
 tags:
-  - time value of money
-  - nilai waktu uang
-  - investasi syariah
-  - perencanaan keuangan
-  - inflasi
   - shl project
+  - literasi keuangan
+  - investasi
+  - makroekonomi
 description: Panduan mendalam konsep Time Value of Money dalam ekonomi dan investasi jangka panjang. Membedah Present Value, Future Value, komparasi instrumen, dan telaah fiqh syariah.
 cover: https://img.shlproject.com/2026/09/23e62b69a5d44c965849a16ce295692a.webp
 link: ekonomi/mengenal-konsep-time-value-of-money-dan-pengaruhnya-terhadap-keputusan-investasi-jangka-panjang

@@ -11,20 +11,10 @@ updated: 2026-09-03 18:00:00
 categories:
   - [Weekly]
 tags:
+  - shl project
   - weekly log
   - android development
-  - shl quran pro
-  - qodho reminder
   - vibe coding
-  - google ai studio
-  - hermes agent
-  - android studio
-  - closed testing
-  - changelog
-  - bug hunting
-  - kotlin compose
-  - app widget
-  - shl project
 description: Catatan mingguan super lengkap dan santai seputar perjalanan eksperimen vibe coding Android modern. Mengupas tuntas kolaborasi Google AI Studio, Hermes, dan Android Studio dalam meracik SHL Quran Pro dan Qodho Reminder, validitas data mushaf, logika matematika runway ibadah, arsitektur widget obsidian gold, drama perburuan bug memori, riwayat changelog versi, hingga suka duka menembus ujian 20 tester 14 hari di Google Play Console.
 cover: https://img.shlproject.com/2026/09/108d1afdd78d0ca5814d6f8591721686.webp
 link: weekly/Catatan-Mingguan-Eksperimen-Vibe-Coding-Android-Membangun-SHL-Quran-Pro-dan-Qodho-Reminder

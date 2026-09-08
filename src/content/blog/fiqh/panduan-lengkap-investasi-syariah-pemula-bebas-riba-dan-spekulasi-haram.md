@@ -11,13 +11,10 @@ updated: 2026-09-03 20:06:05
 categories:
   - [Fiqh]
 tags:
-  - investasi syariah
-  - fiqh muamalah
-  - saham syariah
-  - sukuk
-  - reksadana syariah
   - shl project
-  - belajar fiqh
+  - fiqh muamalah
+  - investasi syariah
+  - pasar modal syariah
 description: Panduan mendalam investasi syariah bagi pemula bebas riba, gharar, dan maisir. Lengkap dengan dalil hadits sahih, teladan sahabat, kriteria screening DES OJK, bedah saham sukuk emas kripto, rumus purifikasi dividen, dan simulasi portofolio nyata.
 cover: https://img.shlproject.com/2026/09/14fda3a1aa75c6707e1b3be51980ca7a.webp
 link: fiqh/Panduan-Lengkap-Investasi-Syariah-Pemula-Bebas-Riba-dan-Spekulasi-Haram

@@ -7,18 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-07 09:30:00
-updated: 2026-09-07 09:25:18
+updated: 2026-09-07 09:30:00
 categories:
   - [Fiqh]
 tags:
-  - fiqh-muamalah
-  - ijarah-muntahiyah-bittamlik
-  - imbt
-  - sewa-beli-syariah
-  - properti-syariah
-  - pembiayaan-syariah
-  - dsn-mui
-  - aaoifi
+  - shl project
+  - fiqh muamalah
+  - akad ijarah
+  - properti syariah
 description: Panduan komprehensif fiqh Ijarah Muntahiyah Bittamlik (IMBT), membedah legalitas sewa beli syariah, pemisahan akad dan wa'ad, pembagian beban maintenance, fatwa DSN-MUI 27/2002, standar AAOIFI 9, serta simulasi riil kepemilikan aset modern.
 cover: https://img.shlproject.com/2026/09/64d2634b77faa6bb93b72d3df9cd047e.webp
 link: fiqh/panduan-fiqh-ijarah-muntahiyah-bittamlik-dan-skema-sewa-beli-syariah-untuk-kepemilikan-aset-modern

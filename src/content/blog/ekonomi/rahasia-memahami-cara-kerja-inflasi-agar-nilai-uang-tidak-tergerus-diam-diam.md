@@ -7,17 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-02 18:00:00
-updated: 2026-09-02 17:50:02
+updated: 2026-09-02 18:00:00
 categories:
   - [Ekonomi]
 tags:
-  - inflasi
-  - daya beli
-  - keuangan
-  - ekonomi makro
-  - strategi keuangan
   - shl project
-  - belajar ekonomi
+  - inflasi
+  - makroekonomi
+  - literasi keuangan
 description: Kupas tuntas cara kerja inflasi dengan santai, humor membumi, dan contoh nyata lengkap. Pahami kenapa uang kas menyusut diam-diam dan bagaimana cara melindungi daya belimu.
 cover: https://img.shlproject.com/2026/09/f88ac076be1353c05862be2bf6f06cc9.webp
 link: ekonomi/Rahasia-Memahami-Cara-Kerja-Inflasi-agar-Nilai-Uang-Tidak-Tergerus-Diam-Diam

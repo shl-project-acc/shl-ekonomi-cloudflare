@@ -7,19 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-07 14:45:00
-updated: 2026-09-07 09:24:19
+updated: 2026-09-07 14:45:00
 categories:
   - [Bisnis]
 tags:
-  - unit-economics
-  - customer-lifetime-value
-  - ltv-cac
-  - customer-acquisition-cost
-  - manajemen-keuangan-usaha
-  - strategi-bisnis
-  - scaling-bisnis
-  - umkm-modern
-  - cohort-analysis
+  - shl project
+  - keuangan bisnis
+  - sales & marketing
+  - analisis bisnis
 description: Panduan mendalam unit economics, Customer Lifetime Value (LTV), dan Customer Acquisition Cost (CAC). Membedah profitabilitas per unit, payback period, cohort retention analysis, perbedaan model SaaS vs E-Commerce, serta simulasi matematis multi-skenario agar bisnis untung sejak transaksi pertama.
 cover: https://img.shlproject.com/2026/09/116bb0a4dcb400e48cf0cef1a900f57c.webp
 link: bisnis/panduan-lengkap-unit-economics-dan-customer-lifetime-value-ltv-cac-untuk-memastikan-bisnis-untung-sejak-transaksi-pertama

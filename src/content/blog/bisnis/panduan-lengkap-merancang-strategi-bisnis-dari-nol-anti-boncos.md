@@ -12,13 +12,10 @@ updated: 2026-09-02 16:30:00
 categories:
   - [Bisnis]
 tags:
+  - shl project
   - strategi bisnis
   - bisnis pemula
-  - model bisnis
-  - validasi pasar
-  - ide bisnis
-  - shl project
-  - manajemen bisnis
+  - perencanaan bisnis
 description: Panduan praktis dan membumi merancang strategi bisnis dari nol tanpa pusing. Pelajari cara validasi pasar modal minim, merumuskan value proposition memikat, hingga menyusun rencana operasional yang tahan banting.
 cover: https://img.shlproject.com/2026/09/cb5410b5229420ffca7d2a3a353aa43e.webp
 ---

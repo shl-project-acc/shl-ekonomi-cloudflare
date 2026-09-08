@@ -90,7 +90,7 @@ const jsonLd = {
 };
 
 const categoryArr = getCategoryArr(categories?.[0]);
-const categoryStr = categoryArr?.length ? ` | ${categoryArr.map((c) => translateCategoryName(c, locale)).join(' / ')}` : '';
+// const categoryStr = categoryArr?.length ? ` | ${categoryArr.map((c) => translateCategoryName(c, locale)).join(' / ')}` : '';
 
 // Generate breadcrumb data for categories (translated for current locale)
 const breadcrumbCategories = [];
@@ -158,7 +158,7 @@ if (post.data.description) {
 ---
 
 <Layout
-  title={`${post.data.title}${categoryStr} | ${siteConfig.title}`}
+  title={`${post.data.title} – ${siteConfig.alternate || 'SHL PROJECT'}`}
   description={finalDescription}
   siderType={HomeSiderType.POST}
   post={post}

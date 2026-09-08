@@ -7,16 +7,14 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-06 10:45:00
-updated: 2026-09-06 09:19:02
+updated: 2026-09-06 10:45:00
 categories:
   - [Bisnis]
 tags:
-  - break even point
-  - bep usaha
-  - keuangan bisnis
-  - titik impas
-  - manajemen umkm
   - shl project
+  - keuangan bisnis
+  - analisis bisnis
+  - strategi bisnis
 description: Panduan lengkap analisis Break Even Point dan perhitungan titik impas bisnis UMKM. Mengupas fixed cost, variable cost, contribution margin, dan simulasi skenario riil usaha.
 cover: https://img.shlproject.com/2026/09/41b90da929eb0c2bdb3d2156ec60bbcb.webp
 link: bisnis/panduan-praktis-analisis-break-even-point-dan-titik-impas-usaha-untuk-memastikan-bisnis-balik-modal

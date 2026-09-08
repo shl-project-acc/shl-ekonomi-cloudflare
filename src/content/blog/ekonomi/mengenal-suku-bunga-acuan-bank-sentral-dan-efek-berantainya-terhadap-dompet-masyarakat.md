@@ -11,12 +11,9 @@ updated: 2026-09-04 17:55:56
 categories:
   - [Ekonomi]
 tags:
-  - suku bunga acuan
-  - bank sentral
-  - bi rate
-  - kebijakan moneter
-  - inflasi dan kredit
   - shl project
+  - makroekonomi
+  - kebijakan moneter
   - literasi keuangan
 description: Panduan mendalam memahami mekanisme suku bunga acuan bank sentral (BI-Rate dan The Fed) serta transmisi efek dominonya ke cicilan KPR, pinjaman usaha, dan daya beli masyarakat. Dilengkapi simulasi komparasi nyata dan guyonan membumi.
 cover: https://img.shlproject.com/2026/09/fd65343ba943bde2b105d56203dc19bb.webp

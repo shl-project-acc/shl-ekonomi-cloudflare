@@ -11,13 +11,10 @@ updated: 2026-09-07 09:21:33
 categories:
   - [Bisnis]
 tags:
-  - hpp
-  - harga pokok penjualan
-  - penetapan harga
-  - strategi pricing
-  - manajemen keuangan
-  - bisnis pemula
   - shl project
+  - keuangan bisnis
+  - strategi pricing
+  - manajemen operasional
 description: Panduan praktis dan lengkap menghitung HPP dari nol untuk bisnis kuliner dan produk fisik. Membedah biaya tersembunyi, formula mark up, value based pricing, dan simulasi studi kasus konkret.
 cover: https://img.shlproject.com/2026/09/344566538cddfe721f9ccc696dbb5c7b.webp
 link: bisnis/Panduan-Praktis-Menghitung-HPP-dan-Menentukan-Harga-Jual-Produk-agar-Tidak-Merugi
