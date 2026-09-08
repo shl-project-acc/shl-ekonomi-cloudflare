@@ -28,6 +28,7 @@ import { Icon } from 'astro-icon/components';
 import { Comment } from '@/components/comment';
 import EditButton from '@/components/EditButton';
 import AuthorSupportCard from '@/components/post/AuthorSupportCard.astro';
+import ShareCard from '@/components/post/ShareCard.astro';
 import { defaultLocale, getLocaleFromUrl, getLocaleLabel, localizedPath, t } from '@/i18n';
 import { extractTextFromMarkdown } from '@/lib/sanitize';
 
@@ -217,6 +218,7 @@ if (post.data.description) {
       <article class="prose dark:prose-invert" data-pagefind-body>
         <CustomContent Content={Content} />
       </article>
+      <ShareCard title={post.data.title} cover={post.data.cover} />
       <AuthorSupportCard />
       <Comment />
     </div>

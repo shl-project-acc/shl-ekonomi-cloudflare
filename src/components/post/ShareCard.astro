@@ -1,0 +1,493 @@
+---
+/**
+ * 3D Smart Dynamic Expanding Share Card
+ * Placed above the Author & Support Card at the end of every blog post.
+ * Features 3D flip on [+] click, dynamic height morphing, and auto-flip on click outside.
+ */
+import { Icon } from 'astro-icon/components';
+
+interface Props {
+  title: string;
+  url?: string;
+  cover?: string;
+  className?: string;
+}
+
+const {
+  title,
+  url,
+  cover = 'https://img.shlproject.com/2026/09/e36c346e2d4b4e57b3299a3a8fc05c20.webp',
+  className = '',
+} = Astro.props;
+
+const shareUrl = url || Astro.url.href;
+---
+
+<div class={`share-card-wrapper my-4 w-full select-none ${className}`}>
+  <div class="share-flip-box" id="article-share-flip-box">
+    <div class="share-flip-box-inner">
+      
+      <!-- ==================================================== -->
+      <!-- FRONT FACE: SLIM COMPACT QUICK SHARE BAR (125px)    -->
+      <!-- ==================================================== -->
+      <div class="flip-face flip-face-front cyber-grid flex flex-col justify-between p-3 sm:p-3.5 bg-card border border-border shadow-sm">
+        <!-- Corner Brackets -->
+        <div class="corner-bracket-tl"></div>
+        <div class="corner-bracket-br"></div>
+
+        <!-- Top Row: Header -->
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-1.5 min-w-0">
+            <Icon name="ri:share-forward-line" class="h-3.5 w-3.5 text-primary shrink-0" />
+            <span class="truncate font-mono text-[9.5px] sm:text-[10.5px] font-bold uppercase tracking-wider text-primary">
+              BAGIKAN ARTIKEL // SPREAD THE BENEFIT
+            </span>
+          </div>
+        </div>
+
+        <!-- Center Content: Compact Title & Quick Share Buttons -->
+        <div class="my-auto py-0.5 flex flex-col sm:flex-row sm:items-center justify-between gap-2.5">
+          <!-- Article Mini Teaser -->
+          <div class="flex items-center gap-2.5 min-w-0 flex-1">
+            <div
+              class="w-9 h-9 sm:w-10 sm:h-10 rounded-lg bg-cover bg-center shrink-0 border border-border shadow-xs"
+              style={`background-image: url('${cover}')`}
+            ></div>
+            <div class="min-w-0 flex-1">
+              <h4 class="text-xs sm:text-[13px] font-bold truncate text-foreground">
+                {title}
+              </h4>
+              <p class="text-[9.5px] sm:text-[10.5px] text-muted-foreground truncate font-mono">
+                {shareUrl}
+              </p>
+            </div>
+          </div>
+
+          <!-- Quick Share Buttons (WhatsApp, Facebook, X, +) -->
+          <div class="flex items-center gap-1.5 shrink-0">
+            <!-- WhatsApp -->
+            <a
+              href={`https://api.whatsapp.com/send?text=${encodeURIComponent(title + '\n\n' + shareUrl)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: #25D366;"
+              class="shoka-social-btn px-2.5 py-1.5 text-xs font-semibold gap-1 bg-muted/60 border border-border"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:whatsapp-line" class="h-3.5 w-3.5" />
+              <span class="font-sans text-[11px]">WhatsApp</span>
+            </a>
+
+            <!-- Facebook -->
+            <a
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: #1877F2;"
+              class="shoka-social-btn px-2.5 py-1.5 text-xs font-semibold gap-1 bg-muted/60 border border-border"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:facebook-fill" class="h-3.5 w-3.5" />
+              <span class="font-sans text-[11px]">Facebook</span>
+            </a>
+
+            <!-- X / Twitter -->
+            <a
+              href={`https://x.com/intent/tweet?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(title)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: hsl(var(--foreground));"
+              class="shoka-social-btn px-2.5 py-1.5 text-xs font-semibold gap-1 bg-muted/60 border border-border text-foreground"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:twitter-x-line" class="h-3.5 w-3.5" />
+              <span class="font-sans text-[11px]">X</span>
+            </a>
+
+            <!-- [+] Button to Trigger Height Expansion & 3D Flip -->
+            <button
+              type="button"
+              id="trigger-share-flip-btn"
+              style="--btn-color: hsl(var(--primary));"
+              class="shoka-social-btn w-8 h-8 text-xs font-bold bg-primary/10 border border-primary/30 text-primary"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:add-line" class="h-4 w-4 font-bold" />
+            </button>
+          </div>
+        </div>
+
+        <!-- Bottom Row: Footer -->
+        <div class="flex items-center justify-between border-t border-border/60 pt-1.5 text-[9px] sm:text-[10px] text-muted-foreground font-mono">
+          <span class="text-primary/90 truncate mr-1">[ DARI ILMU KE AMAL, DARI TEORI KE PRAKTIK ]</span>
+        </div>
+      </div>
+
+      <!-- ==================================================== -->
+      <!-- BACK FACE: EXPANDED FULL SHARE VIEW (255px)          -->
+      <!-- ==================================================== -->
+      <div class="flip-face flip-face-back cyber-grid flex flex-col justify-between p-3.5 sm:p-5 bg-card border border-border shadow-xl">
+        <!-- Corner Brackets -->
+        <div class="corner-bracket-tl"></div>
+        <div class="corner-bracket-br"></div>
+
+        <!-- Top Row: Header (Clean No Extra Text) -->
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-1.5 min-w-0">
+            <Icon name="ri:apps-2-line" class="h-3.5 w-3.5 text-primary shrink-0" />
+            <span class="font-mono text-[10px] sm:text-xs font-bold uppercase tracking-wider text-primary">
+              SEMUA PLATFORM BERBAGI
+            </span>
+          </div>
+        </div>
+
+        <!-- Center Content: 8 Koharu Style Icons + Preview + Copy Link -->
+        <div class="my-auto py-1 space-y-2.5">
+          
+          <!-- 1. Compact 8 Social Icons Grid -->
+          <div class="grid grid-cols-4 sm:grid-cols-8 gap-1.5 sm:gap-2">
+            
+            <!-- WhatsApp -->
+            <a
+              href={`https://api.whatsapp.com/send?text=${encodeURIComponent(title + '\n\n' + shareUrl)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: #25D366;"
+              class="shoka-social-btn flex-col h-11 sm:h-12 w-full gap-0.5 bg-muted/60 border border-border"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:whatsapp-fill" class="h-4 w-4" />
+              <span class="text-[8.5px] sm:text-[9.5px] font-medium font-sans">WhatsApp</span>
+            </a>
+
+            <!-- Telegram -->
+            <a
+              href={`https://t.me/share/url?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(title)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: #229ED9;"
+              class="shoka-social-btn flex-col h-11 sm:h-12 w-full gap-0.5 bg-muted/60 border border-border"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:telegram-fill" class="h-4 w-4" />
+              <span class="text-[8.5px] sm:text-[9.5px] font-medium font-sans">Telegram</span>
+            </a>
+
+            <!-- Facebook -->
+            <a
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: #1877F2;"
+              class="shoka-social-btn flex-col h-11 sm:h-12 w-full gap-0.5 bg-muted/60 border border-border"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:facebook-fill" class="h-4 w-4" />
+              <span class="text-[8.5px] sm:text-[9.5px] font-medium font-sans">Facebook</span>
+            </a>
+
+            <!-- X / Twitter -->
+            <a
+              href={`https://x.com/intent/tweet?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(title)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: hsl(var(--foreground));"
+              class="shoka-social-btn flex-col h-11 sm:h-12 w-full gap-0.5 bg-muted/60 border border-border text-foreground"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:twitter-x-fill" class="h-4 w-4" />
+              <span class="text-[8.5px] sm:text-[9.5px] font-medium font-sans">X</span>
+            </a>
+
+            <!-- LinkedIn -->
+            <a
+              href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: #0A66C2;"
+              class="shoka-social-btn flex-col h-11 sm:h-12 w-full gap-0.5 bg-muted/60 border border-border"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:linkedin-fill" class="h-4 w-4" />
+              <span class="text-[8.5px] sm:text-[9.5px] font-medium font-sans">LinkedIn</span>
+            </a>
+
+            <!-- Pinterest -->
+            <a
+              href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(shareUrl)}&media=${encodeURIComponent(cover)}&description=${encodeURIComponent(title)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: #BD081C;"
+              class="shoka-social-btn flex-col h-11 sm:h-12 w-full gap-0.5 bg-muted/60 border border-border"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:pinterest-fill" class="h-4 w-4" />
+              <span class="text-[8.5px] sm:text-[9.5px] font-medium font-sans">Pinterest</span>
+            </a>
+
+            <!-- LINE -->
+            <a
+              href={`https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(shareUrl)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style="--btn-color: #00C300;"
+              class="shoka-social-btn flex-col h-11 sm:h-12 w-full gap-0.5 bg-muted/60 border border-border"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:line-fill" class="h-4 w-4" />
+              <span class="text-[8.5px] sm:text-[9.5px] font-medium font-sans">LINE</span>
+            </a>
+
+            <!-- Email -->
+            <a
+              href={`mailto:?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(title + '\n\n' + shareUrl)}`}
+              style="--btn-color: #55acd5;"
+              class="shoka-social-btn flex-col h-11 sm:h-12 w-full gap-0.5 bg-muted/60 border border-border"
+              onclick="event.stopPropagation()"
+            >
+              <span class="bg-fill"></span>
+              <Icon name="ri:mail-line" class="h-4 w-4" />
+              <span class="text-[8.5px] sm:text-[9.5px] font-medium font-sans">Email</span>
+            </a>
+          </div>
+
+          <!-- 2. Mini Thumbnail Preview & Copy Link Bar -->
+          <div class="flex items-center gap-2.5 p-2 rounded-xl bg-muted/40 border border-border">
+            <div
+              class="w-9 h-9 sm:w-10 sm:h-10 rounded-lg bg-cover bg-center shrink-0 border border-border/80 shadow-2xs"
+              style={`background-image: url('${cover}')`}
+            ></div>
+            <div class="min-w-0 flex-1">
+              <h5 class="text-[11px] sm:text-xs font-bold text-foreground truncate">
+                {title}
+              </h5>
+              <p class="font-mono text-[9.5px] sm:text-[10px] text-muted-foreground truncate">
+                {shareUrl}
+              </p>
+            </div>
+            
+            <!-- Copy Link Button -->
+            <button
+              type="button"
+              id="copy-article-link-btn"
+              data-url={shareUrl}
+              class="shrink-0 inline-flex cursor-pointer items-center justify-center rounded-lg bg-gradient-shoka-button px-2.5 sm:px-3 py-1 text-[10.5px] sm:text-xs font-bold text-primary-foreground shadow-xs transition-all hover:brightness-110 active:scale-95"
+            >
+              <span id="copy-article-link-text">Salin</span>
+            </button>
+          </div>
+
+        </div>
+
+        <!-- Bottom Row: Clean Safety Footer -->
+        <div class="flex items-center justify-between border-t border-border/60 pt-2 text-[9.5px] sm:text-[10px] text-muted-foreground font-mono">
+          <span>URL VERIFIED & SAFE</span>
+          <span class="text-primary font-medium">Jazakumullah Khairan 🌿</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<style>
+  .share-card-wrapper {
+    width: 100%;
+  }
+
+  /* Dynamic Morphing Height Container */
+  .share-flip-box {
+    perspective: 1200px;
+    width: 100%;
+    height: 125px; /* Compact Slim Height Desktop */
+    transition: height 0.55s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .share-flip-box.is-expanded {
+    height: 255px; /* Expanded Height Desktop */
+  }
+
+  @media (max-width: 640px) {
+    .share-flip-box {
+      height: 155px; /* Comfortable height on mobile */
+    }
+    .share-flip-box.is-expanded {
+      height: 285px; /* Comfortable expanded height on mobile */
+    }
+  }
+
+  .share-flip-box-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.65s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-style: preserve-3d;
+  }
+
+  .share-flip-box.is-flipped .share-flip-box-inner {
+    transform: rotateY(-180deg);
+  }
+
+  .flip-face {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .flip-face-front {
+    z-index: 2;
+    transform: rotateY(0deg);
+  }
+
+  .flip-face-back {
+    transform: rotateY(-180deg);
+    z-index: 1;
+  }
+
+  /* Extended Futuristic Corner Brackets (20px desktop / 15px mobile) */
+  .corner-bracket-tl {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    border-top: 2.5px solid hsl(var(--primary));
+    border-left: 2.5px solid hsl(var(--primary));
+    border-top-left-radius: 10px;
+    pointer-events: none;
+  }
+
+  .corner-bracket-br {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    border-bottom: 2.5px solid hsl(var(--primary));
+    border-right: 2.5px solid hsl(var(--primary));
+    border-bottom-right-radius: 10px;
+    pointer-events: none;
+  }
+
+  @media (max-width: 640px) {
+    .corner-bracket-tl,
+    .corner-bracket-br {
+      width: 15px;
+      height: 15px;
+      border-top-left-radius: 8px;
+      border-bottom-right-radius: 8px;
+    }
+  }
+
+  /* Koharu Style Diagonal Sliding Background Fill on Hover */
+  .shoka-social-btn {
+    position: relative;
+    overflow: hidden;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.625rem;
+    color: var(--btn-color);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .shoka-social-btn .bg-fill {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    border-radius: 0.625rem;
+    background-color: var(--btn-color);
+    transform: translate(-100%, 100%);
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    pointer-events: none;
+  }
+
+  .shoka-social-btn:hover {
+    transform: translateY(-1.5px) scale(1.03);
+    color: #ffffff !important;
+    border-color: var(--btn-color);
+  }
+
+  .shoka-social-btn:hover .bg-fill {
+    transform: translate(0, 0);
+  }
+
+  .shoka-social-btn :global(svg),
+  .shoka-social-btn span {
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Subtle Cyber Grid Texture */
+  .cyber-grid {
+    background-size: 20px 20px;
+    background-image: 
+      linear-gradient(to right, rgba(125, 125, 125, 0.05) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(125, 125, 125, 0.05) 1px, transparent 1px);
+  }
+</style>
+
+<script>
+  function setupArticleShareCard() {
+    const flipBox = document.getElementById('article-share-flip-box');
+    const triggerBtn = document.getElementById('trigger-share-flip-btn');
+    const copyBtn = document.getElementById('copy-article-link-btn');
+    const copyText = document.getElementById('copy-article-link-text');
+
+    if (!flipBox) return;
+
+    // Trigger 3D Flip & Expand Height on [+] click
+    triggerBtn?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      flipBox.classList.add('is-expanded');
+      flipBox.classList.add('is-flipped');
+    });
+
+    // Auto-Contract & Flip Back when clicking outside the card
+    document.addEventListener('click', (e) => {
+      if (flipBox.classList.contains('is-flipped')) {
+        const target = e.target as HTMLElement;
+        if (!flipBox.contains(target)) {
+          flipBox.classList.remove('is-flipped');
+          flipBox.classList.remove('is-expanded');
+        }
+      }
+    });
+
+    // Copy Link Handler
+    copyBtn?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const urlToCopy = copyBtn.getAttribute('data-url') || window.location.href;
+      if (urlToCopy && navigator.clipboard) {
+        navigator.clipboard.writeText(urlToCopy).then(() => {
+          if (copyText) {
+            copyText.textContent = 'Tersalin ✓';
+            setTimeout(() => {
+              if (copyText) copyText.textContent = 'Salin';
+            }, 2000);
+          }
+        });
+      }
+    });
+  }
+
+  // Support ClientRouter navigation in Astro
+  document.addEventListener('astro:page-load', setupArticleShareCard);
+  // Initial load
+  setupArticleShareCard();
+</script>
