@@ -108,8 +108,8 @@ const {
         <!-- Top Row: Support Header -->
         <div class="flex items-center justify-between gap-2">
           <div class="flex items-center gap-1.5 min-w-0">
-            <Icon name="ri:heart-pulse-fill" class="h-3.5 w-3.5 text-amber-500 dark:text-amber-400 shrink-0" />
-            <span class="truncate font-mono text-[9px] sm:text-[10px] font-bold uppercase tracking-widest text-amber-500 dark:text-amber-400">
+            <Icon name="ri:heart-pulse-fill" class="h-3.5 w-3.5 text-primary shrink-0" />
+            <span class="truncate font-mono text-[9px] sm:text-[10px] font-bold uppercase tracking-widest text-primary">
               RUANG APRESIASI & DUKUNGAN
             </span>
           </div>
@@ -119,7 +119,7 @@ const {
         <!-- Center Content: QRIS Container & Message -->
         <div class="my-auto flex items-center gap-3 sm:gap-4 py-2">
           <!-- QRIS Container -->
-          <div class="shrink-0 rounded-md border border-gray-300 bg-white p-1 shadow-sm dark:border-gray-700">
+          <div class="shrink-0 rounded-md border border-border bg-white p-1 shadow-sm dark:border-border">
             <div class="relative flex h-16 w-16 sm:h-20 sm:w-20 flex-col items-center justify-center overflow-hidden rounded bg-white p-0.5 text-gray-900">
               <img
                 src={qrisImage}
@@ -141,7 +141,7 @@ const {
               <button
                 type="button"
                 id="open-qris-modal-btn"
-                class="inline-flex cursor-pointer items-center justify-center rounded-md bg-amber-500 px-3 py-1.5 text-[11px] sm:text-xs font-bold text-gray-950 shadow-md transition-all hover:bg-amber-400 active:scale-95"
+                class="inline-flex cursor-pointer items-center justify-center rounded-md bg-gradient-shoka-button px-3.5 py-1.5 text-[11px] sm:text-xs font-bold text-primary-foreground shadow-md transition-all hover:brightness-110 active:scale-95"
               >
                 <span>Traktir Ayam Geprek | Scan QRIS</span>
               </button>
@@ -152,7 +152,7 @@ const {
         <!-- Bottom NMID & Gratitude -->
         <div class="flex items-center justify-between border-t border-border/60 pt-2.5 sm:pt-3 text-[9px] sm:text-[10px] font-mono text-muted-foreground">
           <span>NMID: {nmid}</span>
-          <span class="font-sans text-emerald-500 dark:text-emerald-400 font-medium">Jazakumullah Khairan 🌿</span>
+          <span class="font-sans text-primary font-medium">Jazakumullah Khairan 🌿</span>
         </div>
       </div>
     </div>
@@ -179,7 +179,7 @@ const {
         <Icon name="ri:close-line" class="h-5 w-5" />
       </button>
 
-      <div class="mb-2 inline-flex items-center gap-1.5 rounded-full border border-amber-500/20 bg-amber-500/10 px-3 py-1 text-[10px] sm:text-[11px] font-semibold text-amber-600 dark:text-amber-400">
+      <div class="mb-2 inline-flex items-center gap-1.5 rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-[10px] sm:text-[11px] font-semibold text-primary">
         <Icon name="ri:shield-check-line" class="h-3.5 w-3.5" />
         <span>QRIS RESMI SHL PROJECT</span>
       </div>
