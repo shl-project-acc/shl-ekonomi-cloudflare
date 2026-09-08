@@ -15,7 +15,7 @@ site:
   alternate: "SHL PROJECT" # 网站英文名称 用于页脚、Logo、@ handle 等
   subtitle: "Amalan yang paling dicintai Allah adalah amalan yang rutin dilakukan meskipun sedikit" # 网站副标题
   name: SHL # 作者名称 - 请修改为你的名字 [ID] UBAH: Nama panggilan Anda
-  description: "Pusat wawasan, riset, dan panduan praktis seputar ekonomi, bisnis, manajemen, dan fiqh muamalah kontemporer. Menjembatani teori dengan praktik nyata." # 网站描述 [ID] UBAH: Deskripsi web untuk SEO Google
+  description: "Dari Ilmu ke Amal, Dari Teori ke Praktik" # 网站描述 [ID] UBAH: Deskripsi web untuk SEO Google
   avatar: /img/avatarnews.gif # 网站头像 [ID] URL Foto Profil (Biarkan dulu jika belum diganti fotonya)
   showLogo: false # 是否显示 Logo
   author: shl project # 作者名称 - 请修改为你的名字 [ID] UBAH: Nama lengkap Anda
