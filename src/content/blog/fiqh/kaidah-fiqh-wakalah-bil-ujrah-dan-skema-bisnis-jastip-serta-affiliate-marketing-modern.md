@@ -7,7 +7,7 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-10 08:30:00
-updated: 2026-09-10 08:21:48
+updated: 2026-09-10 08:30:00
 categories:
   - [Fiqh]
 tags:

@@ -7,7 +7,7 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-09 13:15:00
-updated: 2026-09-09 09:53:48
+updated: 2026-09-09 13:15:00
 categories:
   - [Bisnis]
 tags:

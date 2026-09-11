@@ -7,7 +7,7 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-10 15:30:00
-updated: 2026-09-10 08:20:56
+updated: 2026-09-10 15:30:00
 categories:
   - [Manajemen]
 tags:

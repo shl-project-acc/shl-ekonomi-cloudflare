@@ -7,7 +7,7 @@ excludeFromSummary: false
 math: false
 quiz: false
 date: 2026-09-09 19:00:00
-updated: 2026-09-09 09:52:59
+updated: 2026-09-09 19:00:00
 categories:
   - [Ekonomi]
 tags:
