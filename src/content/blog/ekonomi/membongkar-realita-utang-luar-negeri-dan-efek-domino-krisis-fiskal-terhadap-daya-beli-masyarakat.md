@@ -244,7 +244,7 @@ Dalam kenyataan di lapangan, pasar tenaga kerja memiliki karakteristik kekakuan 
 
 Berdasarkan formula di atas, upah riil pekerja mengalami kontraksi langsung sebesar:
 
-$$\% \Delta W_{\text{real}} \approx 3% - 12% = -9%$$
+$$\% \Delta W_{\text{real}} \approx 3\% - 12\% = -9\%$$
 
 Penurunan upah riil sebesar 9% dalam satu tahun berarti keluarga tersebut secara efektif kehilangan hampir sepersepuluh dari seluruh standar hidup mereka. Untuk mempertahankan konsumsi makanan pokok, keluarga kelas menengah terpaksa melakukan kompromi finansial yang menyakitkan:
 

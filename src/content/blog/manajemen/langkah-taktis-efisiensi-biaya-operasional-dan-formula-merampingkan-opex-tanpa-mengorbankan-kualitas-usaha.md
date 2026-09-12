@@ -145,7 +145,7 @@ Dalam kerangka penganggaran berbasis nol (*Zero-Based Budgeting*), varians angga
 
 $$\Delta ZBB = \text{Actual Opex} - \text{Justified Baseline Budget}$$
 
-$$% \text{ZBB Variance} = \left( \frac{\text{Actual Opex} - \text{Justified Baseline Budget}}{\text{Justified Baseline Budget}} \right) \times 100\%$$
+$$\% \text{ZBB Variance} = \left( \frac{\text{Actual Opex} - \text{Justified Baseline Budget}}{\text{Justified Baseline Budget}} \right) \times 100\%$$
 
 Jika $\% \text{ZBB Variance}$ bernilai positif, hal tersebut menandakan adanya pembengkakan biaya tidak terjustifikasi (*budget padding* atau *unauthorized spending*) yang harus segera dieliminasi pada siklus anggaran berikutnya.
 

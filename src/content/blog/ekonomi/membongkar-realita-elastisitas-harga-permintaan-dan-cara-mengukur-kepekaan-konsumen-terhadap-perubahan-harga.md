@@ -360,12 +360,12 @@ Berikut adalah panduan aksi penetapan harga berdasarkan karakteristik elastisita
 * *Strategi:* Fokus pada optimalisasi efisiensi biaya operasional (HPP) untuk memaksimalkan laba bersih (*net profit*), bukan mengutak-atik harga jual.
 
 | Kondisi Elastisitas | Arah Perubahan Harga | Arah Perubahan Kuantitas | Dampak Terhadap Total Revenue | Rekomendasi Keputusan Bisnis           |
-| ------------------- | -------------------- | ------------------------ | ----------------------------- | -------------------------------------- |
-| **Elastis ( > 1$)** | Naik ($\uparrow$) | Turun Drastis ($\downarrow\downarrow$) | Menurun Drastis ($\downarrow$) | Jangan naikkan harga tanpa diferensiasi |
-| **Elastis ( > 1$)** | Turun ($\downarrow$) | Naik Drastis ($\uparrow\uparrow$) | Meningkat ($\uparrow$) | Berikan diskon atau promo bundling |
-| **Inelastis ( < 1$)** | Naik ($\uparrow$) | Turun Sedikit ($\downarrow$) | Meningkat ($\uparrow$) | Naikkan harga secara bertahap |
-| **Inelastis ( < 1$)** | Turun ($\downarrow$) | Naik Sedikit ($\uparrow$) | Menurun ($\downarrow$) | Hindari perang harga atau diskon besar |
-| **Uniter ( = 1$)** | Naik / Turun | Berubah Seimbang | Tetap Konstan ($\leftrightarrow$) | Efisiensi biaya internal dan HPP |
+| :--- | :--- | :--- | :--- | :--- |
+| **Elastis ($PED > 1$)** | Naik ($\uparrow$) | Turun Drastis ($\downarrow\downarrow$) | Menurun Drastis ($\downarrow$) | Jangan naikkan harga tanpa diferensiasi |
+| **Elastis ($PED > 1$)** | Turun ($\downarrow$) | Naik Drastis ($\uparrow\uparrow$) | Meningkat ($\uparrow$) | Berikan diskon atau promo bundling |
+| **Inelastis ($PED < 1$)** | Naik ($\uparrow$) | Turun Sedikit ($\downarrow$) | Meningkat ($\uparrow$) | Naikkan harga secara bertahap |
+| **Inelastis ($PED < 1$)** | Turun ($\downarrow$) | Naik Sedikit ($\uparrow$) | Menurun ($\downarrow$) | Hindari perang harga atau diskon besar |
+| **Uniter ($PED = 1$)** | Naik / Turun | Berubah Seimbang | Tetap Konstan ($\leftrightarrow$) | Efisiensi biaya internal dan HPP |
 
 ## Simulasi Komprehensif Finansial 4 Kuartal UMKM Kedai Kopi dan Roti Artisanal
 

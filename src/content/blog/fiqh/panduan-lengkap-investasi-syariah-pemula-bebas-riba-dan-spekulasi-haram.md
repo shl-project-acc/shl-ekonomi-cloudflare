@@ -184,7 +184,7 @@ $$\text{Nominal Purifikasi} = \text{Total Dividen yang Diterima} \times \left( \
 
   * Pendapatan Bunga Giro Bank: Rp 15.000.000.000 (15 Miliar atau setara **1,5%**).
 
-* Maka porsi dana yang wajib kamu purifikasikan adalah: $$\text{Dana Purifikasi} = \text{Rp } 10.000.000 \times 1,5% = \text{Rp } 150.000$$
+* Maka porsi dana yang wajib kamu purifikasikan adalah: $$\text{Dana Purifikasi} = \text{Rp } 10.000.000 \times 1{,}5\% = \text{Rp } 150.000$$
 
 * Uang Rp 150.000 tersebut kamu transfer ke lembaga amil zakat resmi untuk program pembuatan sumur air bersih atau renovasi jembatan desa, sedangkan sisa **Rp 9.850.000** berstatus 100\% halal murni dan bersih untuk kamu nikmati.
 
