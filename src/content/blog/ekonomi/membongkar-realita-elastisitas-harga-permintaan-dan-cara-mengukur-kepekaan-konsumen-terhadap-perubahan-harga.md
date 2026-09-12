@@ -242,13 +242,13 @@ Bentuk kurva permintaannya adalah garis vertikal tegak lurus sejajar dengan sumb
 
 Contoh klasik di dunia nyata adalah obat-obatan penyelamat nyawa (*life-saving drugs*) yang tidak memiliki substitusi, seperti insulin bagi penderita diabetes melitus tipe 1, tabung oksigen murni saat krisis pernapasan darurat, atau obat kemoterapi kanker langka. Pasien membutuhkan dosis yang tepat sesuai anjuran dokter. Jika harga insulin naik lima kali lipat, pasien tetap harus membelinya agar bertahan hidup. Sebaliknya, jika harga insulin didiskon 90 persen, pasien tidak akan meminum dosis sepuluh kali lipat lebih banyak.
 
-| Kategori Elastisitas   | Nilai Mutlak PED | Respon Kuantitas vs Harga | Bentuk Kemiringan Kurva | Contoh Komoditas Riil                  |
-| ---------------------- | ---------------- | ------------------------- | ----------------------- | -------------------------------------- |
-| **Elastis Sempurna**   | $                | PED                       | = \infty$               | Berubah tak terhingga pada harga tetap |
-| **Relatif Elastis**    | $                | PED                       | > 1$                    | $\\% \Delta Q > \\% \Delta P$              |
-| **Elastis Uniter**     | $                | PED                       | = 1$                    | $\\% \Delta Q = \\% \Delta P$              |
-| **Relatif Inelastis**  | $                | PED                       | < 1$                    | $\\% \Delta Q < \\% \Delta P$              |
-| **Inelastis Sempurna** | $                | PED                       | = 0$                    | $\\% \Delta Q = 0$                       |
+| Kategori Elastisitas | Nilai Mutlak PED | Respon Kuantitas vs Harga | Bentuk Kemiringan Kurva | Contoh Komoditas Riil |
+| :--- | :--- | :--- | :--- | :--- |
+| **Elastis Sempurna** | $PED = \infty$ | Berubah tak terhingga pada harga tetap | Garis Horizontal | Komoditas pertanian di pasar persaingan sempurna |
+| **Relatif Elastis** | $PED > 1$ | $\% \Delta Q > \% \Delta P$ | Landai (*Flat Slope*) | Pakaian branded, tiket liburan, deterjen |
+| **Elastis Uniter** | $PED = 1$ | $\% \Delta Q = \% \Delta P$ | Hiperbola Persegi | Produk elektronik sekunder standar |
+| **Relatif Inelastis** | $PED < 1$ | $\% \Delta Q < \% \Delta P$ | Curam (*Steep Slope*) | Beras, bensin, listrik, garam dapur |
+| **Inelastis Sempurna** | $PED = 0$ | $\% \Delta Q = 0$ | Garis Vertikal Tegak Lurus | Insulin diabetes tipe 1, tabung oksigen |
 
 ## Faktor Penentu yang Membentuk Derajat Elastisitas Produk di Pasar
 
@@ -361,11 +361,11 @@ Berikut adalah panduan aksi penetapan harga berdasarkan karakteristik elastisita
 
 | Kondisi Elastisitas | Arah Perubahan Harga | Arah Perubahan Kuantitas | Dampak Terhadap Total Revenue | Rekomendasi Keputusan Bisnis           |
 | ------------------- | -------------------- | ------------------------ | ----------------------------- | -------------------------------------- |
-| **Elastis ($        | PED                  | > 1$)**                  | Naik ($\uparrow$)             | Turun Drastis ($\downarrow\downarrow$) |
-| **Elastis ($        | PED                  | > 1$)**                  | Turun ($\downarrow$)          | Naik Drastis ($\uparrow\uparrow$)      |
-| **Inelastis ($      | PED                  | < 1$)**                  | Naik ($\uparrow$)             | Turun Sedikit ($\downarrow$)           |
-| **Inelastis ($      | PED                  | < 1$)**                  | Turun ($\downarrow$)          | Naik Sedikit ($\uparrow$)              |
-| **Uniter ($         | PED                  | = 1$)**                  | Naik / Turun                  | Berubah Seimbang                       |
+| **Elastis ( > 1$)** | Naik ($\uparrow$) | Turun Drastis ($\downarrow\downarrow$) | Menurun Drastis ($\downarrow$) | Jangan naikkan harga tanpa diferensiasi |
+| **Elastis ( > 1$)** | Turun ($\downarrow$) | Naik Drastis ($\uparrow\uparrow$) | Meningkat ($\uparrow$) | Berikan diskon atau promo bundling |
+| **Inelastis ( < 1$)** | Naik ($\uparrow$) | Turun Sedikit ($\downarrow$) | Meningkat ($\uparrow$) | Naikkan harga secara bertahap |
+| **Inelastis ( < 1$)** | Turun ($\downarrow$) | Naik Sedikit ($\uparrow$) | Menurun ($\downarrow$) | Hindari perang harga atau diskon besar |
+| **Uniter ( = 1$)** | Naik / Turun | Berubah Seimbang | Tetap Konstan ($\leftrightarrow$) | Efisiensi biaya internal dan HPP |
 
 ## Simulasi Komprehensif Finansial 4 Kuartal UMKM Kedai Kopi dan Roti Artisanal
 
@@ -565,12 +565,12 @@ Untuk memudahkanmu mengambil keputusan penetapan harga di masa depan, gunakan ta
 ### Tabel Ringkasan Keputusan Penetapan Harga Berdasarkan Nilai Elastisitas
 
 | Nilai Koefisien PED | Karakteristik Permintaan | Tindakan terhadap Harga | Dampak ke Volume Penjualan                        | Dampak ke Total Pendapatan |
-| ------------------- | ------------------------ | ----------------------- | ------------------------------------------------- | -------------------------- |
-| **$                 | PED                      | > 1$ (Elastis)**        | Konsumen sangat peka harga, banyak substitusi     | Turunkan Harga             |
-| **$                 | PED                      | > 1$ (Elastis)**        | Konsumen sangat peka harga, banyak substitusi     | Naikkan Harga              |
-| **$                 | PED                      | < 1$ (Inelastis)**      | Konsumen loyal, produk esensial, minim substitusi | Naikkan Harga              |
-| **$                 | PED                      | < 1$ (Inelastis)**      | Konsumen loyal, produk esensial, minim substitusi | Turunkan Harga             |
-| **$                 | PED                      | = 1$ (Uniter)**         | Perubahan persentase proporsional                 | Naik / Turun               |
+| :--- | :--- | :--- | :--- | :--- |
+| **$PED > 1$ (Elastis)** | Konsumen sangat peka harga, banyak substitusi     | Turunkan Harga             | Naik Drastis ($\uparrow\uparrow$)                 | Naik ($\uparrow$)          |
+| **$PED > 1$ (Elastis)** | Konsumen sangat peka harga, banyak substitusi     | Naikkan Harga              | Turun Drastis ($\downarrow\downarrow$)            | Turun ($\downarrow$)       |
+| **$PED < 1$ (Inelastis)** | Konsumen loyal, produk esensial, minim substitusi | Naikkan Harga              | Turun Sedikit ($\downarrow$)                      | Naik ($\uparrow$)          |
+| **$PED < 1$ (Inelastis)** | Konsumen loyal, produk esensial, minim substitusi | Turunkan Harga             | Naik Sedikit ($\uparrow$)                         | Turun ($\downarrow$)       |
+| **$PED = 1$ (Uniter)**   | Perubahan persentase proporsional                 | Naik / Turun               | Berubah Proporsional                              | Tetap Konstan              |
 
 ### Checklist 5 Langkah Sebelum Mengubah Daftar Harga Produk
 
