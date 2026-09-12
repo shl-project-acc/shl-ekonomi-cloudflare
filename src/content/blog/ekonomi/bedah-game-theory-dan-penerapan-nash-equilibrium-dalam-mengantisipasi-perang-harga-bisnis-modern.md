@@ -164,7 +164,7 @@ Penting untuk membedakan antara Keseimbangan Strategi Dominan (*Strict Dominant 
 
 ### Pure Strategy vs Mixed Strategy Equilibrium
 
-Dalam Teori Permainan, pemain dapat memilih strategi murni (*pure strategy*) di mana sebuah aksi spesifik dieksekusi dengan kepastian 100%, atau strategi campuran (*mixed strategy*) di mana pemain mengacak aksinya berdasarkan distribusi probabilitas tertentu.
+Dalam Teori Permainan, pemain dapat memilih strategi murni (*pure strategy*) di mana sebuah aksi spesifik dieksekusi dengan kepastian 100\%, atau strategi campuran (*mixed strategy*) di mana pemain mengacak aksinya berdasarkan distribusi probabilitas tertentu.
 
 Misalkan $\Delta(S_i)$ adalah himpunan distribusi probabilitas atas ruang strategi murni $S_i$. Strategi campuran bagi pemain $i$ dinotasikan sebagai $\sigma_i \in \Delta(S_i)$, di mana $\sigma_i(s_i)$ adalah probabilitas pemain $i$ memilih strategi murni $s_i$.
 
@@ -188,7 +188,7 @@ Keuntungan Perusahaan 1 adalah $\pi_1(p_1, p_2) = (p_1 - c) \cdot q_1(p_1, p_2)$
 
 Mari kita analisis titik keseimbangannya:
 
-* Jika $p_1 = p_2 > c$, kedua perusahaan membagi pasar secara merata dan meraup laba positif. Namun, Perusahaan 1 memiliki insentif untuk menurunkan harga sebesar epsilon kecil ($\epsilon > 0$) menjadi $p_1' = p_2 - \epsilon$. Dengan langkah ini, Perusahaan 1 merebut 100% permintaan pasar dan melipatgandakan keuntungannya secara sepihak.
+* Jika $p_1 = p_2 > c$, kedua perusahaan membagi pasar secara merata dan meraup laba positif. Namun, Perusahaan 1 memiliki insentif untuk menurunkan harga sebesar epsilon kecil ($\epsilon > 0$) menjadi $p_1' = p_2 - \epsilon$. Dengan langkah ini, Perusahaan 1 merebut 100\% permintaan pasar dan melipatgandakan keuntungannya secara sepihak.
 
 * Perusahaan 2 menghadapi insentif yang identik untuk membalas dengan menurunkan harga di bawah $p_1'$.
 
@@ -542,7 +542,7 @@ Bagaimana para pemilik usaha dan pemimpin perusahaan dapat melindungi bisnis mer
 
 ### 1 Membangun Diferensiasi Nilai Berbasis Nilai Tambah Nyata
 
-Satu-satunya alasan mengapa Paradoks Bertrand terjadi adalah karena produk yang dijual dianggap 100% identik oleh konsumen. Cara paling fundamental untuk membatalkan asumsi Bertrand adalah dengan menciptakan diferensiasi nyata:
+Satu-satunya alasan mengapa Paradoks Bertrand terjadi adalah karena produk yang dijual dianggap 100\% identik oleh konsumen. Cara paling fundamental untuk membatalkan asumsi Bertrand adalah dengan menciptakan diferensiasi nyata:
 
 * Layanan purnajual prima, garansi penggantian instan tanpa ribet, kecepatan pengiriman kilat, kemasan ramah lingkungan, atau fitur fungsional eksklusif.
 

@@ -124,7 +124,7 @@ Dengan matriks penurunan yang transparan seperti di atas, setiap staf di level p
 
 ## Menyusun Bobot dan Formula Skor Penilaian KPI yang Adil
 
-Agar proses evaluasi kinerja akhir menghasilkan angka yang objektif dan mencerminkan prioritas bisnis yang proporsional, setiap indikator kinerja harus diberikan pembobotan (*weighting*) yang total jumlahnya bernilai tepat seratus persen (**100%**).
+Agar proses evaluasi kinerja akhir menghasilkan angka yang objektif dan mencerminkan prioritas bisnis yang proporsional, setiap indikator kinerja harus diberikan pembobotan (*weighting*) yang total jumlahnya bernilai tepat seratus persen (**100\%**).
 
 Aturan baku dalam memberikan pembobotan KPI:
 
@@ -140,18 +140,18 @@ Mari kita pelajari contoh penyusunan lembar penilaian KPI nyata untuk posisi *Di
 | --------- | --------------------------------------- | ------- | ----------- | --------- | --------- | --------- | -------- | ----------- |
 | 1         | Jumlah Prospek Baru Berkualitas (Leads) | Orang   | Leading     | 3.000     | 3.300     | 110%      | 30%      | 33,00%      |
 | 2         | Biaya Akuisisi Prospek (Cost per Lead)  | Rupiah  | Leading     | Rp 25.000 | Rp 22.500 | 111%      | 25%      | 27,75%      |
-| 3         | Publikasi Artikel Pilar dan Edukasi SEO | Artikel | Leading     | 12        | 12        | 100%      | 20%      | 20,00%      |
+| 3         | Publikasi Artikel Pilar dan Edukasi SEO | Artikel | Leading     | 12        | 12        | 100\%      | 20%      | 20,00%      |
 | 4         | Pendapatan Penjualan dari Jalur Organik | Juta Rp | Lagging     | Rp 150    | Rp 135    | 90%       | 15%      | 13,50%      |
 | 5         | Kedisiplinan Pelaporan dan SOP Tim      | Skor    | Process     | 90        | 95        | 105%      | 10%      | 10,50%      |
-| **TOTAL** | **REKAPITULASI PENILAIAN**              | -       | -           | -         | -         | -         | **100%** | **104,75%** |
+| **TOTAL** | **REKAPITULASI PENILAIAN**              | -       | -           | -         | -         | -         | **100\%** | **104,75%** |
 
 Catatan Formula Matematis Perhitungan:
 
 * **Untuk Metrik Positif (Semakin Besar Semakin Bagus, misal Jumlah Leads):**\
-  `% Capaian = (Realisasi / Target) x 100%`
+  `% Capaian = (Realisasi / Target) x 100\%`
 
 * **Untuk Metrik Efisiensi / Negatif (Semakin Kecil Semakin Bagus, misal Biaya CPL):**\
-  `% Capaian = (Target / Realisasi) x 100%`\
+  `% Capaian = (Target / Realisasi) x 100\%`\
   *(Pada contoh baris 2: Target Rp 25.000 / Realisasi Rp 22.500 = 111,11%)*
 
 * **Skor Akhir per Baris = % Capaian dikalikan Bobot Indikator.**

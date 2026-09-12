@@ -119,7 +119,7 @@ Imam Ibnu Qudamah dalam kitab monumental *Al-Mughni* menegaskan bahwa ketidaktah
 
 ### 3. Mazhab Hanafi
 
-Ulama Hanafiyah membedakan antara akad yang *bathil* (batal total sejak awal) dan *fasid* (cacat pada sifat pendukung akad). Jual beli barang yang belum dilihat pada dasarnya sah secara kerangka dasar tetapi berstatus tidak mengikat (*ghair lazim*) karena pembeli memiliki hak *khiyar ar-ru'yah* (hak memeriksa barang saat dibuka). Jika barang tersebut tidak sesuai ekspektasi atau mengandung manipulasi, pembeli berhak mengembalikan barang secara sepihak dan menuntut pengembalian uang 100%. Namun jika sejak awal penjual mencabut hak pengembalian ini (sebagaimana lumrah dalam mystery box e-commerce modern), maka akad tersebut menjadi fasid dan haram dilanjutkan.
+Ulama Hanafiyah membedakan antara akad yang *bathil* (batal total sejak awal) dan *fasid* (cacat pada sifat pendukung akad). Jual beli barang yang belum dilihat pada dasarnya sah secara kerangka dasar tetapi berstatus tidak mengikat (*ghair lazim*) karena pembeli memiliki hak *khiyar ar-ru'yah* (hak memeriksa barang saat dibuka). Jika barang tersebut tidak sesuai ekspektasi atau mengandung manipulasi, pembeli berhak mengembalikan barang secara sepihak dan menuntut pengembalian uang 100\%. Namun jika sejak awal penjual mencabut hak pengembalian ini (sebagaimana lumrah dalam mystery box e-commerce modern), maka akad tersebut menjadi fasid dan haram dilanjutkan.
 
 ### 4. Mazhab Maliki
 
@@ -282,7 +282,7 @@ Untuk membuktikan secara matematis mengapa transaksi berbasis keberuntungan meru
 
 * **Hasil:** Farhan puas karena mengetahui persis apa yang ia bayar, dapat mencoba aroma parfum sebelum membeli botol besar, dan penjual mendapatkan margin laba yang halal dan berkah.
 
-* **Analisis Fiqh:** Transaksi sah 100% (*mabi' ma'lum*), terbebas dari gharar, tadlis, dan maisir.
+* **Analisis Fiqh:** Transaksi sah 100\% (*mabi' ma'lum*), terbebas dari gharar, tadlis, dan maisir.
 
 Berdasarkan ketiga skenario di atas, jelas terlihat bahwa model bisnis yang bertumpu pada ketidakjelasan selalu menciptakan ketimpangan struktural yang mengeksploitasi konsumen.
 

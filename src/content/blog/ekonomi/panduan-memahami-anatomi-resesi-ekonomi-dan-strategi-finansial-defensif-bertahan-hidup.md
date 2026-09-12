@@ -144,7 +144,7 @@ Memahami rantai transmisi ini menyadarkan kita bahwa sektor usaha yang paling pe
 
 ## Tiga Pilar Protokol Pertahanan Finansial Rumah Tangga dan Bisnis
 
-Menghadapi fase kontraksi ekonomi yang penuh ketidakpastian membutuhkan langkah perlindungan terukur. Kita tidak bisa mengontrol arah kebijakan moneter global atau laju pertumbuhan PDB nasional, namun kita memiliki kendali penuh 100% atas tata kelola arus kas dan benteng pertahanan keuangan keluarga kita sendiri.
+Menghadapi fase kontraksi ekonomi yang penuh ketidakpastian membutuhkan langkah perlindungan terukur. Kita tidak bisa mengontrol arah kebijakan moneter global atau laju pertumbuhan PDB nasional, namun kita memiliki kendali penuh 100\% atas tata kelola arus kas dan benteng pertahanan keuangan keluarga kita sendiri.
 
 ```text
 +-------------------------------------------------------------------------+
@@ -181,7 +181,7 @@ Lakukan audit mendalam terhadap seluruh pos pengeluaran bulanan keluarga dan bis
 
 * **Kenyamanan (*****Wants*****):** Makan di luar rumah, pakaian baru, langganan platform streaming ganda, dan gadget baru. Pos ini wajib dipangkas minimal 50%.
 
-* **Pemborosan (*****Wastes*****):** Denda keterlambatan tagihan, langganan membership gym yang tidak pernah didatangi, dan belanja impulsif tanpa rencana. Pos ini wajib dihapuskan 100%.
+* **Pemborosan (*****Wastes*****):** Denda keterlambatan tagihan, langganan membership gym yang tidak pernah didatangi, dan belanja impulsif tanpa rencana. Pos ini wajib dihapuskan 100\%.
 
 ### Pilar 3 De-leveraging dan Pelunasan Utang Konsumtif Berbunga Tinggi
 
@@ -195,7 +195,7 @@ Kita membandingkan tiga strategi alokasi portofolio menghadapi potensi resesi 12
 
 1. **Skenario 1 (Portofolio Agresif Spekulatif):** Fokus penuh pada pertumbuhan saham dan kripto, dana darurat sangat tipis.
 
-2. **Skenario 2 (Portofolio Tunai Pasif):** 100% uang disimpan dalam rekening tabungan biasa tanpa proteksi inflasi.
+2. **Skenario 2 (Portofolio Tunai Pasif):** 100\% uang disimpan dalam rekening tabungan biasa tanpa proteksi inflasi.
 
 3. **Skenario 3 (Portofolio Defensif Tahan Banting - All-Weather Sharia):** Alokasi seimbang antara dana darurat likuid, emas batangan fisik tahan krisis, sukuk syariah berimbal hasil stabil, dan porsi investasi terukur.
 
@@ -207,7 +207,7 @@ Kita membandingkan tiga strategi alokasi portofolio menghadapi potensi resesi 12
 |------------------------------|-------------------------|-------------------------|-------------------------|
 | Dana Darurat Kas Likuid      | Rp30.000.000 (2 Bulan)  | Rp300.000.000 (20 Bulan)| Rp135.000.000 (9 Bulan) |
 | Emas Batangan Fisik (Hedge)  | Rp0 (0%)                | Rp0 (0%)                | Rp75.000.000 (25%)      |
-| Sukuk Tabungan Syariah       | Rp0 (0%)                | Rp0 (0%)                | Rp60.000.000 (20%)      |
+| Sukuk Tabungan Syariah       | Rp0 (0%)                | Rp0 (0%)                | Rp60.000.000 (20\%)      |
 | Saham Blue Chip Syariah      | Rp270.000.000 (90%)     | Rp0 (0%)                | Rp30.000.000 (10%)      |
 | Daya Tahan PHK Tanpa Panik   | 2 Bulan (Sangat Rentan) | 20 Bulan (Aman Likuid)  | 9 Bulan Kas + Backup Mas|
 | Dampak Pasar Saham Drop 30%  | Portofolio Rugi -Rp81 Jt| Nilai Kas Tetap         | Portofolio Rugi -Rp9 Jt |

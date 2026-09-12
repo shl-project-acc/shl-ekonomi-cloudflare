@@ -58,7 +58,7 @@ data
 
 Secara akuntansi manajemen yang komprehensif, formula Customer Acquisition Cost (CAC) sejati harus memperhitungkan seluruh biaya moneter dan sumber daya yang dikeluarkan secara spesifik untuk memikat dan mengonversi pelanggan baru:
 
-$$ ext{CAC Komprehensif} = rac{ ext{Total Biaya Iklan} + ext{Gaji Tim Marketing & Sales} + ext{Biaya Software Tools} + ext{Biaya Produksi Kreatif}}{ ext{Jumlah Total Pelanggan Baru yang Terakuisisi}}$$
+$$\text{CAC Komprehensif} =\frac{\text{Total Biaya Iklan} +\text{Gaji Tim Marketing \& Sales} +\text{Biaya Software Tools} +\text{Biaya Produksi Kreatif}}{\text{Jumlah Total Pelanggan Baru yang Terakuisisi}}$$
 
 ### Rincian Komponen Pembentuk Biaya Akuisisi
 
@@ -160,7 +160,7 @@ Biaya klik (*CPC*) dan biaya per seribu tayangan (*CPM*) sangat dipengaruhi oleh
 
 ### 3. Implementasi Corong Iklan Bertingkat (*Layered Retargeting Funnel*)
 
-Jangan menghabiskan 100% anggaran iklan hanya untuk menyasar audiens dingin (*Cold Audience*) yang belum pernah mengenal merek kamu.
+Jangan menghabiskan 100\% anggaran iklan hanya untuk menyasar audiens dingin (*Cold Audience*) yang belum pernah mengenal merek kamu.
 
 * Alokasikan 70% anggaran untuk *Cold Traffic* (membangun kesadaran dan minat).
 
@@ -188,7 +188,7 @@ Untuk memperkuat saluran gratis yang menyeimbangkan biaya iklan berbayar, mari k
 
 ## Membangun Mesin Pertumbuhan Organik Penyeimbang Biaya Iklan
 
-Mengandalkan 100% pertumbuhan bisnis pada iklan berbayar seperti menyewa rumah di tanah orang lain. Setiap kali kamu berhenti membayar sewa harian kepada platform iklan, seluruh aliran pelanggan kamu akan langsung terhenti seketika. Untuk membangun fondasi bisnis yang kebal krisis, kamu wajib membangun mesin akuisisi organik (*Owned Organic Engine*).
+Mengandalkan 100\% pertumbuhan bisnis pada iklan berbayar seperti menyewa rumah di tanah orang lain. Setiap kali kamu berhenti membayar sewa harian kepada platform iklan, seluruh aliran pelanggan kamu akan langsung terhenti seketika. Untuk membangun fondasi bisnis yang kebal krisis, kamu wajib membangun mesin akuisisi organik (*Owned Organic Engine*).
 
 ```infographic
 infographic list-grid-badge-card
@@ -248,13 +248,13 @@ data
 
 * **Harga Jual Rata-Rata Produk (AOV):** Rp150.000
 
-* **Customer Acquisition Cost (CAC):** $ rac{ ext{Rp30.000.000}}{100} = ext{Rp300.000}$ per Pembeli
+* **Customer Acquisition Cost (CAC):** $\frac{\text{Rp30.000.000}}{100} =\text{Rp300.000}$ per Pembeli
 
-* **Total Omzet:** $100 imes ext{Rp150.000} = ext{Rp15.000.000}$
+* **Total Omzet:** $100 imes\text{Rp150.000} =\text{Rp15.000.000}$
 
 * **Margin Kotor Produk (50%):** Rp7.500.000
 
-* **Hasil Finansial Bersih:** $ ext{Laba Kotor Rp7.500.000} - ext{Biaya Iklan Rp30.000.000} = - ext{Rp22.500.000}$ (**RUGI PARAH**).
+* **Hasil Finansial Bersih:** $\text{Laba Kotor Rp7.500.000} -\text{Biaya Iklan Rp30.000.000} = -\text{Rp22.500.000}$ (**RUGI PARAH**).
 
 ### Parameter Akhir (Setelah Dilakukan 4 Langkah Optimasi Sederhana)
 
@@ -268,19 +268,19 @@ data
 
 ### Hasil Perhitungan Pasca Optimasi
 
-* **Jumlah Pembeli dari Landing Page:** $15.000 imes 3.5% = 525$ Pembeli
+* **Jumlah Pembeli dari Landing Page:** $15.000 imes 3.5\% = 525$ Pembeli
 
 * **Tambahan Pembeli dari WhatsApp Recovery:** 75 Pembeli
 
 * **Total Pelanggan Baru Terakuisisi:** 600 Orang
 
-* **Customer Acquisition Cost (CAC Baru):** $ rac{ ext{Rp30.000.000}}{600} = ext{Rp50.000}$ per Pembeli (**CAC TURUN 83.3%**).
+* **Customer Acquisition Cost (CAC Baru):** $\frac{\text{Rp30.000.000}}{600} =\text{Rp50.000}$ per Pembeli (**CAC TURUN 83.3%**).
 
-* **Total Omzet Baru:** $600 imes ext{Rp250.000} = ext{Rp150.000.000}$
+* **Total Omzet Baru:** $600 imes\text{Rp250.000} =\text{Rp150.000.000}$
 
 * **Margin Kotor Produk (50%):** Rp75.000.000
 
-* **Hasil Finansial Bersih:** $ ext{Laba Kotor Rp75.000.000} - ext{Biaya Iklan Rp30.000.000} = + ext{Rp45.000.000}$ (**LABA BERSIH MELESAT TINGGI**).
+* **Hasil Finansial Bersih:** $\text{Laba Kotor Rp75.000.000} -\text{Biaya Iklan Rp30.000.000} = +\text{Rp45.000.000}$ (**LABA BERSIH MELESAT TINGGI**).
 
 Tabel perbandingan di bawah ini memperlihatkan transformasi drastis efisiensi biaya akuisisi tersebut.
 

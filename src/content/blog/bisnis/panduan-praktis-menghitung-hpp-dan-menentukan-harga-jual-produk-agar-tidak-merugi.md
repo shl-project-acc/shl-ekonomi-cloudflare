@@ -101,7 +101,7 @@ Sebagai contoh sederhana, jika mesin seharga Rp12.000.000 diperkirakan tahan 24 
 
 ### 2. Biaya Kerusakan Bahan, Tumpah, dan Basi (*Waste, Spoilage, and Yield Loss*)
 
-Dalam dunia kuliner atau produksi fisik, bahan baku tidak pernah 100% terpakai sempurna. Susu segar bisa basi jika kulkas mati lampu, bubuk kopi tertumpah saat grinding (*purging loss*), kain konveksi memiliki potongan sisa yang tidak terpakai (*fabric scrap*), atau buah-buahan membusuk di gudang.
+Dalam dunia kuliner atau produksi fisik, bahan baku tidak pernah 100\% terpakai sempurna. Susu segar bisa basi jika kulkas mati lampu, bubuk kopi tertumpah saat grinding (*purging loss*), kain konveksi memiliki potongan sisa yang tidak terpakai (*fabric scrap*), atau buah-buahan membusuk di gudang.
 
 Pebisnis profesional selalu menambahkan **faktor pengaman limbah (*****Waste Allowance*****) sebesar 3% hingga 7%** ke dalam biaya bahan baku langsung agar kerugian bahan rusak tertutupi secara otomatis oleh harga jual.
 

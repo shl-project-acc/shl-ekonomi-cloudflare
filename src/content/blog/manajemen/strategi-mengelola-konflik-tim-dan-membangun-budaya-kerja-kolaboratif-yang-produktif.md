@@ -93,7 +93,7 @@ Mari kita bedah kapan kelima gaya ini tepat digunakan dalam realitas kerja sehar
 
 ### 1. Gaya Kolaborasi (Collaborating, Menang Menang)
 
-Kedua belah pihak duduk bersama untuk menggali akar masalah secara transparan dan menciptakan solusi kreatif baru yang memuaskan seluruh pihak 100%.
+Kedua belah pihak duduk bersama untuk menggali akar masalah secara transparan dan menciptakan solusi kreatif baru yang memuaskan seluruh pihak 100\%.
 
 * **Tepat digunakan saat:** Isu yang dibahas sangat krusial bagi masa depan jangka panjang organisasi dan membutuhkan komitmen penuh dari seluruh pemangku kepentingan.
 

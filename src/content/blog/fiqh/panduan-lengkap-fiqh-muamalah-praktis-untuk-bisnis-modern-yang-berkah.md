@@ -193,9 +193,9 @@ Di dalam fiqh muamalah, akad adalah kesepakatan dua pihak yang mengikat secara s
 ### 1. Akad Murabahah, Salam, dan Istishna' untuk Pengadaan Barang
 * **Akad Murabahah (Jual Beli Transparan dengan Margin Margin):**  
   Penjual secara jujur menyebutkan harga perolehan modal kepada pembeli dan menyepakati margin keuntungan yang diambil.  
-  *Contoh:* Hasan membeli bahan kain dari pabrik tekstil seharga Rp 50.000 per meter. Hasan menjual kain tersebut ke penjahit seharga Rp 65.000 per meter dengan menjelaskan: *"Harga modal saya Rp 50.000 dan margin keuntungan saya Rp 15.000 per meter, kamu boleh bayar tunai atau tempo 30 hari"*. Akad ini 100% sah dan transparan.
+  *Contoh:* Hasan membeli bahan kain dari pabrik tekstil seharga Rp 50.000 per meter. Hasan menjual kain tersebut ke penjahit seharga Rp 65.000 per meter dengan menjelaskan: *"Harga modal saya Rp 50.000 dan margin keuntungan saya Rp 15.000 per meter, kamu boleh bayar tunai atau tempo 30 hari"*. Akad ini 100\% sah dan transparan.
 * **Akad Salam (Jual Beli Pesanan dengan Pembayaran Tunai di Muka):**  
-  Pembeli membayar lunas 100% harga di awal, sementara barang yang sudah disepakati kriteria spesifikasinya secara presisi akan diserahkan pada tanggal yang ditentukan.  
+  Pembeli membayar lunas 100\% harga di awal, sementara barang yang sudah disepakati kriteria spesifikasinya secara presisi akan diserahkan pada tanggal yang ditentukan.  
   *Contoh:* Restoran memesan 500 kg beras organik kualitas premium kepada kelompok tani dengan harga Rp 15.000 per kg. Restoran membayar lunas Rp 7.500.000 hari ini, dan petani wajib menyerahkan 500 kg beras tersebut tepat pada tanggal 1 bulan depan.
 * **Akad Istishna' (Jual Beli Pesanan Manufaktur atau Konstruksi):**  
   Akad pembuatan barang pesanan di mana kriteria barang disepakati, namun sistem pembayarannya sangat fleksibel (bisa tunai di muka, bertahap sesuai termin progres pembuatan, atau dilunasi di akhir setelah barang selesai).  
@@ -208,7 +208,7 @@ Setelah pengadaan barang selesai, bagaimana jika kita ingin berkongsi modal deng
   Dua orang atau lebih menyetorkan modal dan sama-sama aktif mengelola operasional usaha. Porsi bagi hasil keuntungan disepakati berdasarkan rasio persentase (*nisbah*), bukan nominal angka pasti.  
   *Kaidah Kerugian Finansial:* Jika terjadi kerugian, kerugian finansial wajib ditanggung secara proporsional sesuai persentase modal yang disetorkan.
 * **Akad Mudharabah (Kemitraan Pemilik Modal Penuh dan Pengelola Ahli):**  
-  Pihak pertama bertindak sebagai pemilik dana 100% (*Shahibul Mal*), sedangkan pihak kedua bertindak sebagai pengelola operasional (*Mudharib*). Keuntungan dibagi sesuai kesepakatan nisbah. Jika terjadi kerugian murni akibat risiko pasar (bukan karena kecurangan atau kelalaian pengelola), pemilik dana menanggung kerugian uang, sedangkan pengelola rugi waktu dan tenaganya.
+  Pihak pertama bertindak sebagai pemilik dana 100\% (*Shahibul Mal*), sedangkan pihak kedua bertindak sebagai pengelola operasional (*Mudharib*). Keuntungan dibagi sesuai kesepakatan nisbah. Jika terjadi kerugian murni akibat risiko pasar (bukan karena kecurangan atau kelalaian pengelola), pemilik dana menanggung kerugian uang, sedangkan pengelola rugi waktu dan tenaganya.
 
 Jika bisnismu bergerak di bidang penyediaan layanan atau jasa tenaga ahli, akad berikutnya adalah kuncinya.
 
@@ -261,7 +261,7 @@ SKEMA DROPSHIP HARAM (JUAL BELI LANGSUNG TANPA IZIN SUPPLIER):
 (Status: HARAM karena menjual barang yang belum dimiliki dan tanpa ikatan wakalah)
 ```
 
-#### Tiga Model Solusi Dropshipping yang 100% Halal dan Sah
+#### Tiga Model Solusi Dropshipping yang 100\% Halal dan Sah
 
 ##### Model A Skema Keagenan Resmi (Akad Wakalah bil Ujrah)
 Ini adalah model terbaik dan paling direkomendasikan oleh Dewan Syariah Nasional (DSN-MUI):
@@ -274,9 +274,9 @@ Ini adalah model terbaik dan paling direkomendasikan oleh Dewan Syariah Nasional
 ##### Model B Skema Akad Salam (Jual Beli Pesanan Terikat)
 Model ini cocok jika dropshipper ingin bertindak independen sebagai penjual utama tanpa terikat status agen:
 1. **Spesifikasi Barang Dibuat Sangat Presisi:** Dropshipper merinci spesifikasi baju: jenis kain (Katun Rayon Twill Grade A), warna (Sage Green kode #7A9A8B), ukuran lingkar dada (105 cm), panjang baju (140 cm), dan tanggal pengiriman maksimal (7 hari kerja).
-2. **Pembayaran Lunas 100% di Muka:** Sesuai rukun Akad Salam, pembeli wajib membayar lunas Rp 150.000 di awal transaksi. Tidak boleh dicicil atau bayar separuh, karena menunda uang dan menunda barang sekaligus dilarang dalam syariat (*ba'i al-kali' bil kali'*).
+2. **Pembayaran Lunas 100\% di Muka:** Sesuai rukun Akad Salam, pembeli wajib membayar lunas Rp 150.000 di awal transaksi. Tidak boleh dicicil atau bayar separuh, karena menunda uang dan menunda barang sekaligus dilarang dalam syariat (*ba'i al-kali' bil kali'*).
 3. **Dropshipper Membeli Barang ke Supplier:** Dropshipper menggunakan uangnya untuk membeli barang tersebut dari supplier, memastikan barang sampai ke gudangnya atau berada di bawah kendalinya (*qabdh hukmi*), lalu mengirimkannya ke pembeli.
-4. **Tanggung Jawab Mutu:** Jika barang yang datang tidak sesuai spesifikasi yang disepakati di awal, dropshipper wajib mengganti barang baru atau mengembalikan uang pembeli 100%.
+4. **Tanggung Jawab Mutu:** Jika barang yang datang tidak sesuai spesifikasi yang disepakati di awal, dropshipper wajib mengganti barang baru atau mengembalikan uang pembeli 100\%.
 
 ##### Model C Skema Janji Beli Tidak Mengikat (Akad Wa'ad)
 1. Calon pembeli menghubungi dropshipper: *"Saya berminat beli jaket kulit model X ukuran L ini, tolong carikan ya"*.
@@ -288,14 +288,14 @@ Model ini cocok jika dropshipper ingin bertindak independen sebagai penjual utam
 | :--- | :--- | :--- | :--- |
 | **Status Hukum Dropshipper** | Penjual tak berhak | Wakil resmi supplier | Penjual pesanan (*Muslam Ilaih*) |
 | **Kapan Akad Jual Beli Terjadi** | Di awal tanpa barang | Di awal atas nama supplier | Di awal atas pesanan salam |
-| **Kewajiban Pembayaran** | Bebas | Bebas | **Wajib Lunas 100% di Depan** |
+| **Kewajiban Pembayaran** | Bebas | Bebas | **Wajib Lunas 100\% di Depan** |
 | **Penanggung Risiko Kerusakan** | Dilempar ke kurir | Supplier utama | Dropshipper pesanan |
 
 Setelah tuntas membedah dunia e-commerce, mari kita masuk ke studi kasus kedua yang sering menjadi sumber perselisihan di antara para sahabat karib: kerja sama pendanaan modal usaha.
 
 ### Kasus 2 – Audit Mendalam Pendanaan Usaha, Modal Kongsi, dan Crowdfunding Syariah
 
-Banyak orang yang ingin berbisnis secara syariah tetapi masih membawa pola pikir perbankan konvensional: ingin modalnya aman 100% tanpa risiko rugi, tapi di saat yang sama menuntut keuntungan pasti setiap bulan. 
+Banyak orang yang ingin berbisnis secara syariah tetapi masih membawa pola pikir perbankan konvensional: ingin modalnya aman 100\% tanpa risiko rugi, tapi di saat yang sama menuntut keuntungan pasti setiap bulan. 
 
 Kaidah fundamental fiqh menetapkan hukum besi:
 
@@ -310,13 +310,13 @@ Pada awalnya, Rizki membuat draf surat perjanjian kerja sama dengan klausul beri
 2. *"Bima wajib memberikan keuntungan tetap sebesar Rp 2.500.000 (2,5% per bulan) setiap tanggal 25 tanpa peduli kedai kopi untung atau rugi."*
 3. *"Setelah masa kontrak 12 bulan berakhir, Bima wajib mengembalikan uang pokok Rp 100.000.000 milik Rizki secara utuh tanpa berkurang sedikit pun."*
 
-##### Mengapa Skema Perjanjian di Atas 100% Riba dan Batal Demi Syariat?
+##### Mengapa Skema Perjanjian di Atas 100\% Riba dan Batal Demi Syariat?
 * **Pelanggaran 1 (Menjamin Keuntungan Nominal Pasti):** Dalam syirkah mudharabah, keuntungan adalah hasil yang belum terjadi (*amrun mustaqbal*). Menetapkan angka pasti di muka (Rp 2,5 juta/bulan) mengubah hakikat kerja sama bisnis menjadi pemerasan. Jika kedai kopi hanya untung Rp 1 juta, Bima terzalimi karena harus menombok Rp 1,5 juta dari kantong pribadinya.
 * **Pelanggaran 2 (Menjamin Keutuhan Modal Pokok):** Begitu pemilik dana mensyaratkan modal pokoknya tidak boleh berkurang saat terjadi risiko bisnis yang wajar, status akadnya seketika berubah dari akad kemitraan (*syirkah*) menjadi akad pinjaman utang (*qardh*). Dan setiap pinjaman yang menghasilkan keuntungan tetap bagi pemberi pinjaman adalah **Riba Qardh yang diharamkan secara ijma' ulama**.
 
 #### Rekonstruksi Menjadi Akad Syirkah Mudharabah yang Sah dan Adil
 Rizki dan Bima kemudian memperbaiki surat perjanjian mereka sesuai Fatwa DSN-MUI No. 07/DSN-MUI/IV/2000 tentang Pembiayaan Mudharabah:
-1. **Status Peran:** Rizki adalah *Shahibul Mal* (Pemilik Modal 100%), Bima adalah *Mudharib* (Pengelola Ahli 100%).
+1. **Status Peran:** Rizki adalah *Shahibul Mal* (Pemilik Modal 100\%), Bima adalah *Mudharib* (Pengelola Ahli 100\%).
 2. **Nisbah Bagi Hasil:** Disepakati pembagian dari **Laba Bersih Operasional (Net Profit)** dengan rasio persentase: **60% untuk Bima** (atas jerih payah waktu dan keahlian manajemennya) dan **40% untuk Rizki** (atas penyertaan modal dan kesiapan menanggung risiko finansial).
 3. **Transparansi Buku Kas:** Laporan keuangan kas dibuka setiap tanggal 1 awal bulan untuk menghitung laba bersih riil.
 
@@ -327,7 +327,7 @@ Mari kita lihat simulasi laporan keuangan dan pembagian laba-rugi Barokah Coffee
 | **Kuartal 1 (Awal Stabil)** | Rp 90.000.000 | (Rp 60.000.000) | **+ Rp 30.000.000** | **Rp 18.000.000** | **Rp 12.000.000** | Untung dibagi sesuai nisbah yang disepakati. |
 | **Kuartal 2 (Musim Ramai)** | Rp 150.000.000 | (Rp 80.000.000) | **+ Rp 70.000.000** | **Rp 42.000.000** | **Rp 28.000.000** | Hasil melimpah, kedua pihak menikmati berkah. |
 | **Kuartal 3 (Musim Paceklik)** | Rp 40.000.000 | (Rp 55.000.000) | **- Rp 15.000.000 (Rugi Pasar)** | **Rp 0** *(Rugi tenaga)* | **(Rp 15.000.000)** *(Modal sisa Rp 85 jt)* | Rugi murni pasar, memotong modal Rizki, Bima tidak digaji. Sah! |
-| **Kuartal 4 (Kasus Kelalaian)** | Rp 60.000.000 | (Rp 90.000.000) | **- Rp 30.000.000 (Kelalaian Bima)** | **Wajib Ganti Rp 30 Jt** | **Modal Tetap Utuh** | Terbukti Bima lalai/korupsi, Bima wajib ganti rugi 100%. |
+| **Kuartal 4 (Kasus Kelalaian)** | Rp 60.000.000 | (Rp 90.000.000) | **- Rp 30.000.000 (Kelalaian Bima)** | **Wajib Ganti Rp 30 Jt** | **Modal Tetap Utuh** | Terbukti Bima lalai/korupsi, Bima wajib ganti rugi 100\%. |
 
 #### Penjelasan Penting Mengenai Penanganan Kerugian
 * **Pada Kuartal 3 (Kerugian Murni Pasar):** Terjadi perbaikan jalan raya di depan kedai selama 3 bulan penuh sehingga omzet drop drastis. Karena kerugian ini bukan akibat kecurangan Bima, maka kerugian finansial Rp 15 juta memotong modal pokok Rizki. Bima tidak boleh dituntut mengganti uang tersebut, karena Bima sendiri sudah menanggung kerugian tidak menerima bagi hasil apa pun atas kerja kerasnya selama 3 bulan.
@@ -410,9 +410,9 @@ Sarah membuka layanan jasa titip saat sedang berlibur di Jepang. Banyak temannya
 
 ##### Tinjauan Fiqh Dua Skema Jastip
 * **Skema A (Jastip Pesanan Khusus – Akad Wakalah bil Ujrah):**  
-  Pembeli menentukan merk dan tipe sepatu yang diinginkan. Pembeli mentransfer uang harga beli sepatu di Jepang sebesar Rp 1.500.000 ditambah ongkos jasa titip (*ujrah*) sebesar Rp 250.000 per pasang. Sarah bertindak sebagai wakil resmi pembeli untuk membelikan barang tersebut. **Status Fiqh: 100% Halal dan Sah.**
+  Pembeli menentukan merk dan tipe sepatu yang diinginkan. Pembeli mentransfer uang harga beli sepatu di Jepang sebesar Rp 1.500.000 ditambah ongkos jasa titip (*ujrah*) sebesar Rp 250.000 per pasang. Sarah bertindak sebagai wakil resmi pembeli untuk membelikan barang tersebut. **Status Fiqh: 100\% Halal dan Sah.**
 * **Skema B (Jastip Beli Stok Spekulatif – Akad Jual Beli Biasa):**  
-  Sarah membeli 10 buah tumbler kopi di Tokyo dengan uang modal pribadinya sendiri tanpa ada pesanan spesifik. Setelah barang tiba di Indonesia dan berada di dalam koper rumahnya, Sarah memajang tumbler tersebut di media sosial seharga Rp 500.000 per buah (modal beli Rp 350.000). Konsumen membeli tumbler yang sudah siap kirim. **Status Fiqh: 100% Halal dan Sah.**
+  Sarah membeli 10 buah tumbler kopi di Tokyo dengan uang modal pribadinya sendiri tanpa ada pesanan spesifik. Setelah barang tiba di Indonesia dan berada di dalam koper rumahnya, Sarah memajang tumbler tersebut di media sosial seharga Rp 500.000 per buah (modal beli Rp 350.000). Konsumen membeli tumbler yang sudah siap kirim. **Status Fiqh: 100\% Halal dan Sah.**
 * **Kewajiban Taat Aturan Kepabeanan:** Praktik jastip wajib mematuhi batas bea cukai resmi yang ditetapkan pemerintah negara asal dan negara tujuan. Menyelundupkan barang mewah titipan dengan cara membuang kardus atau menyuap petugas bea cukai adalah perbuatan dosa yang merusak kehormatan seorang muslim.
 
 #### 4. Penjualan Produk Digital dan Jasa Desain Freelance

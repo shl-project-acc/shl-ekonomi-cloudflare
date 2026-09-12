@@ -129,13 +129,13 @@ data
 
 ### 1. Prinsip Kapasitas Maksimum 80% (*The 80% Capacity Buffer Rule*)
 
-Jangan pernah merencanakan jadwal kerja tim pada kapasitas 100% dari total jam kerja normal mereka (misalnya 40 jam per minggu dialokasikan penuh untuk tugas proyek).
+Jangan pernah merencanakan jadwal kerja tim pada kapasitas 100\% dari total jam kerja normal mereka (misalnya 40 jam per minggu dialokasikan penuh untuk tugas proyek).
 
 * Di dunia nyata, selalu terjadi gangguan tak terduga: server down, komplain darurat klien, atau kendala teknis mendadak.
 
 * Alokasikan maksimal **32 jam (80%)** untuk penugasan proyek terencana.
 
-* Sisakan **8 jam (20%)** sebagai penyangga (*buffer time*) untuk menangani urusan darurat, pembelajaran mandiri (*upskilling*), dan jeda mental.
+* Sisakan **8 jam (20\%)** sebagai penyangga (*buffer time*) untuk menangani urusan darurat, pembelajaran mandiri (*upskilling*), dan jeda mental.
 
 ### 2. Pembatasan Pekerjaan Sedang Berjalan (*Work In Progress / WIP Limits*)
 
@@ -291,7 +291,7 @@ Tabel di bawah ini merangkum perbandingan metrik kunci antara kedua tim tersebut
 | **Waktu Rapat Koordinasi**   | 18 Jam / Minggu                  | 4 Jam / Minggu                  | 🟢 Hemat 14 Jam Waktu Deep Work   |
 | **Jumlah Bug Kritis Produk** | 24 Bug Kritis                    | 2 Bug Minor                     | 🟢 Kualitas Kode Meningkat 92%    |
 | **Tingkat Retensi Karyawan** | 2 Orang Resign (Turnover 33%)    | 0 Orang Resign (Turnover 0%)    | 🟢 Menghemat Biaya Rekrutmen Baru |
-| **Kecepatan Rilis Pasar**    | Terlambat 4 Minggu               | Tepat Waktu 100%                | 🟢 Keunggulan Kompetitif Pasar    |
+| **Kecepatan Rilis Pasar**    | Terlambat 4 Minggu               | Tepat Waktu 100\%                | 🟢 Keunggulan Kompetitif Pasar    |
 
 Data empiris di atas mempertegas kaidah manajemen modern: **Kelelahan kognitif adalah pembunuh kualitas nomor satu**. Menjaga kebugaran mental tim adalah strategi paling hemat biaya untuk mempertahankan kecepatan inovasi bisnis.
 

@@ -151,9 +151,9 @@ Dengan mengamati perilaku belanja kelompok yang sama selama 3, 6, hingga 12 bula
 +-------------------------------------------------------------------------+
 | Kelompok Cohort | Bulan 1 (M-1) | Bulan 2 (M-2) | Bulan 3 (M-3) | Bln 6 |
 |-----------------|---------------|---------------|---------------|-------|
-| Januari 2026    | 100% (1.000)  | 28% (280)     | 19% (190)     | 14%   |
-| Februari 2026   | 100% (1.200)  | 31% (372)     | 22% (264)     | -     |
-| Maret 2026      | 100% (1.500)  | 35% (525)     | -             | -     |
+| Januari 2026    | 100\% (1.000)  | 28% (280)     | 19% (190)     | 14%   |
+| Februari 2026   | 100\% (1.200)  | 31% (372)     | 22% (264)     | -     |
+| Maret 2026      | 100\% (1.500)  | 35% (525)     | -             | -     |
 +-------------------------------------------------------------------------+
 ```
 
@@ -206,7 +206,7 @@ Selain rasio LTV per CAC, metrik kedua yang tidak kalah penting adalah **CAC Pay
 |  [Bulan 1: Transaksi Ke-1] -> Margin Kotor Rp50.000 (Sisa Defisit 100k)| |
 |  [Bulan 2: Transaksi Ke-2] -> Margin Kotor Rp50.000 (Sisa Defisit 50k) | |
 |  [Bulan 3: Transaksi Ke-3] -> Margin Kotor Rp50.000 (PAYBACK IMPAS 0) | |
-|  [Bulan 4+: Transaksi Berikutnya] -> 100% MARGIN KOTOR MURNI LABA!    | |
+|  [Bulan 4+: Transaksi Berikutnya] -> 100\% MARGIN KOTOR MURNI LABA!    | |
 |                                                                       | |
 +-------------------------------------------------------------------------+
 ```

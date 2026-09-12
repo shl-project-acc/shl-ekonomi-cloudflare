@@ -27,7 +27,7 @@ Namun, di balik kemudahan transaksi modern tersebut, muncul sebuah tanda tanya b
 
 Pertanyaan ini bukanlah perkara remeh. Dalam khazanah fiqh muamalah klasik, emas dan perak menduduki posisi yang sangat istimewa. Keduanya bukan sekadar logam biasa seperti besi atau tembaga, melainkan mata uang asal (*nuqud*) dan komoditas ribawi utama yang memiliki aturan main pertukaran yang sangat ketat (*syuruthu ash-sharf*). Pelanggaran terhadap salah satu syaratnya dapat seketika mengubah transaksi yang tampak menguntungkan menjadi dosa riba yang besar.
 
-Di artikel pilar yang komprehensif ini, kita akan mengupas tuntas hukum fiqh jual beli emas dari dalil hadits nabi, menelaah konsep *Qabdh Hakiki* dan *Qabdh Hukmi*, mengkaji perbandingan pandangan empat madzhab besar, membedah fatwa Dewan Syariah Nasional Majelis Ulama Indonesia (DSN-MUI) Nomor 77 Tahun 2010 dan Standar Syariah AAOIFI Nomor 57, hingga memberikan panduan checklist praktis memilih platform tabungan emas digital yang 100% aman dan bebas syubhat.
+Di artikel pilar yang komprehensif ini, kita akan mengupas tuntas hukum fiqh jual beli emas dari dalil hadits nabi, menelaah konsep *Qabdh Hakiki* dan *Qabdh Hukmi*, mengkaji perbandingan pandangan empat madzhab besar, membedah fatwa Dewan Syariah Nasional Majelis Ulama Indonesia (DSN-MUI) Nomor 77 Tahun 2010 dan Standar Syariah AAOIFI Nomor 57, hingga memberikan panduan checklist praktis memilih platform tabungan emas digital yang 100\% aman dan bebas syubhat.
 
 ![BlockNote image](https://img.shlproject.com/2026/09/3fb6e3949e9b5e6bfef742e7192bcbb4.webp)
 
@@ -139,7 +139,7 @@ Dewan Syariah Nasional MUI menetapkan bahwa jual beli emas secara tidak tunai (b
 
 AAOIFI (*Accounting and Auditing Organization for Islamic Financial Institutions*) yang berpusat di Bahrain merumuskan standar global bahwa transaksi emas digital diperbolehkan asalkan memenuhi prinsip:
 
-* **Alokasi Penuh 1 banding 1 (Full Physical Backing):** Setiap gram emas yang tercatat di aplikasi harus didukung 100% oleh emas fisik murni (kadar 99,99%) yang tersimpan secara nyata di brankas terpercaya.
+* **Alokasi Penuh 1 banding 1 (Full Physical Backing):** Setiap gram emas yang tercatat di aplikasi harus didukung 100\% oleh emas fisik murni (kadar 99,99%) yang tersimpan secara nyata di brankas terpercaya.
 
 * **Larangan Emas Fiktif (Fractional Reserve Banking):** Platform pengelola dilarang keras menjual saldo emas yang melebihi jumlah fisik emas yang tersimpan di brankas gudang.
 

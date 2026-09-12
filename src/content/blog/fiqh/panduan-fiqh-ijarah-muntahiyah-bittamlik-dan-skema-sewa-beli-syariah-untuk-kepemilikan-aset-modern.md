@@ -311,7 +311,7 @@ Dalam simulasi ini, kita menerapkan **Model Ujrah Berjenjang (*****Stepped Rent 
 
 ### Rincian Akumulasi Arus Kas Finansial Selama 10 Tahun
 
-1. **Total Pengembalian Pokok Modal Bank:** Rp8.333.333 x 120 bulan = **Rp1.000.000.000** (Tuntas 100%).
+1. **Total Pengembalian Pokok Modal Bank:** Rp8.333.333 x 120 bulan = **Rp1.000.000.000** (Tuntas 100\%).
 
 2. **Total Pendapatan Margin Sewa Murni Bank:**
 
@@ -327,7 +327,7 @@ Dalam simulasi ini, kita menerapkan **Model Ujrah Berjenjang (*****Stepped Rent 
 
 3. **Total Kas Keseluruhan yang Disetor Nasabah:** Rp1.000.000.000 (Pokok Modal) + Rp772.500.000 (Ujrah Sewa) = **Rp1.772.500.000**.
 
-4. **Status Yuridis Aset pada Bulan ke-120:** Bank menandatangani Akta Hibah di hadapan Notaris/PPAT. Sertifikat Hak Milik (SHM) ruko komersial yang nilainya di pasar telah mengalami apresiasi (misalnya naik menjadi Rp2,4 Miliar) beralih 100% menjadi aset milik sah pengusaha tanpa potongan atau utang tersisa.
+4. **Status Yuridis Aset pada Bulan ke-120:** Bank menandatangani Akta Hibah di hadapan Notaris/PPAT. Sertifikat Hak Milik (SHM) ruko komersial yang nilainya di pasar telah mengalami apresiasi (misalnya naik menjadi Rp2,4 Miliar) beralih 100\% menjadi aset milik sah pengusaha tanpa potongan atau utang tersisa.
 
 Keunggulan dari model sewa berjenjang ini adalah beban arus kas pengusaha pada masa-masa awal perintisan toko (tahun 1–3) menjadi jauh lebih ringan, sementara lembaga keuangan syariah tetap memperoleh tingkat imbal hasil sewa yang sehat dan terukur seiring dengan kematangan arus kas bisnis nasabah.
 
@@ -361,7 +361,7 @@ Apabila nasabah sebenarnya memiliki kemampuan finansial namun sengaja menunda-nu
 
 * **Ta'widh (Ganti Rugi Riil):** Kompensasi finansial yang ditagihkan kepada nasabah sebesar biaya operasional riil yang terbukti dikeluarkan oleh bank untuk memproses penagihan kewajiban tersebut (seperti biaya kurir pengiriman surat peringatan resmi, jasa appraisal independen, dan biaya penasihat hukum). Dana Ta'widh ini sah diakui sebagai pendapatan pemulihan biaya operasional oleh bank.
 
-* **Gharamah (Denda Disiplin Finansial):** Denda persentase atas keterlambatan yang dipungut untuk menimbulkan efek jera bagi penunggak yang lalai. Dana Gharamah ini **haram diakui sebagai pendapatan keuntungan bank**, dan wajib disalurkan 100% ke rekening dana sosial/kebajikan (*dana qardh hasan / baitul mal*) untuk diserahkan kepada fakir miskin dan kemaslahatan umat.
+* **Gharamah (Denda Disiplin Finansial):** Denda persentase atas keterlambatan yang dipungut untuk menimbulkan efek jera bagi penunggak yang lalai. Dana Gharamah ini **haram diakui sebagai pendapatan keuntungan bank**, dan wajib disalurkan 100\% ke rekening dana sosial/kebajikan (*dana qardh hasan / baitul mal*) untuk diserahkan kepada fakir miskin dan kemaslahatan umat.
 
 ### 2. Kerusakan Total Objek Sewa (*Inhidam al-Ma'jur*)
 

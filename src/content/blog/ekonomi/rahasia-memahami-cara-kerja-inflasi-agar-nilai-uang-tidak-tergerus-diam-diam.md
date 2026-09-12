@@ -163,7 +163,7 @@ Pak Budi adalah tipe orang yang sangat menghindari risiko. Baginya, uang paling 
 
 Bu Siti sadar betul bahwa uang kas yang diam akan digerogoti inflasi. Setelah menyisihkan dana darurat kas operasional secukupnya, Bu Siti membagi modal Rp 100.000.000 miliknya ke dalam tiga instrumen produktif:
 
-1. **Dana Darurat & Kas Likuid (20%):** Rp 20.000.000 disimpan di instrumen pasar uang untuk kebutuhan darurat cepat.
+1. **Dana Darurat & Kas Likuid (20\%):** Rp 20.000.000 disimpan di instrumen pasar uang untuk kebutuhan darurat cepat.
 
 2. **Lindung Nilai Emas Batangan (30%):** Rp 30.000.000 dibelikan emas murni batangan seberat $\approx$ 54,5 gram sebagai tameng inflasi jangka panjang.
 

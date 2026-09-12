@@ -176,7 +176,7 @@ Mari kita bedah hasil akhir nilai riil kekayaan kedua keluarga tersebut:
 ```text
 Studi Kasus Simulasi Kinerja Portofolio 3 Tahun Masa Stagflasi (Modal Rp 200.000.000)
 
-SKENARIO KELUARGA A: Portofolio Pasif (100% Uang Tunai Mengendap di Tabungan Bank)
+SKENARIO KELUARGA A: Portofolio Pasif (100\% Uang Tunai Mengendap di Tabungan Bank)
 - Modal Awal               : Rp 200.000.000
 - Pertumbuhan Nominal (3 thn): Rp 200.000.000 x (1 + 1,6% netto)^3 = Rp 209.792.000
 - Nilai Inflasi Riil Akumulasi: (1 + 9%)^3 = 1,295 (Harga barang naik +29,5%)

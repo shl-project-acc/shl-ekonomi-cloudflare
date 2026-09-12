@@ -339,7 +339,7 @@ Pembeli wajib mematuhi batasan tingkat lisensi yang dibelinya. Membeli lisensi s
 
 Dalam bisnis produk digital, kita sering mendengar istilah *Private Label Rights* (PLR), *Master Resale Rights* (MRR), dan *White Labeling*.
 
-* **Master Resale Rights (MRR):** Pembuat produk memberikan hak legal kepada pembeli untuk menjual ulang produk digital tersebut kepada pihak ketiga dan menyimpan 100% keuntungannya. Dalam fiqh muamalah, ini adalah akad pemberian kuasa komersial penuh (*Ijazah bi at-Tasharruf wa Bay' al-Haqq*) yang halal selama konten produk tersebut halal dan tidak mengandung penipuan.
+* **Master Resale Rights (MRR):** Pembuat produk memberikan hak legal kepada pembeli untuk menjual ulang produk digital tersebut kepada pihak ketiga dan menyimpan 100\% keuntungannya. Dalam fiqh muamalah, ini adalah akad pemberian kuasa komersial penuh (*Ijazah bi at-Tasharruf wa Bay' al-Haqq*) yang halal selama konten produk tersebut halal dan tidak mengandung penipuan.
 
 * **Private Label Rights (PLR) dan White Labeling:** Pembuat produk mengizinkan pembeli untuk mengubah isi, mengedit desain, mengganti merek (*rebranding*), dan mencantumkan nama pembeli sebagai pemilik produk. Dalam kacamata fiqh:
 

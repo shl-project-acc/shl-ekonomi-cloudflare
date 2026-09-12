@@ -145,7 +145,7 @@ Bagaimana jika nasabah menunggak cicilan bulanan?
 
   1. **Ta'widh (Ganti Rugi Riil):** Biaya riil yang dikeluarkan bank untuk menagih nasabah yang lalai (seperti biaya surat peringatan atau biaya penugasan staf). Dana ini boleh diakui sebagai pendapatan operasional bank pengganti biaya keluar.
 
-  2. **Gharamah (Sanksi Finansial):** Denda yang dijatuhkan kepada nasabah mampu yang sengaja menunda pembayaran (*muthil*). Dana denda ini **haram masuk ke kas pendapatan bank** dan wajib disalurkan 100% ke rekening dana kebajikan (*qardhul hasan* / dana sosial masyarakat) untuk program kemanusiaan.
+  2. **Gharamah (Sanksi Finansial):** Denda yang dijatuhkan kepada nasabah mampu yang sengaja menunda pembayaran (*muthil*). Dana denda ini **haram masuk ke kas pendapatan bank** dan wajib disalurkan 100\% ke rekening dana kebajikan (*qardhul hasan* / dana sosial masyarakat) untuk program kemanusiaan.
 
 ### Potongan Pelunasan Dini (Muqassah / Rabithah)
 
@@ -185,7 +185,7 @@ Mari kita telaah perbedaan di atas secara jernih:
 
 ## Panduan Praktis Mengajukan Pembiayaan Murabahah Bebas Syubhat
 
-Bagi kamu yang hendak memanfaatkan pembiayaan murabahah untuk kebutuhan produktif modal usaha, pembelian mesin, kendaraan niaga, maupun properti, berikut adalah panduan praktis agar transaksimu terjamin 100% berkah dan sesuai syariat:
+Bagi kamu yang hendak memanfaatkan pembiayaan murabahah untuk kebutuhan produktif modal usaha, pembelian mesin, kendaraan niaga, maupun properti, berikut adalah panduan praktis agar transaksimu terjamin 100\% berkah dan sesuai syariat:
 
 ```text
 [1. Pilih Barang & Spesifikasi] ---> [2. Dapatkan Penawaran Resmi Supplier]

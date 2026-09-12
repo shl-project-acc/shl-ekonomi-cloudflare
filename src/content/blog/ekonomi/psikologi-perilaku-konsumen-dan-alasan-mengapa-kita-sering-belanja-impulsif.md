@@ -183,7 +183,7 @@ Mari kita lihat hasil transformasi kondisi finansial dan mental Nadia setelah ti
 | Indikator Keuangan dan Gaya Hidup                  | Fase 1 (Belanja Impulsif Tanpa Kontrol) | Fase 2 (Dengan Rem Psikologis Terstruktur)       |
 | -------------------------------------------------- | --------------------------------------- | ------------------------------------------------ |
 | **Pengeluaran Belanja Impulsif Barang Online**     | Rp 4.500.000 per bulan *(Bocor halus)*  | **Rp 400.000 per bulan** *(Sangat terkontrol)*   |
-| **Cicilan Utang Paylater Berbunga**                | Rp 2.500.000 per bulan                  | **Rp 0** *(Lunas bersih 100%)*                   |
+| **Cicilan Utang Paylater Berbunga**                | Rp 2.500.000 per bulan                  | **Rp 0** *(Lunas bersih 100\%)*                   |
 | **Uang yang Berhasil Ditabung dan Diinvestasikan** | **Rp 0 (Selalu minus dan panik)**       | **Rp 3.500.000 per bulan** *(Tumbuh sehat)*      |
 | **Kondisi Kamar dan Ruang Tidur**                  | Berantakan penuh tumpukan kardus barang | Rapi, bersih, minimalis, dan nyaman              |
 | **Tingkat Ketenangan Pikiran**                     | Cemas setiap tanggal tua tiba           | Tenang, bahagia, percaya diri menatap masa depan |

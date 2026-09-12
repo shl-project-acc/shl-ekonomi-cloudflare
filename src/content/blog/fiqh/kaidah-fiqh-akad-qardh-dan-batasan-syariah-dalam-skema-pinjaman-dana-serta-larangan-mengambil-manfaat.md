@@ -171,7 +171,7 @@ Syarat shighat qardh adalah menunjukkan niat pinjaman kebajikan tanpa adanya kla
 
 Para fuqaha klasik mendiskusikan secara mendalam kapan kepemilikan objek pinjaman berpindah secara sah kepada peminjam:
 
-* **Pandangan Mazhab Syafi'i dan Hanbali:** Kepemilikan berpindah seketika saat serah terima fisik atau yuridis berlangsung (*tamlik bil-qabdh*). Begitu uang diterima di tangan peminjam atau masuk ke rekeningnya, uang tersebut 100% menjadi milik sah peminjam, dan kewajiban peminjam beralih menjadi utang nominal pada tanggungan jiwanya (*dzimmah*).
+* **Pandangan Mazhab Syafi'i dan Hanbali:** Kepemilikan berpindah seketika saat serah terima fisik atau yuridis berlangsung (*tamlik bil-qabdh*). Begitu uang diterima di tangan peminjam atau masuk ke rekeningnya, uang tersebut 100\% menjadi milik sah peminjam, dan kewajiban peminjam beralih menjadi utang nominal pada tanggungan jiwanya (*dzimmah*).
 
 * **Pandangan Mazhab Hanafi dan Maliki:** Kepemilikan baru berpindah secara sempurna ketika peminjam mulai membelanjakan atau memutarkan dana tersebut (*tamlik bil-tasarruf*). Jika uang tersebut masih utuh di tangan peminjam dan belum dibelanjakan, pemberi pinjaman secara teoritis masih memiliki keterikatan hak atas fisik uang tersebut.
 
@@ -289,7 +289,7 @@ Dan kaidah:
 > **الْخَرَاجُ بِالضَّمَانِ**\
 > *"Hasil keuntungan suatu aset berbanding lurus dengan kewajiban menanggung risikonya."* (HR. Abu Dawud no. 3508, At-Tirmidzi no. 1285)
 
-Sedangkan dalam akad qardh, risiko dana sepenuhnya telah berpindah ke dalam tanggungan peminjam (*dzimmah al-muqtaridh*). Jika uang yang dipinjam hilang, dicuri, atau terbakar saat dipegang peminjam, pemberi pinjaman tidak menanggung kerugian fisik tersebut dan tetap berhak menuntut pengembalian 100% dari pokok utang.
+Sedangkan dalam akad qardh, risiko dana sepenuhnya telah berpindah ke dalam tanggungan peminjam (*dzimmah al-muqtaridh*). Jika uang yang dipinjam hilang, dicuri, atau terbakar saat dipegang peminjam, pemberi pinjaman tidak menanggung kerugian fisik tersebut dan tetap berhak menuntut pengembalian 100\% dari pokok utang.
 
 Manakala pemberi pinjaman yang sama sekali **tidak menanggung risiko kerugian aset** menuntut adanya tambahan keuntungan (*ziyadah*), maka ia telah memungut keuntungan tanpa risiko (*ribhu ma lam yadhman*). Tindakan ini dilarang secara tegas oleh Rasulullah SAW:
 
@@ -387,7 +387,7 @@ Fintech P2P lending syariah mempertemukan dua pihak utama: Pemberi Dana (*Lender
 
 1. **Akad Wakalah bil Ujrah (Platform - Lender):** Lender memberikan kuasa (*wakalah*) kepada platform fintech untuk menyeleksi, menyalurkan, dan menagih dana pinjaman kepada borrower yang layak. Atas jasa pengelolaan teknologi informasi dan mitigasi risiko tersebut, platform berhak memungut upah jasa (*ujrah*) dari lender.
 
-2. **Akad Qardh (Lender - Borrower):** Hubungan hukum langsung antara lender dan borrower adalah akad qardh murni. Dana yang disalurkan wajib kembali 100% tanpa adanya tambahan bunga bagi lender.
+2. **Akad Qardh (Lender - Borrower):** Hubungan hukum langsung antara lender dan borrower adalah akad qardh murni. Dana yang disalurkan wajib kembali 100\% tanpa adanya tambahan bunga bagi lender.
 
 ```text
                            SKEMA MULTI-AKAD FINTECH P2P SYARIAH
@@ -397,7 +397,7 @@ Fintech P2P lending syariah mempertemukan dua pihak utama: Pemberi Dana (*Lender
        +-------------------------------------------------------------+
               |                                              |
               | 1. Akad Wakalah bil Ujrah                    | 2. Akad Qardh Murni
-              |    (Kuasa penyaluran & Ujrah)                |    (Pokok kembali 100%)
+              |    (Kuasa penyaluran & Ujrah)                |    (Pokok kembali 100\%)
               v                                              v
        +----------------------------+        +-------------------------------+
        |   PLATFORM FINTECH P2P     |        |   PENERIMA DANA (BORROWER)    |
@@ -579,7 +579,7 @@ Pemberi pinjaman (*murtahin*) meminjamkan dana qardh kepada nasabah (*rahin*), d
         +-------------------------------------------------------------+
               |                                              ^
               | 1. Penyaluran Dana Qardh                     | 2. Titip Barang Jaminan
-              |    (Pokok utang utuh 100%)                   |    (Akad Rahn & Ijarah Hifdz)
+              |    (Pokok utang utuh 100\%)                   |    (Akad Rahn & Ijarah Hifdz)
               v                                              |
         +-------------------------------------------------------------+
         |                   NASABAH (PEMINJAM / RAHIN)                |
@@ -632,7 +632,7 @@ Dalam praktik perbankan dan fintech syariah modern, untuk mendisiplinkan debitur
 
 2. **Gharamah (Sanksi Denda Keterlambatan Finansial):**\
    \
-   Denda finansial yang dikenakan kepada debitur mampu yang sengaja lalai. Ketentuan syariat mutlak atas dana *gharamah* adalah: **Lembaga keuangan dilarang keras mengakui dana denda ini sebagai pendapatan laba perusahaan**. Seluruh dana denda keterlambatan wajib dialokasikan 100% ke dalam **Rekening Dana Sosial / Dana Kebajikan (*****Qardhul Hasan / Social Fund*****)** untuk disalurkan kepada fakir miskin dan program kemaslahatan umat.
+   Denda finansial yang dikenakan kepada debitur mampu yang sengaja lalai. Ketentuan syariat mutlak atas dana *gharamah* adalah: **Lembaga keuangan dilarang keras mengakui dana denda ini sebagai pendapatan laba perusahaan**. Seluruh dana denda keterlambatan wajib dialokasikan 100\% ke dalam **Rekening Dana Sosial / Dana Kebajikan (*****Qardhul Hasan / Social Fund*****)** untuk disalurkan kepada fakir miskin dan program kemaslahatan umat.
 
 Dengan mekanisme ini, lembaga tidak mendapatkan keuntungan materiil dari denda nasabah (sehingga terbebas dari riba jahiliyyah), namun nasabah nakal tetap mendapatkan efek jera secara finansial.
 

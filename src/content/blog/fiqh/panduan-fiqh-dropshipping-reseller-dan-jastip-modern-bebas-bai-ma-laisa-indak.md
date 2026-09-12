@@ -156,7 +156,7 @@ Dari perbandingan di atas, para ulama kontemporer menarik benang merah bahwa aga
 
 ## Tiga Skema Solusi Syariah untuk Bisnis Dropshipping dan Reseller Modern
 
-Berdasarkan kajian fatwa DSN-MUI (antara lain Fatwa No. 05/DSN-MUI/IV/2000 tentang Jual Beli Salam dan Fatwa No. 113/DSN-MUI/IX/2017 tentang Akad Wakalah bil Ujrah), terdapat tiga skema syariah yang membuat bisnis dropshipping dan reseller 100% halal, aman, dan sah secara hukum Islam.
+Berdasarkan kajian fatwa DSN-MUI (antara lain Fatwa No. 05/DSN-MUI/IV/2000 tentang Jual Beli Salam dan Fatwa No. 113/DSN-MUI/IX/2017 tentang Akad Wakalah bil Ujrah), terdapat tiga skema syariah yang membuat bisnis dropshipping dan reseller 100\% halal, aman, dan sah secara hukum Islam.
 
 ```text
 +-------------------------------------------------------------------------+
@@ -169,7 +169,7 @@ Berdasarkan kajian fatwa DSN-MUI (antara lain Fatwa No. 05/DSN-MUI/IV/2000 tenta
 |                                                                         |
 | SKEMA 2: AKAD SALAM (Jual Beli Pesanan Spesifikasi Mengikat)            |
 |          Dropshipper bertindak sebagai penjual independen (Muslam Ilaih)|
-|          Pembeli bayar tunai lunas 100%, dropshipper cari barang sesuai |
+|          Pembeli bayar tunai lunas 100\%, dropshipper cari barang sesuai |
 |          kriteria dan menanggung penuh risiko barang hingga diterima.   |
 |                                                                         |
 | SKEMA 3: SISTEM STOK BUFFER KONSINYASI / MEMBELI DAHULU (Qabdh Hukmi)   |
@@ -199,11 +199,11 @@ Skema ini sangat cocok bagi dropshipper yang ingin menetapkan margin harga sendi
 
   1. Spesifikasi barang wajib dijelaskan secara sangat detail dan presisi (merk, warna, ukuran, bahan, garansi) hingga tidak menimbulkan *gharar*.
 
-  2. Pembeli wajib membayar harga barang secara **tunai lunas 100% di muka** (*taqdim ra'sil mal fil majlis*). Sistem pembayaran DP sebagian atau cicilan di tengah jalan dilarang dalam salam karena jatuh pada larangan menjual utang dengan utang (*bai' ad-dain bid-dain*).
+  2. Pembeli wajib membayar harga barang secara **tunai lunas 100\% di muka** (*taqdim ra'sil mal fil majlis*). Sistem pembayaran DP sebagian atau cicilan di tengah jalan dilarang dalam salam karena jatuh pada larangan menjual utang dengan utang (*bai' ad-dain bid-dain*).
 
   3. Waktu dan estimasi penyerahan barang harus disepakati secara jelas (misalnya 3 hingga 5 hari kerja).
 
-  4. Dropshipper bertanggung jawab penuh (*dhaman*) atas kesesuaian barang dan risiko pengiriman. Jika barang rusak, hilang, atau cacat di jalan, Dropshipper wajib mengganti unit baru atau mengembalikan uang pembeli 100%.
+  4. Dropshipper bertanggung jawab penuh (*dhaman*) atas kesesuaian barang dan risiko pengiriman. Jika barang rusak, hilang, atau cacat di jalan, Dropshipper wajib mengganti unit baru atau mengembalikan uang pembeli 100\%.
 
 * **Keabsahan Fiqh:** Sah berdasarkan ijma' ulama bahwa akad salam merupakan pengecualian (*istitsna'*) yang diizinkan syariat dari larangan *bai' ma laisa 'indak*, karena objek transaksi berstatus tanggungan dalam kewajiban (*fi dzimmah*), bukan barang fisik yang ditunjuk secara spekulatif.
 
@@ -215,7 +215,7 @@ Bagi reseller yang memiliki sedikit modal, skema ini memberikan kendali keuntung
 
 * **Mekanisme Pengiriman:** Reseller menitipkan barang yang telah menjadi milik sahnya tersebut di gudang pemasok (*wadi'ah/ijarah gudang*). Ketika ada pembeli yang memesan, Reseller memerintahkan gudang pemasok untuk mengirimkan barang milik Reseller tersebut ke alamat konsumen.
 
-* **Keabsahan Fiqh:** Sah 100% karena proses *qabdh hukmi* (penguasaan yuridis dan pengalihan risiko) telah terjadi sebelum barang dijual kembali kepada pembeli akhir.
+* **Keabsahan Fiqh:** Sah 100\% karena proses *qabdh hukmi* (penguasaan yuridis dan pengalihan risiko) telah terjadi sebelum barang dijual kembali kepada pembeli akhir.
 
 ## Fiqh Jasa Titip (Jastip) Luar Negeri dan Domestik
 
@@ -238,7 +238,7 @@ Bisnis jasa titip (*jastip*) memiliki karakteristik yang sangat unik karena perp
 |         +--(4. Menyerahkan Struk Asli + Barang + Terima Fee Jasa)       |
 |         |                                                               |
 |         v                                                               |
-|  [HASIL AKHIR: TRANSAKSI HALAL & TRANSPARAN 100%]                       |
+|  [HASIL AKHIR: TRANSAKSI HALAL & TRANSPARAN 100\%]                       |
 +-------------------------------------------------------------------------+
 ```
 
@@ -262,7 +262,7 @@ Apabila pelaku jastip tidak ingin membeberkan harga modal asli toko dan ingin me
 
 * **Kewajiban Pembeli:** Pembeli wajib menyetor pembayaran tunai lunas Rp850.000 di muka sebelum pelaku jastip membelikan barang tersebut.
 
-* **Kewajiban Pelaku Jastip:** Jika barang di toko ternyata diskon atau lebih mahal, selisih tersebut menjadi hak/tanggungan pelaku jastip sepenuhnya. Namun jika barang ternyata kosong di toko, pelaku jastip wajib mengembalikan dana Rp850.000 milik konsumen secara utuh 100% tanpa potongan sepeser pun.
+* **Kewajiban Pelaku Jastip:** Jika barang di toko ternyata diskon atau lebih mahal, selisih tersebut menjadi hak/tanggungan pelaku jastip sepenuhnya. Namun jika barang ternyata kosong di toko, pelaku jastip wajib mengembalikan dana Rp850.000 milik konsumen secara utuh 100\% tanpa potongan sepeser pun.
 
 ### Larangan Menjual Komoditas Terlarang dan Cukai Ilegal dalam Jastip
 
@@ -329,7 +329,7 @@ Sebelum kamu mengunggah ribuan katalog produk dan mulai mempromosikan toko onlin
 
 [ ] 4. PEMBAYARAN TUNAI LUNAS PADA SISTEM PRE-ORDER
        Jika menggunakan skema salam mandiri, pastikan sistem pembayaran mengharuskan
-       pembeli melunasi 100% di awal sebelum pesanan diteruskan ke pabrik.
+       pembeli melunasi 100\% di awal sebelum pesanan diteruskan ke pabrik.
 
 [ ] 5. TANGGUNG JAWAB RESIKO PENGIRIMAN DAN RETUR
        Pastikan kamu siap menanggung risiko retur barang rusak atau barang hilang jika

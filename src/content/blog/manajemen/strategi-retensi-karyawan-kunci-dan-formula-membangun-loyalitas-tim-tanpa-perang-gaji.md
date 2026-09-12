@@ -91,7 +91,7 @@ Berikut adalah simulasi biaya pada level Senior Software Engineer atau Manajer P
 
 | Komponen Biaya                   | Skenario A Mempertahankan Sistemik   | Skenario B Menyerah pada Perang Gaji  | Skenario C Mengganti Karyawan Baru     |
 | -------------------------------- | ------------------------------------ | ------------------------------------- | -------------------------------------- |
-| **Kenaikan Gaji Pokok**          | Normal berkala (7% - 10%)            | Kenaikan darurat (40% - 50%)          | Sesuai harga pasar (+20%)              |
+| **Kenaikan Gaji Pokok**          | Normal berkala (7% - 10%)            | Kenaikan darurat (40% - 50%)          | Sesuai harga pasar (+20\%)              |
 | **Beban Kas Tahunan Tambahan**   | Rp15.000.000 (Bonus kinerja & tools) | Rp72.000.000 (Gaji pokok baru)        | Rp36.000.000 (Standar baru)            |
 | **Biaya Rekrutmen & Iklan**      | Rp0                                  | Rp0                                   | Rp18.000.000 (Fee & portal)            |
 | **Waktu Mentoring Tim Senior**   | Terjadwal efisien 2 jam/bulan        | Tidak ada perubahan                   | 80 jam kerja intensif                  |

@@ -66,7 +66,7 @@ Berikut adalah uraian komprehensif mengenai karakteristik masing-masing akad:
 
 ### 1. Akad Mudharabah (Kemitraan Modal dan Pengelola)
 
-Mudharabah atau sering disebut juga *Qiradh* dalam tradisi fiqh ulama Hijaz (Madzhab Maliki dan Syafi'i) adalah akad kerja sama usaha di mana pihak pertama bertindak sebagai penyedia 100% modal (*Shahibul Maal*), sedangkan pihak kedua bertindak murni sebagai pengelola keahlian dan operasional usaha (*Mudharib*).
+Mudharabah atau sering disebut juga *Qiradh* dalam tradisi fiqh ulama Hijaz (Madzhab Maliki dan Syafi'i) adalah akad kerja sama usaha di mana pihak pertama bertindak sebagai penyedia 100\% modal (*Shahibul Maal*), sedangkan pihak kedua bertindak murni sebagai pengelola keahlian dan operasional usaha (*Mudharib*).
 
 Prinsip fundamental dalam akad Mudharabah meliputi:
 
@@ -74,7 +74,7 @@ Prinsip fundamental dalam akad Mudharabah meliputi:
 
 * **Pembagian Keuntungan (Nisbah):** Keuntungan bersih yang diperoleh dari hasil usaha dibagi antara Shahibul Maal dan Mudharib berdasarkan persentase kesepakatan awal (misalnya 60% untuk pemodal dan 40% untuk pengelola), bukan nominal rupiah yang dipatok mati di muka.
 
-* **Penanggungan Risiko Kerugian Finansial:** Apabila terjadi kerugian finansial yang murni disebabkan oleh risiko bisnis normal (bukan akibat kelalaian, kesengajaan, atau pelanggaran akad oleh Mudharib), maka seluruh kerugian uang ditanggung 100% oleh Shahibul Maal. Mudharib tidak boleh dituntut mengganti modal uang tersebut.
+* **Penanggungan Risiko Kerugian Finansial:** Apabila terjadi kerugian finansial yang murni disebabkan oleh risiko bisnis normal (bukan akibat kelalaian, kesengajaan, atau pelanggaran akad oleh Mudharib), maka seluruh kerugian uang ditanggung 100\% oleh Shahibul Maal. Mudharib tidak boleh dituntut mengganti modal uang tersebut.
 
 * **Kerugian Pengelola:** Mudharib menanggung kerugian berupa hilangnya waktu, tenaga, pikiran, dan tidak mendapatkan imbalan kerja sepeser pun selama periode usaha yang merugi tersebut.
 
@@ -104,10 +104,10 @@ Agar perbandingan kedua akad kemitraan ini makin jelas dan mudah dipahami, mari 
 
 | Parameter Evaluasi             | Akad Mudharabah (Kemitraan Pasif)          | Akad Musyarakah / Syirkah Inan (Kongsi Modal)         |
 | ------------------------------ | ------------------------------------------ | ----------------------------------------------------- |
-| **Sumber Permodalan**          | 100% dari Pemodal (*Shahibul Maal*)        | Disetor bersama oleh seluruh mitra (*Syarik*)         |
+| **Sumber Permodalan**          | 100\% dari Pemodal (*Shahibul Maal*)        | Disetor bersama oleh seluruh mitra (*Syarik*)         |
 | **Pengelolaan Operasional**    | Dikelola penuh oleh Pengelola (*Mudharib*) | Dikelola bersama atau menunjuk salah satu mitra aktif |
 | **Pembagian Keuntungan**       | Berdasarkan kesepakatan persentase nisbah  | Berdasarkan kesepakatan persentase nisbah             |
-| **Penanggungan Kerugian Uang** | Ditanggung 100% oleh Pemodal               | Dibagi proporsional persis sesuai porsi modal         |
+| **Penanggungan Kerugian Uang** | Ditanggung 100\% oleh Pemodal               | Dibagi proporsional persis sesuai porsi modal         |
 | **Kerugian Pihak Pengelola**   | Kehilangan waktu, tenaga, dan tanpa upah   | Kehilangan modal sebanding dengan porsi sahamnya      |
 
 Setelah kita memahami perbedaan struktur kedua akad di atas, mari kita telusuri syarat sah rukun syirkah agar terhindar dari jebakan transaksi yang haram.
@@ -122,7 +122,7 @@ Para pihak yang menjalin kemitraan wajib berstatus *Ahliyyah at-Tasharruf* (memi
 
 ### 2. Obyek Usaha yang Dijalankan (*Al-Amal*)
 
-Bidang bisnis yang dijalankan bersama wajib berupa komoditas atau jasa yang 100% halal dan mubah secara syariat. Kemitraan untuk memproduksi minuman beralkohol, restoran yang menyajikan olahan babi, penyedia jasa pinjaman berbunga (riba), bisnis penipuan skema ponzi, atau perjudian online hukumnya batil dan haram secara mutlak.
+Bidang bisnis yang dijalankan bersama wajib berupa komoditas atau jasa yang 100\% halal dan mubah secara syariat. Kemitraan untuk memproduksi minuman beralkohol, restoran yang menyajikan olahan babi, penyedia jasa pinjaman berbunga (riba), bisnis penipuan skema ponzi, atau perjudian online hukumnya batil dan haram secara mutlak.
 
 ### 3. Modal Usaha (*Ra'sul Maal*)
 
@@ -150,7 +150,7 @@ Dalam praktik muamalah kontemporer, Dewan Syariah Nasional Majelis Ulama Indones
 
 ### 1. Larangan Jaminan Pengembalian Modal (*Capital Guarantee Trap*)
 
-Dalam akad Mudharabah murni, Shahibul Maal **dilarang mensyaratkan jaminan bahwa modal pokoknya pasti kembali 100% tanpa risiko**.
+Dalam akad Mudharabah murni, Shahibul Maal **dilarang mensyaratkan jaminan bahwa modal pokoknya pasti kembali 100\% tanpa risiko**.
 
 Jika ada klausul yang mewajibkan Mudharib mengganti kerugian modal padahal bisnis rugi karena faktor pasar yang wajar, maka akad tersebut rusak (*fasid*) dan bertransformasi menjadi riba.
 
@@ -180,7 +180,7 @@ Mari kita ambil contoh nyata kemitraan antara **Rian** (selaku Shahibul Maal/Pem
 
 ### Kesepakatan Awal Akad
 
-1. **Modal Usaha:** Rp100.000.000 disetor penuh oleh Rian (100% Mudharabah).
+1. **Modal Usaha:** Rp100.000.000 disetor penuh oleh Rian (100\% Mudharabah).
 
 2. **Nisbah Keuntungan:** 60% untuk Fahmi (Pengelola Aktif) dan 40% untuk Rian (Pemodal).
 

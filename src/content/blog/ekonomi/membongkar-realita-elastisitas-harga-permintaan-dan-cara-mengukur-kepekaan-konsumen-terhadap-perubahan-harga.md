@@ -85,7 +85,7 @@ Secara konvensional, koefisien elastisitas harga permintaan dihitung dengan memb
 
 Rumus dasarnya dapat dituliskan sebagai berikut:
 
-$$\text{PED} = \frac{% \Delta Q}{% \Delta P} = \frac{\frac{Q_2 - Q_1}{Q_1} \times 100%}{\frac{P_2 - P_1}{P_1} \times 100%} = \frac{\frac{Q_2 - Q_1}{Q_1}}{\frac{P_2 - P_1}{P_1}}$$
+$$\text{PED} = \frac{\% \Delta Q}{\% \Delta P} = \frac{\frac{Q_2 - Q_1}{Q_1} \times 100\%}{\frac{P_2 - P_1}{P_1} \times 100\%} = \frac{\frac{Q_2 - Q_1}{Q_1}}{\frac{P_2 - P_1}{P_1}}$$
 
 Keterangan variabel:
 
@@ -117,19 +117,19 @@ Misalkan sebuah kedai minuman boba memiliki data penjualan berikut:
 
 **Skenario 1 Menghitung Kenaikan Harga dari Titik A ke Titik B**
 
-* $% \Delta P = \frac{12.000 - 10.000}{10.000} = \frac{2.000}{10.000} = +20%$
+* $\\% \Delta P = \frac{12.000 - 10.000}{10.000} = \frac{2.000}{10.000} = +20\%$
 
-* $% \Delta Q = \frac{70 - 100}{100} = \frac{-30}{100} = -30%$
+* $\\% \Delta Q = \frac{70 - 100}{100} = \frac{-30}{100} = -30\%$
 
-* $\text{PED}_{A \to B} = \frac{-30%}{+20%} = -1,5$ (Nilai mutlak 1,5)
+* $\text{PED}_{A \to B} = \frac{-30\%}{+20\%} = -1,5$ (Nilai mutlak 1,5)
 
 **Skenario 2 Menghitung Penurunan Harga dari Titik B ke Titik A**
 
-* $% \Delta P = \frac{10.000 - 12.000}{12.000} = \frac{-2.000}{12.000} = -16,67%$
+* $\\% \Delta P = \frac{10.000 - 12.000}{12.000} = \frac{-2.000}{12.000} = -16,67\%$
 
-* $% \Delta Q = \frac{100 - 70}{70} = \frac{+30}{70} = +42,86%$
+* $\\% \Delta Q = \frac{100 - 70}{70} = \frac{+30}{70} = +42,86\%$
 
-* $\text{PED}_{B \to A} = \frac{+42,86%}{-16,67%} = -2,57$ (Nilai mutlak 2,57)
+* $\text{PED}_{B \to A} = \frac{+42,86\%}{-16,67\%} = -2,57$ (Nilai mutlak 2,57)
 
 Perhatikan kejanggalan tersebut. Pada dua titik harga dan kuantitas yang identik, rumus konvensional menghasilkan nilai elastisitas yang jauh berbeda (1,5 versus 2,57). Hal ini terjadi karena penyebut pembagi persentase bergantung pada titik awal yang dipilih. Dalam pengambilan keputusan bisnis yang presisi, ketidakkonsistenan ini sangat berbahaya.
 
@@ -159,17 +159,17 @@ Mari kita uji kembali kasus kedai boba di atas (Titik A: Rp 10.000 dan 100 gelas
 
 **Perhitungan Pergerakan dari A ke B (Harga Naik):**
 
-* $% \Delta Q = \frac{70 - 100}{85} = \frac{-30}{85} \approx -0,35294\ (-35,29%)$
+* $\\% \Delta Q = \frac{70 - 100}{85} = \frac{-30}{85} \approx -0,35294\ (-35,29\%)$
 
-* $% \Delta P = \frac{12.000 - 10.000}{11.000} = \frac{2.000}{11.000} \approx +0,18182\ (+18,18%)$
+* $\\% \Delta P = \frac{12.000 - 10.000}{11.000} = \frac{2.000}{11.000} \approx +0,18182\ (+18,18\%)$
 
 * $\text{PED} = \frac{-0,35294}{+0,18182} \approx -1,941$ (Nilai mutlak 1,94)
 
 **Perhitungan Pergerakan dari B ke A (Harga Turun):**
 
-* $% \Delta Q = \frac{100 - 70}{85} = \frac{+30}{85} \approx +0,35294\ (+35,29%)$
+* $\\% \Delta Q = \frac{100 - 70}{85} = \frac{+30}{85} \approx +0,35294\ (+35,29\%)$
 
-* $% \Delta P = \frac{10.000 - 12.000}{11.000} = \frac{-2.000}{11.000} \approx -0,18182\ (-18,18%)$
+* $\\% \Delta P = \frac{10.000 - 12.000}{11.000} = \frac{-2.000}{11.000} \approx -0,18182\ (-18,18\%)$
 
 * $\text{PED} = \frac{+0,35294}{-0,18182} \approx -1,941$ (Nilai mutlak 1,94)
 
@@ -245,10 +245,10 @@ Contoh klasik di dunia nyata adalah obat-obatan penyelamat nyawa (*life-saving d
 | Kategori Elastisitas   | Nilai Mutlak PED | Respon Kuantitas vs Harga | Bentuk Kemiringan Kurva | Contoh Komoditas Riil                  |
 | ---------------------- | ---------------- | ------------------------- | ----------------------- | -------------------------------------- |
 | **Elastis Sempurna**   | $                | PED                       | = \infty$               | Berubah tak terhingga pada harga tetap |
-| **Relatif Elastis**    | $                | PED                       | > 1$                    | $% \Delta Q > % \Delta P$              |
-| **Elastis Uniter**     | $                | PED                       | = 1$                    | $% \Delta Q = % \Delta P$              |
-| **Relatif Inelastis**  | $                | PED                       | < 1$                    | $% \Delta Q < % \Delta P$              |
-| **Inelastis Sempurna** | $                | PED                       | = 0$                    | $% \Delta Q = 0$                       |
+| **Relatif Elastis**    | $                | PED                       | > 1$                    | $\\% \Delta Q > \\% \Delta P$              |
+| **Elastis Uniter**     | $                | PED                       | = 1$                    | $\\% \Delta Q = \\% \Delta P$              |
+| **Relatif Inelastis**  | $                | PED                       | < 1$                    | $\\% \Delta Q < \\% \Delta P$              |
+| **Inelastis Sempurna** | $                | PED                       | = 0$                    | $\\% \Delta Q = 0$                       |
 
 ## Faktor Penentu yang Membentuk Derajat Elastisitas Produk di Pasar
 
@@ -498,7 +498,7 @@ Diferensiasi bisa berupa:
 
 * **Kecepatan Layanan Garansi:** Layanan servis elektronik tuntas dalam 2 jam atau gratis biaya perbaikan.
 
-* **Sertifikasi Resmi dan Keamanan:** Bahan makanan bersertifikat organik internasional atau jaminan 100% bebas bahan pengawet kimia berbahaya.
+* **Sertifikasi Resmi dan Keamanan:** Bahan makanan bersertifikat organik internasional atau jaminan 100\% bebas bahan pengawet kimia berbahaya.
 
 Ketika konsumen meyakini bahwa keunggulan tersebut hanya ada di tokomu, ketiadaan barang substitusi akan membuat mereka tidak sensitif terhadap selisih harga beberapa ribu rupiah.
 

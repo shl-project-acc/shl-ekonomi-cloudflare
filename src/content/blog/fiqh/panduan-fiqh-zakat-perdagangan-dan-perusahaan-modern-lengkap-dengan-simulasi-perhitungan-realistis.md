@@ -90,14 +90,14 @@ Dalam kaidah fiqh muamalah yang sangat presisi, seluruh aset yang tercatat pada 
 
 | Klasifikasi Aset pada Neraca                    | Status Hukum Zakat                   | Dasar Fiqh & Perlakuan Akuntansi Syariah                                  |
 | ----------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------- |
-| **Kas di Brankas & Kasir Toko**                 | **Wajib Dihitung 100%**              | Likuiditas tunai murni yang siap digunakan berputar kapan saja            |
-| **Saldo Rekening Bank Operasional Bisnis**      | **Wajib Dihitung 100%**              | Dana lancar yang menjadi darah perputaran transaksi harian                |
+| **Kas di Brankas & Kasir Toko**                 | **Wajib Dihitung 100\%**              | Likuiditas tunai murni yang siap digunakan berputar kapan saja            |
+| **Saldo Rekening Bank Operasional Bisnis**      | **Wajib Dihitung 100\%**              | Dana lancar yang menjadi darah perputaran transaksi harian                |
 | **Persediaan Barang Jadi (Finished Goods)**     | **Wajib Dihitung (Nilai Pasar)**     | Komoditas yang siap dijual (*al-mu'addu lil bai'*) pada saat haul         |
 | **Persediaan Barang Dalam Proses (WIP)**        | **Wajib Dihitung (Biaya Riil)**      | Produk setengah jadi yang sedang dalam tahapan produksi                   |
 | **Persediaan Bahan Baku (Raw Materials)**       | **Wajib Dihitung (Harga Perolehan)** | Bahan mentah yang dibeli untuk diproses menjadi produk jualan             |
 | **Piutang Lancar Pelanggan (*Ar-Raji'*)**       | **Wajib Dihitung (Nilai Bersih)**    | Tagihan kepada pembeli yang terpercaya dan lancar pembayarannya           |
 | **Piutang Ragu-Ragu & Macet (*Ghoiru Raji'*)**  | **BEBAS ZAKAT SEMENTARA**            | Tidak dihitung saat ini, hanya dizakati 1 kali saat uang berhasil ditagih |
-| **Uang Muka Pembelian Barang Dagangan**         | **Wajib Dihitung 100%**              | Uang yang disetorkan ke supplier untuk jatah komoditas dagang             |
+| **Uang Muka Pembelian Barang Dagangan**         | **Wajib Dihitung 100\%**              | Uang yang disetorkan ke supplier untuk jatah komoditas dagang             |
 | **Gedung Pabrik, Gudang, dan Ruko Usaha**       | **BEBAS ZAKAT (0%)**                 | Sarana fisik wadah usaha (*alatul intaj*), bukan obyek jual beli          |
 | **Tanah Tempat Berdirinya Bangunan Usaha**      | **BEBAS ZAKAT (0%)**                 | Aset tetap penunjang operasional, bukan tanah kavling dagangan            |
 | **Mesin Produksi, Alat Cetak, dan Oven Pabrik** | **BEBAS ZAKAT (0%)**                 | Instrumen alat kerja yang mengubah bahan mentah jadi produk               |

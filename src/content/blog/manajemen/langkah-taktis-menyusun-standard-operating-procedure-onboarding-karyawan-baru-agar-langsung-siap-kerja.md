@@ -326,7 +326,7 @@ Dengan menerapkan SOP onboarding yang rapi dan panduan Buddy yang intensif, peru
 Metrik ini mengukur persentase karyawan baru yang tetap bertahan dan melanjutkan kerja setelah melewati masa percobaan 90 hari pertama.
 
 Formula perhitungannya:\
-`Tingkat Retensi 90 Hari = (Jumlah Karyawan Bertahan di Hari ke-90 / Total Karyawan yang Direkrut pada Periode Tersebut) x 100%`
+`Tingkat Retensi 90 Hari = (Jumlah Karyawan Bertahan di Hari ke-90 / Total Karyawan yang Direkrut pada Periode Tersebut) x 100\%`
 
 Jika perusahaan merekrut 10 orang karyawan baru dan dalam rentang 90 hari ada 3 orang yang mengundurkan diri karena merasa tidak cocok dengan lingkungan kerja, maka tingkat retensinya adalah 70 persen. Angka retensi 90 hari yang sehat di industri umumnya berada di atas 85 hingga 90 persen. Jika angka retensimu berada di bawah 75 persen, itu adalah sinyal darurat bahwa proses seleksi atau sistem onboarding-mu sedang bermasalah.
 

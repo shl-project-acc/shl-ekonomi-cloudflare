@@ -117,7 +117,7 @@ Ini adalah tugas-tugas yang dampaknya sangat besar bagi kelangsungan hidup atau 
 
 * Kompor gas di dapur restoranmu bocor dan harus segera ditangani sebelum kebakaran.
 
-*Prinsip Sikap:* **Kerjakan Sendiri Sekarang Juga (*****Do It Now*****)**. Jangan ditunda, jangan didelegasikan jika menyangkut keputusan kritis. Namun ingat, jika hidupmu setiap hari 100% berada di Kuadran 1 ini, tandanya kamu sedang hidup dalam kebakaran mental yang kronis akibat perencanaan yang buruk di masa lalu.
+*Prinsip Sikap:* **Kerjakan Sendiri Sekarang Juga (*****Do It Now*****)**. Jangan ditunda, jangan didelegasikan jika menyangkut keputusan kritis. Namun ingat, jika hidupmu setiap hari 100\% berada di Kuadran 1 ini, tandanya kamu sedang hidup dalam kebakaran mental yang kronis akibat perencanaan yang buruk di masa lalu.
 
 Setelah urusan gawat darurat selesai, kuadran kedua adalah tempat di mana orang-orang sukses membangun masa depannya.
 
@@ -263,7 +263,7 @@ Mari kita lihat perbandingan nyata hasil kinerja dan kualitas hidup Hendra di ak
 | Indikator Evaluasi Kerja                  | Bulan 1 (Tanpa Sistem Manajemen Waktu)        | Bulan 2 (Dengan Sistem Manajemen Terstruktur)               |
 | ----------------------------------------- | --------------------------------------------- | ----------------------------------------------------------- |
 | **Rata-rata Jam Kerja Harian**            | 12 sampai 14 jam per hari *(Sering begadang)* | 8 jam per hari *(Pulang tepat jam lima sore)*               |
-| **Penyelesaian Tugas Kuadran 2**          | **0% tuntas** *(Selalu tertunda dan macet)*   | **100% tuntas** *(SOP baku selesai, cabang baru siap buka)* |
+| **Penyelesaian Tugas Kuadran 2**          | **0% tuntas** *(Selalu tertunda dan macet)*   | **100\% tuntas** *(SOP baku selesai, cabang baru siap buka)* |
 | **Tingkat Ketepatan Pengiriman Katering** | 78% *(Sering terlambat karena panik)*         | **99% tepat waktu** *(Sistem operasional dapur rapi)*       |
 | **Tingkat Stres dan Kesehatan Mental**    | Kritis, sering migrain dan emosi labil        | Tenang, tidur nyenyak 7 jam, bahagia                        |
 | **Pertumbuhan Omzet Usaha**               | Stagnan dan cenderung turun                   | **Naik 35%** *(Karena kualitas layanan meningkat pesat)*    |

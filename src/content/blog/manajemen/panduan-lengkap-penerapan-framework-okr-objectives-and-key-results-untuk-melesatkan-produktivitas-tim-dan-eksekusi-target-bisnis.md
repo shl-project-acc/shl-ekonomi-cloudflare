@@ -71,8 +71,8 @@ Tabel komparasi komprehensif berikut membedah perbedaan parameter esensial antar
 | **Karakter Metrik**            | Berorientasi pada batas standar minimal (*threshold / quota*)    | Berorientasi pada aspirasi batas atas yang menantang (*aspirational*)  |
 | **Siklus Evaluasi**            | Tahunan atau multi-tahun yang relatif statis dan lambat          | Kuartalan (3 bulanan) dengan siklus check-in mingguan yang lincah      |
 | **Tautan Kompensasi (Gaji)**   | Terhubung langsung dengan bonus finansial dan kenaikan gaji      | **DIPISAHKAN** dari bonus gaji agar tim berani mengambil target tinggi |
-| **Tingkat Ketercapaian Ideal** | Ditargetkan wajib 100% tercapai (kurang dari 100% dinilai gagal) | 60% hingga 70% tercapai sudah dinilai luar biasa (*sweet spot*)        |
-| **Transparansi Sistem**        | Tertutup, hanya diketahui karyawan dan manajer langsung          | 100% Terbuka dan transparan untuk seluruh karyawan lintas divisi       |
+| **Tingkat Ketercapaian Ideal** | Ditargetkan wajib 100\% tercapai (kurang dari 100\% dinilai gagal) | 60% hingga 70% tercapai sudah dinilai luar biasa (*sweet spot*)        |
+| **Transparansi Sistem**        | Tertutup, hanya diketahui karyawan dan manajer langsung          | 100\% Terbuka dan transparan untuk seluruh karyawan lintas divisi       |
 | **Arah Penyelarasan**          | Mayoritas mengalir satu arah dari atas ke bawah (*top-down*)     | Gabungan seimbang antara top-down 50% dan bottom-up 50% dari tim       |
 
 Pemisahan antara evaluasi OKR dengan skema kompensasi bonus gaji adalah aturan terpenting dalam penerapan OKR modern. Apabila pencapaian OKR dikaitkan langsung dengan pemotongan gaji atau pemberian bonus, karyawan secara alami akan menetapkan target yang sangat rendah dan mudah ditebak (*sandbagging*) agar mereka aman mendapatkan bonus. Sebaliknya, ketika OKR dipisahkan dari bonus gaji, karyawan terdorong untuk bermimpi besar, berinovasi secara berani, dan mencoba terobosan-terobosan baru yang belum pernah dilakukan sebelumnya.
@@ -169,7 +169,7 @@ Banyak organisasi gagal memetik manfaat OKR karena terjebak dalam kesalahan umum
 | 4. OKR Dibuat Lalu Dilupakan (Set-and-Forget Trap)                      |
 |    Tidak ada ritual check-in mingguan hingga tiba-tiba akhir kuartal.   |
 |                                                                         |
-| 5. 100% Didikte dari Atas (Pure Top-Down Mandate)                       |
+| 5. 100\% Didikte dari Atas (Pure Top-Down Mandate)                       |
 |    Karyawan merasa tidak memiliki target sehingga komitmen eksekusi lesu|
 +-------------------------------------------------------------------------+
 ```
@@ -211,17 +211,17 @@ Setiap hari Senin pagi, seluruh tim mengadakan pertemuan singkat selama 15 hingg
 
 ### 2. Sistem Penilaian dan Grading Kinerja (Metode Standar Google)
 
-Pada akhir kuartal, setiap Key Result dinilai menggunakan skala desimal dari **0.0 hingga 1.0** (atau 0% hingga 100%).
+Pada akhir kuartal, setiap Key Result dinilai menggunakan skala desimal dari **0.0 hingga 1.0** (atau 0% hingga 100\%).
 
 Tabel kriteria grading berikut menyajikan panduan evaluasi pencapaian OKR secara obyektif:
 
 | Rentang Skor OKR                | Penilaian Warna Status              | Interpretasi Kinerja dan Tindak Lanjut                                                                                       |
 | ------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **0.7 hingga 1.0 (70% - 100%)** | 🟢 **Hijau (Zona Sukses Optimal)**  | Target tercapai dengan sangat luar biasa. Tim berhasil melakukan lompatan kinerja tinggi (*sweet spot of stretch goals*).    |
+| **0.7 hingga 1.0 (70% - 100\%)** | 🟢 **Hijau (Zona Sukses Optimal)**  | Target tercapai dengan sangat luar biasa. Tim berhasil melakukan lompatan kinerja tinggi (*sweet spot of stretch goals*).    |
 | **0.4 hingga 0.6 (40% - 60%)**  | 🟡 **Kuning (Zona Kemajuan Cukup)** | Terjadi kemajuan nyata dan bernilai positif, namun target belum tuntas sempurna. Perlu evaluasi kendala eksekusi.            |
 | **0.0 hingga 0.3 (0% - 30%)**   | 🔴 **Merah (Zona Kritis / Gagal)**  | Tidak terjadi kemajuan berarti. Perlu analisis mendalam apakah target terlalu mustahil atau ada kegagalan eksekusi mendasar. |
 
-Jika sebuah tim selalu mendapatkan skor 1.0 (100%) pada seluruh Key Results mereka di setiap kuartal, hal itu bukanlah tanda kehebatan tim, melainkan sinyal bahwa tim tersebut menetapkan target yang terlalu mudah dan tidak memiliki keberanian untuk mengambil risiko inovasi. Sebaliknya, rata-rata skor kuartalan di angka **0.6 hingga 0.7** adalah standar emas yang menunjukkan bahwa tim menetapkan target yang sangat ambisius dan telah mengerahkan seluruh potensi terbaik mereka.
+Jika sebuah tim selalu mendapatkan skor 1.0 (100\%) pada seluruh Key Results mereka di setiap kuartal, hal itu bukanlah tanda kehebatan tim, melainkan sinyal bahwa tim tersebut menetapkan target yang terlalu mudah dan tidak memiliki keberanian untuk mengambil risiko inovasi. Sebaliknya, rata-rata skor kuartalan di angka **0.6 hingga 0.7** adalah standar emas yang menunjukkan bahwa tim menetapkan target yang sangat ambisius dan telah mengerahkan seluruh potensi terbaik mereka.
 
 ## Simulasi Komprehensif Cascading OKR Perusahaan Ritel Digital Kuartal 4
 
@@ -285,7 +285,7 @@ Sebelum kamu meluncurkan siklus OKR pertama di perusahaan atau tim kerjamu, guna
 
 [ ] 4. KESEIMBANGAN TOP-DOWN DAN BOTTOM-UP
        Pastikan minimal 50% dari perumusan OKR divisi dirumuskan secara mandiri oleh tim
-       pelaksana di lapangan, bukan didikte 100% secara kaku oleh direksi atas.
+       pelaksana di lapangan, bukan didikte 100\% secara kaku oleh direksi atas.
 
 [ ] 5. SISTEM TRANSPARAN BISA DIAKSES SEMUA ORANG
        Pastikan lembar OKR seluruh level manajemen dapat dilihat dan dibaca secara terbuka

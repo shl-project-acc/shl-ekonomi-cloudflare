@@ -367,7 +367,7 @@ Dalam skema yang sepenuhnya sesuai dengan maqashid syariah dan fatwa ulama inter
 
 3. **Biaya Premi Takaful/Asuransi Riil:** Biaya perlindungan marhun atas risiko kebakaran, perampokan, atau kehilangan yang dibayarkan langsung kepada perusahaan asuransi syariah pihak ketiga.
 
-Dengan formula murni ini, lembaga keuangan syariah memperoleh pendapatan jasa yang 100% halal, adil, transparan, dan bersih dari segala syubhat riba utang-piutang.
+Dengan formula murni ini, lembaga keuangan syariah memperoleh pendapatan jasa yang 100\% halal, adil, transparan, dan bersih dari segala syubhat riba utang-piutang.
 
 Untuk melihat implementasi matematisnya, mari kita susun simulasi komparatif yang detail dan realistis.
 
@@ -570,7 +570,7 @@ Hasil penjualan lelang marhun dialokasikan dengan urutan prioritas hukum sebagai
 
 2. **Penggantian Biaya Riil Lelang dan Simpan Terutang:** Membayar biaya administrasi juru lelang resmi dan tunggakan sewa brankas riil yang sah.
 
-3. **Pengembalian Surplus kepada Nasabah:** Apabila hasil penjualan lebih besar daripada total utang dan biaya riil lelang, maka **kelebihan dana tersebut 100% wajib dikembalikan kepada nasabah (*****rahin*****)**. Lembaga keuangan syariah diharamkan secara mutlak mengambil atau menikmati sisa uang kelebihan lelang tersebut.
+3. **Pengembalian Surplus kepada Nasabah:** Apabila hasil penjualan lebih besar daripada total utang dan biaya riil lelang, maka **kelebihan dana tersebut 100\% wajib dikembalikan kepada nasabah (*****rahin*****)**. Lembaga keuangan syariah diharamkan secara mutlak mengambil atau menikmati sisa uang kelebihan lelang tersebut.
 
 4. **Klaim Defisit Utang:** Apabila hasil penjualan marhun ternyata lebih kecil daripada total utang nasabah, maka sisa utang yang belum tertutup tetap menjadi kewajiban utang biasa bagi rahin yang wajib dilunasi di masa depan manakala ia telah memiliki kelapangan.
 
@@ -618,7 +618,7 @@ Lembaga keuangan syariah diperbolehkan menuntut ganti rugi atas biaya riil yang 
 
 ### 2 Gharamah (Sanksi Denda Finansial)
 
-Lembaga keuangan syariah dapat mengenakan sanksi denda finansial kepada nasabah mampu yang sengaja menunda pembayaran untuk mendisiplinkan moral debitur. Namun, dana hasil denda *gharamah* tersebut **dilarang keras diakui sebagai pendapatan laba lembaga**. Seluruh dana denda keterlambatan wajib disalurkan 100% ke rekening dana kebajikan sosial (*qardhul hasan* / dana sosial kebajikan) untuk disalurkan kepada fakir miskin, beasiswa pendidikan, atau fasilitas kemaslahatan umat.
+Lembaga keuangan syariah dapat mengenakan sanksi denda finansial kepada nasabah mampu yang sengaja menunda pembayaran untuk mendisiplinkan moral debitur. Namun, dana hasil denda *gharamah* tersebut **dilarang keras diakui sebagai pendapatan laba lembaga**. Seluruh dana denda keterlambatan wajib disalurkan 100\% ke rekening dana kebajikan sosial (*qardhul hasan* / dana sosial kebajikan) untuk disalurkan kepada fakir miskin, beasiswa pendidikan, atau fasilitas kemaslahatan umat.
 
 Dengan pemisahan yang sangat ketat ini, lembaga keuangan syariah terbebas murni dari memakan harta riba dari denda keterlambatan pembayaran utang nasabah.
 

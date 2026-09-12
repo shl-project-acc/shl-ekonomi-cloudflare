@@ -266,7 +266,7 @@ data
 
 * **Harga Rumah dari Developer:** Rp600.000.000
 
-* **Uang Muka (*****Urbun / Self Financing*****):** Rp120.000.000 (20%)
+* **Uang Muka (*****Urbun / Self Financing*****):** Rp120.000.000 (20\%)
 
 * **Porsi Pembiayaan Bank Syariah:** Rp480.000.000 (80%)
 
@@ -282,7 +282,7 @@ data
 
 Banyak calon nasabah khawatir apa yang terjadi jika di tahun ke-10 (bulan ke-120), nasabah mengalami pemutusan hubungan kerja (PHK) dan tidak sanggup lagi membayar angsuran sewa bulanan:
 
-1. **Perhitungan Akumulasi Pokok:** Nasabah telah menyetor uang sewa selama 120 bulan. Akumulasi porsi pokok yang telah disetor mencapai: $$ ext{Total Pokok Disetor} = ext{Uang Muka} + (120 imes ext{Rp2.666.667}) = ext{Rp120.000.000} + ext{Rp320.000.000} = ext{Rp440.000.000}$$ Sisa porsi pokok bank yang belum terbayar adalah Rp160.000.000.
+1. **Perhitungan Akumulasi Pokok:** Nasabah telah menyetor uang sewa selama 120 bulan. Akumulasi porsi pokok yang telah disetor mencapai: $$\text{Total Pokok Disetor} =\text{Uang Muka} + (120 imes\text{Rp2.666.667}) =\text{Rp120.000.000} +\text{Rp320.000.000} =\text{Rp440.000.000}$$ Sisa porsi pokok bank yang belum terbayar adalah Rp160.000.000.
 
 2. **Opsi Penjualan Properti Bersama (*****Exit Strategy*****):** Rumah dijual bersama ke pasar umum dengan harga pasar aktual (misalkan harga pasar naik menjadi Rp900.000.000).
 
@@ -290,7 +290,7 @@ Banyak calon nasabah khawatir apa yang terjadi jika di tahun ke-10 (bulan ke-120
 
    * Bank syariah hanya berhak mengambil sisa pokok pembiayaannya yang belum lunas (Rp160.000.000).
 
-   * Seluruh sisa hasil penjualan sebesar **Rp740.000.000 dikembalikan 100% kepada nasabah**.
+   * Seluruh sisa hasil penjualan sebesar **Rp740.000.000 dikembalikan 100\% kepada nasabah**.
 
 Skema pembagian ini membuktikan keunggulan etis ekonomi Islam, di mana nasabah tidak kehilangan akumulasi nilai modal yang telah disetorkannya selama bertahun-tahun, berbeda dengan praktik rentenir atau leasing konvensional yang menyita seluruh aset secara zalim.
 
@@ -366,7 +366,7 @@ data
 
 3. **Ketentuan Tarif Sewa Mengambang (*****Floating Rental Rate*****):** Jika bank menggunakan skema tarif sewa yang dapat disesuaikan secara berkala setelah tahun ke-5, pastikan formula perhitungannya mengacu pada indeks acuan yang transparan (misalnya BI-Rate atau indeks inflasi) dan memiliki batas atas (*capping rate*) yang jelas agar tidak jatuh ke dalam gharar fluktuasi liar.
 
-4. **Bebas Denda Keterlambatan Ribawi:** Pastikan jika terjadi keterlambatan bayar, dana sanksi keterlambatan (*ta'zir / late fee*) dialokasikan 100% ke rekening dana kebajikan sosial (*qardhul hasan*) untuk disalurkan ke fakir miskin, bukan diakui sebagai pendapatan bunga atau laba bank syariah.
+4. **Bebas Denda Keterlambatan Ribawi:** Pastikan jika terjadi keterlambatan bayar, dana sanksi keterlambatan (*ta'zir / late fee*) dialokasikan 100\% ke rekening dana kebajikan sosial (*qardhul hasan*) untuk disalurkan ke fakir miskin, bukan diakui sebagai pendapatan bunga atau laba bank syariah.
 
 Dengan menerapkan prinsip-prinsip kehati-hatian ini, transaksi pembiayaan rumah impian keluarga akan senantiasa dinaungi keberkahan dan ketenangan batin.
 

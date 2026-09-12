@@ -358,7 +358,7 @@ Berikut adalah contoh tabel rubrik evaluasi kuartalan berbobot 100 persen:
 | Komponen Evaluasi        | Bobot | Indikator Penilaian         | Skala Skor (1-5)|
 +--------------------------+-------+-----------------------------+-----------------+
 | 1. Pencapaian Target OKR |  40%  | Persentase realisasi target | 1: <60% target  |
-|    / KPI Strategis Divisi|       | kuantitatif kuartalan       | 3: 90-100% target|
+|    / KPI Strategis Divisi|       | kuantitatif kuartalan       | 3: 90-100\% target|
 |                          |       |                             | 5: >120% target |
 |                          |       |                             |                 |
 | 2. Kualitas Eksekusi dan |  25%  | Akurasi data, minim eror,   | 1: Sering eror  |
@@ -373,7 +373,7 @@ Berikut adalah contoh tabel rubrik evaluasi kuartalan berbobot 100 persen:
 |    Pertumbuhan Mandiri   |       | efisiensi biaya, & *upskill*| 3: Mau belajar  |
 |                          |       |                             | 5: Pionir ide   |
 +--------------------------+-------+-----------------------------+-----------------+
-| TOTAL BOBOT              | 100%  | SKOR AKHIR TERTINBANG (RATA-RATA BERBOBOT)    |
+| TOTAL BOBOT              | 100\%  | SKOR AKHIR TERTINBANG (RATA-RATA BERBOBOT)    |
 +-------------------------------------------------------------------------------+
 ```
 

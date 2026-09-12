@@ -587,7 +587,7 @@ Berikut adalah lima metrik inti yang wajib kamu dan tim catat dalam dasbor anali
 
 1. **Average Order Value (AOV):** Total pendapatan kotor dibagi dengan total jumlah transaksi. Target: pertumbuhan 15 hingga 35 persen dalam 90 hari pertama.
 
-2. **Upsell Take Rate / Attach Rate:** Persentase pembeli yang menerima tawaran *upsell* atau *cross-sell* yang disajikan. Formula: `(Jumlah Pembelian Tambahan / Total Peluang Penawaran yang Ditampilkan) x 100%`. Tolok ukur sehat: 10 hingga 25 persen untuk in-cart/post-purchase, dan 25 hingga 45 persen untuk checkout order bumps.
+2. **Upsell Take Rate / Attach Rate:** Persentase pembeli yang menerima tawaran *upsell* atau *cross-sell* yang disajikan. Formula: `(Jumlah Pembelian Tambahan / Total Peluang Penawaran yang Ditampilkan) x 100\%`. Tolok ukur sehat: 10 hingga 25 persen untuk in-cart/post-purchase, dan 25 hingga 45 persen untuk checkout order bumps.
 
 3. **Revenue Per Visitor (RPV):** Total pendapatan dibagi total jumlah pengunjung unik ke situs web. Metrik ini adalah indikator pamungkas yang menggabungkan efektivitas rasio konversi dan AOV secara bersamaan.
 

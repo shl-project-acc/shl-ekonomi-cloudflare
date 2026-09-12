@@ -264,7 +264,7 @@ Jika akibat keterlambatan penyewa, pihak pemilik aset mengalami **kerugian riil 
 
 ### 3. Sanksi Edukatif (*Ta'zir*) untuk Kemaslahatan Umat
 
-Bagi penyewa yang mampu membayar tetapi sengaja menunda-nunda pembayaran (*mathlul ghani*), hakim atau lembaga syariah berhak menjatuhkan sanksi denda finansial (*ta'zir*). Namun syarat mutlaknya: **100% dana denda tersebut dilarang keras diakui sebagai pendapatan pemilik modal, melainkan wajib disalurkan seluruhnya ke rekening dana sosial/kebajikan (baitul mal) untuk fakir miskin dan kemaslahatan umat**.
+Bagi penyewa yang mampu membayar tetapi sengaja menunda-nunda pembayaran (*mathlul ghani*), hakim atau lembaga syariah berhak menjatuhkan sanksi denda finansial (*ta'zir*). Namun syarat mutlaknya: **100\% dana denda tersebut dilarang keras diakui sebagai pendapatan pemilik modal, melainkan wajib disalurkan seluruhnya ke rekening dana sosial/kebajikan (baitul mal) untuk fakir miskin dan kemaslahatan umat**.
 
 Sekarang, mari kita uji pemahaman teori ini ke dalam empat studi kasus bisnis modern yang sering kita jumpai di lapangan.
 
@@ -294,7 +294,7 @@ Berikut adalah simulasi kasus bisnis riil beserta analisis hukum syar'i mendalam
 
 * **Analisis Fiqh:** Sikap pemilik ruko **Menyalahi Syariat dan Melanggar Hak Penyewa**. Pipa air utama bawah tanah dan struktur fondasi bangunan adalah bagian integral dari fisik aset (*'Aynul Ma'jur*) yang menjadi tanggung jawab mutlak pemilik (*mu'jir*).
 
-* **Solusi Syar'i:** Pemilik ruko wajib membiayai 100% perbaikan pipa bawah tanah dan pembongkaran lantai beton tersebut. Jika pemilik ruko menolak memperbaiki sehingga ruko tidak layak dipakai jualan, Bu Siti memiliki hak khiyar cacat (*khiyarul 'aib*) untuk membatalkan akad sewa (*fasakh*) dan menuntut pengembalian sisa uang sewa 16 bulan yang belum terpakai secara penuh.
+* **Solusi Syar'i:** Pemilik ruko wajib membiayai 100\% perbaikan pipa bawah tanah dan pembongkaran lantai beton tersebut. Jika pemilik ruko menolak memperbaiki sehingga ruko tidak layak dipakai jualan, Bu Siti memiliki hak khiyar cacat (*khiyarul 'aib*) untuk membatalkan akad sewa (*fasakh*) dan menuntut pengembalian sisa uang sewa 16 bulan yang belum terpakai secara penuh.
 
 ### Kasus 4 Praktik Penahanan Ijazah Asli Karyawan dan Pemotongan Gaji Sepihak
 
@@ -306,7 +306,7 @@ Berikut adalah simulasi kasus bisnis riil beserta analisis hukum syar'i mendalam
 
   2. **Memotong Gaji Pokok Sepihak:** Haram karena status karyawan adalah *Ajir Khas* yang digaji berdasarkan kehadiran dan waktu kerja. Risiko tidak tercapainya omzet penjualan adalah risiko bisnis pemilik modal, bukan beban yang boleh dipotongkan dari hak upah pekerja.
 
-* **Solusi Syar'i:** Perusahaan wajib mengembalikan seluruh ijazah asli karyawan dan menggantinya dengan surat perjanjian kerja berkekuatan hukum perdata biasa. Gaji pokok wajib dibayarkan 100% utuh sesuai kontrak, sedangkan evaluasi performa kerja dilakukan melalui mekanisme bonus penjualan atau pembinaan berkala.
+* **Solusi Syar'i:** Perusahaan wajib mengembalikan seluruh ijazah asli karyawan dan menggantinya dengan surat perjanjian kerja berkekuatan hukum perdata biasa. Gaji pokok wajib dibayarkan 100\% utuh sesuai kontrak, sedangkan evaluasi performa kerja dilakukan melalui mekanisme bonus penjualan atau pembinaan berkala.
 
 ## Panduan Praktis Menyusun Akad Perjanjian Sewa dan Kerja yang Sah
 

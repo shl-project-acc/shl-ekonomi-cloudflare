@@ -113,7 +113,7 @@ Selain rasio utang terhadap PDB (*Debt-to-GDP Ratio*), indikator likuiditas pali
 
 Formula standar *Debt Service Ratio* dirumuskan sebagai:
 
-$$DSR = \frac{\text{Principal Repayments}_t + \text{Interest Payments}_t}{\text{Total Export Revenue}_t + \text{Net Remittances}_t} \times 100%$$
+$$DSR = \frac{\text{Principal Repayments}_t + \text{Interest Payments}_t}{\text{Total Export Revenue}_t + \text{Net Remittances}_t} \times 100\%$$
 
 Di mana:
 
@@ -184,7 +184,7 @@ Dampak depresiasi mata uang terhadap lonjakan harga barang kebutuhan masyarakat 
 
 Formula matematis elastisitas *Exchange Rate Pass-Through* dirumuskan sebagai:
 
-$$\epsilon_{PT} = \frac{\partial \ln P_t}{\partial \ln E_t} = \frac{% \Delta P_t}{% \Delta E_t}$$
+$$\epsilon_{PT} = \frac{\partial \ln P_t}{\partial \ln E_t} = \frac{\% \Delta P_t}{\% \Delta E_t}$$
 
 Di mana:
 
@@ -192,9 +192,9 @@ Di mana:
 
 * $E_t$ adalah kurs nilai tukar nominal (dinyatakan sebagai jumlah unit mata uang domestik per satu unit valuta asing, misalnya Rp/USD).
 
-* $% \Delta P_t$ adalah persentase perubahan tingkat inflasi domestik.
+* $\\% \Delta P_t$ adalah persentase perubahan tingkat inflasi domestik.
 
-* $% \Delta E_t$ adalah persentase tingkat depresiasi mata uang lokal.
+* $\\% \Delta E_t$ adalah persentase tingkat depresiasi mata uang lokal.
 
 Dalam struktur ekonomi negara berkembang yang memiliki derajat ketergantungan impor tinggi (*high import dependency*), nilai $\epsilon_{PT}$ berkisar antara 0,25 hingga 0,60. Artinya, jika mata uang rupiah terdepresiasi sebesar 20% terhadap Dolar AS akibat tekanan arus keluar devisa pembayaran utang, inflasi domestik akan langsung terdongkrak antara 5% hingga 12% murni dari komponen *imported inflation*.
 
@@ -224,9 +224,9 @@ Untuk mengukur dampak nyata krisis fiskal dan inflasi impor terhadap pendapatan 
 
 $$W_{\text{real}, t} = \frac{W_{\text{nominal}, t}}{IHK_t} \times 100$$
 
-Laju perubahan persentase daya beli upah pekerja ($% \Delta W_{\text{real}}$) dapat didekati secara linear melalui formula diferensiasi logaritmik:
+Laju perubahan persentase daya beli upah pekerja ($\\% \Delta W_{\text{real}}$) dapat didekati secara linear melalui formula diferensiasi logaritmik:
 
-$$% \Delta W_{\text{real}} \approx % \Delta W_{\text{nominal}} - \pi_t$$
+$$\% \Delta W_{\text{real}} \approx \% \Delta W_{\text{nominal}} - \pi_t$$
 
 Di mana:
 
@@ -234,17 +234,17 @@ Di mana:
 
 * $IHK_t$ adalah Indeks Harga Konsumen pada tahun $t$ dengan tahun dasar tertentu ($IHK_0 = 100$).
 
-* $% \Delta W_{\text{nominal}}$ adalah persentase kenaikan upah nominal tahunan (misalnya kenaikan UMR atau kenaikan gaji tahunan kantor).
+* $\\% \Delta W_{\text{nominal}}$ adalah persentase kenaikan upah nominal tahunan (misalnya kenaikan UMR atau kenaikan gaji tahunan kantor).
 
 * $\pi_t$ adalah tingkat laju inflasi riil tahunan yang dihadapi rumah tangga.
 
 ### Fenomena Kekakuan Upah Nominal dan Jebakan Kemiskinan Baru
 
-Dalam kenyataan di lapangan, pasar tenaga kerja memiliki karakteristik kekakuan upah nominal ke bawah (*downward nominal wage rigidity*) dan keterlambatan penyesuaian (*wage lag*). Ketika inflasi riil melonjak hingga 12% akibat krisis fiskal dan depresiasi nilai tukar, perusahaan swasta yang juga sedang terhimpit oleh beban bunga kredit mahal dan penurunan omzet tidak memiliki ruang untuk menaikkan gaji karyawan sebesar 12%. Kenaikan gaji nominal mungkin hanya diberikan sebesar 3% atau bahkan dibekukan sepenuhnya ($0%$).
+Dalam kenyataan di lapangan, pasar tenaga kerja memiliki karakteristik kekakuan upah nominal ke bawah (*downward nominal wage rigidity*) dan keterlambatan penyesuaian (*wage lag*). Ketika inflasi riil melonjak hingga 12% akibat krisis fiskal dan depresiasi nilai tukar, perusahaan swasta yang juga sedang terhimpit oleh beban bunga kredit mahal dan penurunan omzet tidak memiliki ruang untuk menaikkan gaji karyawan sebesar 12%. Kenaikan gaji nominal mungkin hanya diberikan sebesar 3% atau bahkan dibekukan sepenuhnya ($0\%$).
 
 Berdasarkan formula di atas, upah riil pekerja mengalami kontraksi langsung sebesar:
 
-$$% \Delta W_{\text{real}} \approx 3% - 12% = -9%$$
+$$\% \Delta W_{\text{real}} \approx 3% - 12% = -9%$$
 
 Penurunan upah riil sebesar 9% dalam satu tahun berarti keluarga tersebut secara efektif kehilangan hampir sepersepuluh dari seluruh standar hidup mereka. Untuk mempertahankan konsumsi makanan pokok, keluarga kelas menengah terpaksa melakukan kompromi finansial yang menyakitkan:
 
@@ -294,7 +294,7 @@ Pelajaran berharga dari sejarah ekonomi di atas menunjukkan bahwa krisis fiskal 
 
 ## Strategi Pertahanan Portofolio dan Ketahanan Finansial Keluarga Menghadapi Gejolak Makroekonomi
 
-Di tengah ketidakpastian tata kelola fiskal global dan potensi perambatan krisis utang berdaulat, masyarakat umum tidak memiliki kendali langsung atas kebijakan APBN kementerian keuangan maupun kebijakan suku bunga Bank Sentral. Namun, kita memiliki kendali penuh 100% atas struktur alokasi portofolio aset, manajemen liabilitas, dan arus kas rumah tangga kita sendiri.
+Di tengah ketidakpastian tata kelola fiskal global dan potensi perambatan krisis utang berdaulat, masyarakat umum tidak memiliki kendali langsung atas kebijakan APBN kementerian keuangan maupun kebijakan suku bunga Bank Sentral. Namun, kita memiliki kendali penuh 100\% atas struktur alokasi portofolio aset, manajemen liabilitas, dan arus kas rumah tangga kita sendiri.
 
 Berikut adalah pilar-pilar strategi pertahanan finansial berbasis prinsip alokasi aset makroekonomi untuk membentengi daya beli keluarga dari badai pelemahan nilai tukar dan lonjakan inflasi:
 

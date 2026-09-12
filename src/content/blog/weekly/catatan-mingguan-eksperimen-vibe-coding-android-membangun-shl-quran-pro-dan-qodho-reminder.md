@@ -714,7 +714,7 @@ class QodhoRepository(private val dao: QodhoDao) {
 }
 ```
 
-Dengan pola ini, UI thread tetap bebas 100%. Bahkan di perangkat entry-level dengan RAM 2GB, kita bisa target 120 FPS tanpa dropped frame saat operasi database berjalan di background. Pengguna menekan tombol "Selesai" dan langsung melihat animasi centang hijau yang smooth — sementara di belakang layar, coroutine sedang sibuk menulis ke SQLite dan mencatat log transaksi.
+Dengan pola ini, UI thread tetap bebas 100\%. Bahkan di perangkat entry-level dengan RAM 2GB, kita bisa target 120 FPS tanpa dropped frame saat operasi database berjalan di background. Pengguna menekan tombol "Selesai" dan langsung melihat animasi centang hijau yang smooth — sementara di belakang layar, coroutine sedang sibuk menulis ke SQLite dan mencatat log transaksi.
 
 ### Pola ViewModel dan StateFlow Kebal Rotasi Layar
 

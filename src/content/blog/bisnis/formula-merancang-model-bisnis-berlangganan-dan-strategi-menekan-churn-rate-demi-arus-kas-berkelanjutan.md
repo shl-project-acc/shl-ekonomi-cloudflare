@@ -204,13 +204,13 @@ $$ARR = MRR \times 12$$
 
 Formula untuk menghitung **Customer Churn Rate** ($CCR$) adalah sebagai berikut.
 
-$$CCR = \frac{\text{Jumlah Pelanggan yang Berhenti Selama Periode}}{\text{Total Pelanggan Aktif pada Awal Periode}} \times 100%$$
+$$CCR = \frac{\text{Jumlah Pelanggan yang Berhenti Selama Periode}}{\text{Total Pelanggan Aktif pada Awal Periode}} \times 100\%$$
 
-Sebagai contoh ilustrasi, jika bisnismu memulai bulan Januari dengan 1.000 pelanggan aktif dan kehilangan 40 pelanggan selama bulan tersebut, maka tingkat *Customer Churn* bulanan adalah $\frac{40}{1000} \times 100% = 4%$.
+Sebagai contoh ilustrasi, jika bisnismu memulai bulan Januari dengan 1.000 pelanggan aktif dan kehilangan 40 pelanggan selama bulan tersebut, maka tingkat *Customer Churn* bulanan adalah $\frac{40}{1000} \times 100\% = 4\%$.
 
 Namun, metrik Logo Churn ini dapat menyesatkan jika bisnismu melayani berbagai segmen pelanggan dengan nilai kontrak yang berbeda jauh. Kehilangan 10 pelanggan paket pemula seharga Rp100.000 per bulan jauh lebih tidak berbahaya dibandingkan kehilangan 1 pelanggan korporat seharga Rp10.000.000 per bulan. Oleh karena itu, kita wajib memantau **Gross Revenue Churn Rate** ($GRCR$) melalui formula berikut.
 
-$$GRCR = \frac{MRR_{\text{Churn}} + MRR_{\text{Kontraksi}}}{MRR_{\text{Awal Periode}}} \times 100%$$
+$$GRCR = \frac{MRR_{\text{Churn}} + MRR_{\text{Kontraksi}}}{MRR_{\text{Awal Periode}}} \times 100\%$$
 
 ### Formula Net Revenue Retention NRR Mesin Pertumbuhan Negatif Churn
 
@@ -218,17 +218,17 @@ $$GRCR = \frac{MRR_{\text{Churn}} + MRR_{\text{Kontraksi}}}{MRR_{\text{Awal Peri
 
 Formula matematis $NRR$ dinyatakan sebagai berikut.
 
-$$NRR = \frac{MRR_{\text{Awal}} + MRR_{\text{Ekspansi}} - MRR_{\text{Kontraksi}} - MRR_{\text{Churn}}}{MRR_{\text{Awal}}} \times 100%$$
+$$NRR = \frac{MRR_{\text{Awal}} + MRR_{\text{Ekspansi}} - MRR_{\text{Kontraksi}} - MRR_{\text{Churn}}}{MRR_{\text{Awal}}} \times 100\%$$
 
 Interpretasi strategis terhadap skor NRR adalah sebagai berikut.
 
-* **NRR < 100%:** Basis pelanggan lama mengalami penyusutan nilai dari waktu ke waktu. Bisnis mengalami kebocoran kas dan terpaksa terus-menerus mengakuisisi pelanggan baru hanya untuk menjaga ukuran omzet agar tidak merosot.
+* **NRR < 100\%:** Basis pelanggan lama mengalami penyusutan nilai dari waktu ke waktu. Bisnis mengalami kebocoran kas dan terpaksa terus-menerus mengakuisisi pelanggan baru hanya untuk menjaga ukuran omzet agar tidak merosot.
 
-* **NRR = 100%:** Nilai pendapatan dari pelanggan lama berada dalam posisi impas (*flat*); ekspansi dari pelanggan yang loyal tepat mengimbangi pelanggan yang keluar.
+* **NRR = 100\%:** Nilai pendapatan dari pelanggan lama berada dalam posisi impas (*flat*); ekspansi dari pelanggan yang loyal tepat mengimbangi pelanggan yang keluar.
 
-* **NRR > 100% (Net Negative Churn):** Kondisi ideal di mana pendapatan dari pelanggan lama bertumbuh secara organik meskipun ada sebagian pelanggan yang membatalkan langganan. Bisnis dengan NRR 115% hingga 130% akan terus tumbuh membesar setiap tahun bahkan jika anggaran pemasaran untuk akuisisi dihentikan sepenuhnya!
+* **NRR > 100\% (Net Negative Churn):** Kondisi ideal di mana pendapatan dari pelanggan lama bertumbuh secara organik meskipun ada sebagian pelanggan yang membatalkan langganan. Bisnis dengan NRR 115% hingga 130% akan terus tumbuh membesar setiap tahun bahkan jika anggaran pemasaran untuk akuisisi dihentikan sepenuhnya!
 
-Pebisnis dapat mempelajari teknik memperbesar komponen ekspansi ini melalui [Langkah Taktis Meningkatkan Average Order Value Melalui Strategi Upselling dan Cross Selling yang Elegan](/post/bisnis/langkah-taktis-meningkatkan-average-order-value-melalui-strategi-upselling-dan-cross-selling-yang-elegan){target="_blank"} guna mendongkrak skor NRR melampaui batas 100%.
+Pebisnis dapat mempelajari teknik memperbesar komponen ekspansi ini melalui [Langkah Taktis Meningkatkan Average Order Value Melalui Strategi Upselling dan Cross Selling yang Elegan](/post/bisnis/langkah-taktis-meningkatkan-average-order-value-melalui-strategi-upselling-dan-cross-selling-yang-elegan){target="_blank"} guna mendongkrak skor NRR melampaui batas 100\%.
 
 ### Menghitung Customer Lifetime Value LTV dan Rasio Emas LTV terhadap CAC
 
@@ -236,11 +236,11 @@ Pebisnis dapat mempelajari teknik memperbesar komponen ekspansi ini melalui [Lan
 
 Formula matematis standar $LTV$ berbasis Churn Rate bulanan dan Margin Kotor (*Gross Margin*) dirumuskan sebagai berikut.
 
-$$LTV = \frac{ARPU \times \text{Margin Kotor (%)}}{CCR_{\text{Bulanan}}}$$
+$$LTV = \frac{ARPU \times \text{Margin Kotor (\%)}}{CCR_{\text{Bulanan}}}$$
 
 Atau, jika kita menggunakan metrik rata-rata durasi masa hidup pelanggan (*Customer Lifetime* dalam satuan bulan, di mana $\text{Lifetime} = \frac{1}{CCR}$), maka formulanya menjadi.
 
-$$LTV = ARPU \times \text{Margin Kotor (%)} \times \text{Rata-Rata Masa Hidup (Bulan)}$$
+$$LTV = ARPU \times \text{Margin Kotor (\%)} \times \text{Rata-Rata Masa Hidup (Bulan)}$$
 
 Sebagai contoh, jika ARPU bulanan bisnismu adalah Rp500.000 dengan margin kotor 80% (0,80) dan *Customer Churn Rate* bulanan sebesar 4% (0,04), maka perhitungan LTV adalah.
 
@@ -264,7 +264,7 @@ $$\text{Rasio } LTV:CAC = \frac{LTV}{CAC}$$
 
 Selain rasio LTV:CAC, metrik penentu likuiditas kas harian adalah **CAC Payback Period**, yaitu durasi waktu (dalam satuan bulan) yang dibutuhkan bisnis untuk menutup kembali seluruh biaya akuisisi dari margin kotor yang dihasilkan oleh pelanggan tersebut.
 
-$$\text{CAC Payback Period (Bulan)} = \frac{CAC}{ARPU \times \text{Margin Kotor (%)}}$$
+$$\text{CAC Payback Period (Bulan)} = \frac{CAC}{ARPU \times \text{Margin Kotor (\%)}}$$
 
 Dalam ekosistem bisnis rintisan yang sehat, periode pengembalian modal akuisisi (*payback period*) idealnya berada di bawah rentang 12 bulan untuk model B2B dan di bawah 6 bulan untuk model B2C. Pebisnis dapat menyimak strategi penghematan biaya akuisisi dalam [Membongkar Realita Customer Acquisition Cost CAC dan Formula Memangkas Biaya Iklan Digital](/post/bisnis/membongkar-realita-customer-acquisition-cost-cac-dan-formula-memangkas-biaya-iklan-digital){target="_blank"}.
 
@@ -280,18 +280,18 @@ Berikut adalah tabel simulasi kohort retensi persentase jumlah pengguna aktif (*
 
 | Kohort Akuisisi | Pengguna Awal | M0   | M1  | M2  | M3  | M4  | M5  | M6  | M7  | M8  | M9  | M10 | M11 | M12 |
 | --------------- | ------------- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Jan 2026**    | 1.000         | 100% | 85% | 76% | 70% | 66% | 63% | 60% | 58% | 56% | 55% | 54% | 53% | 52% |
-| **Feb 2026**    | 1.000         | 100% | 84% | 75% | 69% | 65% | 62% | 59% | 57% | 55% | 54% | 53% | 52% | -   |
-| **Mar 2026**    | 1.000         | 100% | 86% | 78% | 72% | 68% | 65% | 62% | 60% | 58% | 57% | 56% | -   | -   |
-| **Apr 2026**    | 1.000         | 100% | 87% | 79% | 73% | 69% | 66% | 63% | 61% | 59% | 58% | -   | -   | -   |
-| **Mei 2026**    | 1.000         | 100% | 85% | 77% | 71% | 67% | 64% | 61% | 59% | 57% | -   | -   | -   | -   |
-| **Jun 2026**    | 1.000         | 100% | 88% | 81% | 75% | 71% | 68% | 65% | 63% | -   | -   | -   | -   | -   |
-| **Jul 2026**    | 1.000         | 100% | 89% | 82% | 76% | 72% | 69% | 66% | -   | -   | -   | -   | -   | -   |
-| **Agu 2026**    | 1.000         | 100% | 90% | 83% | 78% | 74% | 71% | -   | -   | -   | -   | -   | -   | -   |
-| **Sep 2026**    | 1.000         | 100% | 91% | 85% | 80% | 76% | -   | -   | -   | -   | -   | -   | -   | -   |
-| **Okt 2026**    | 1.000         | 100% | 92% | 86% | 81% | -   | -   | -   | -   | -   | -   | -   | -   | -   |
-| **Nov 2026**    | 1.000         | 100% | 92% | 87% | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
-| **Des 2026**    | 1.000         | 100% | 93% | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| **Jan 2026**    | 1.000         | 100\% | 85% | 76% | 70% | 66% | 63% | 60% | 58% | 56% | 55% | 54% | 53% | 52% |
+| **Feb 2026**    | 1.000         | 100\% | 84% | 75% | 69% | 65% | 62% | 59% | 57% | 55% | 54% | 53% | 52% | -   |
+| **Mar 2026**    | 1.000         | 100\% | 86% | 78% | 72% | 68% | 65% | 62% | 60% | 58% | 57% | 56% | -   | -   |
+| **Apr 2026**    | 1.000         | 100\% | 87% | 79% | 73% | 69% | 66% | 63% | 61% | 59% | 58% | -   | -   | -   |
+| **Mei 2026**    | 1.000         | 100\% | 85% | 77% | 71% | 67% | 64% | 61% | 59% | 57% | -   | -   | -   | -   |
+| **Jun 2026**    | 1.000         | 100\% | 88% | 81% | 75% | 71% | 68% | 65% | 63% | -   | -   | -   | -   | -   |
+| **Jul 2026**    | 1.000         | 100\% | 89% | 82% | 76% | 72% | 69% | 66% | -   | -   | -   | -   | -   | -   |
+| **Agu 2026**    | 1.000         | 100\% | 90% | 83% | 78% | 74% | 71% | -   | -   | -   | -   | -   | -   | -   |
+| **Sep 2026**    | 1.000         | 100\% | 91% | 85% | 80% | 76% | -   | -   | -   | -   | -   | -   | -   | -   |
+| **Okt 2026**    | 1.000         | 100\% | 92% | 86% | 81% | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| **Nov 2026**    | 1.000         | 100\% | 92% | 87% | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| **Des 2026**    | 1.000         | 100\% | 93% | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
 
 Membaca kurva kohort di atas memberikan kita tiga wawasan diagnostik kritis.
 
@@ -327,7 +327,7 @@ Mari kita bandingkan dua perusahaan, Perusahaan Alpha (*Churn* 2% per bulan) dan
 +-------------------------------------------------------------------------+
 ```
 
-Perusahaan Beta akhirnya menemui batas atas pertumbuhan (*growth ceiling*), di mana 1.000 pelanggan baru yang masuk setiap bulan habis terserap hanya untuk menggantikan 1.000 pelanggan lama yang keluar ($14.285 \times 7% \approx 1.000$). Bisnis Beta mengalami stagnasi total meskipun anggaran iklannya tetap berjalan penuh.
+Perusahaan Beta akhirnya menemui batas atas pertumbuhan (*growth ceiling*), di mana 1.000 pelanggan baru yang masuk setiap bulan habis terserap hanya untuk menggantikan 1.000 pelanggan lama yang keluar ($14.285 \times 7\% \approx 1.000$). Bisnis Beta mengalami stagnasi total meskipun anggaran iklannya tetap berjalan penuh.
 
 ## Strategi Menekan Involuntary Churn dan Mengamankan Kebocoran Kas Teknis
 
@@ -574,7 +574,7 @@ Mari kita bandingkan tiga skenario tata kelola retensi dan ekspansi berikut.
 
   * *Tingkat Ekspansi Bulanan:* 0,0%
 
-  * *NRR Tahunan:* $\approx 47{,}5%$
+  * *NRR Tahunan:* $\approx 47{,}5\%$
 
 * **Skenario B (Moderat / Retensi Standar):**
 
@@ -582,7 +582,7 @@ Mari kita bandingkan tiga skenario tata kelola retensi dan ekspansi berikut.
 
   * *Tingkat Ekspansi Bulanan:* 1,5%
 
-  * *NRR Tahunan:* $\approx 83{,}3%$
+  * *NRR Tahunan:* $\approx 83{,}3\%$
 
 * **Skenario C (Agresif / Net Negative Churn):**
 
@@ -590,7 +590,7 @@ Mari kita bandingkan tiga skenario tata kelola retensi dan ekspansi berikut.
 
   * *Tingkat Ekspansi Bulanan:* 3,5%
 
-  * *NRR Tahunan:* $\approx 126{,}8%$
+  * *NRR Tahunan:* $\approx 126{,}8\%$
 
 ### Tabel Proyeksi Keuangan Komparatif 36 Bulan
 

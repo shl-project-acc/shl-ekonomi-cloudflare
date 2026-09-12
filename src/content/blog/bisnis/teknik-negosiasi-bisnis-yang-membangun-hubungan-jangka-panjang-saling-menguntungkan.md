@@ -167,7 +167,7 @@ Tim purchasing dari Mart Sejahtera mengajukan syarat kerja sama yang sangat bera
 
 * Tempo pembayaran (*term of payment*) 60 hari setelah barang laku (*konsinyasi*).
 
-* Seluruh produk yang tidak laku atau mendekati masa kadaluarsa wajib ditarik dan diganti baru (*retur 100%*).
+* Seluruh produk yang tidak laku atau mendekati masa kadaluarsa wajib ditarik dan diganti baru (*retur 100\%*).
 
 Jika Mas Farhan menyetujui kontrak ini secara emosional hanya demi gengsi masuk supermarket, arus kas usahanya dipastikan akan kolaps dalam waktu 4 bulan karena kehabisan modal kerja.
 
@@ -202,7 +202,7 @@ Alih-alih menolak mentah-mentah atau berdebat kusir soal harga Rp 8.000, Mas Far
 | **Listing Fee Awal**    | Bayar Rp 10.000.000              | **Rp 0 (Diganti 200 pcs sample)**    | Menghemat Rp 8.500.000 modal tunai   |
 | **Sistem Kerjasama**    | Konsinyasi (Titip Jual)          | **Jual Putus (Purchase Order)**      | Kepastian penjualan terjamin         |
 | **Tempo Pembayaran**    | 60 Hari                          | **21 Hari Kerja**                    | Arus kas berputar lancar             |
-| **Risiko Barang Rusak** | Retur 100% beban UMKM            | **Subsidi Promo Diskon 2%**          | Meminimalkan barang terbuang sia-sia |
+| **Risiko Barang Rusak** | Retur 100\% beban UMKM            | **Subsidi Promo Diskon 2%**          | Meminimalkan barang terbuang sia-sia |
 
 Dengan pendekatan negosiasi yang mengedepankan solusi bernilai tambah bagi kedua belah pihak, Mas Farhan berhasil mengamankan jalur distribusi skala besar tanpa harus mengorbankan kesehatan kas perusahaannya.
 

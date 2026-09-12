@@ -73,7 +73,7 @@ Agar kontras perbedaan antara bisnis tanpa sistem dan bisnis bersistem semakin n
 
 | Aspek Operasional        | Bisnis Tanpa SOP (Owner-Dependent)                        | Bisnis Berbasis SOP (System-Dependent)                          |
 | ------------------------ | --------------------------------------------------------- | --------------------------------------------------------------- |
-| **Ketergantungan Figur** | Toko tutup atau kacau saat pemilik berhalangan hadir      | Toko tetap berjalan rapi dan lancar 100% secara autopilot       |
+| **Ketergantungan Figur** | Toko tutup atau kacau saat pemilik berhalangan hadir      | Toko tetap berjalan rapi dan lancar 100\% secara autopilot       |
 | **Kualitas Produk**      | Berfluktuasi tergantung mood dan siapa staf yang bertugas | Selalu stabil dan konsisten sesuai standar racikan baku         |
 | **Pelatihan Staf Baru**  | Makan waktu berminggu-minggu dengan metode lisan          | Staf baru mandiri dalam hitungan hari berbekal checklist visual |
 | **Penanganan Komplain**  | Karyawan bingung dan takut mengambil keputusan            | Karyawan mengeksekusi alur mitigasi komplain dengan tenang      |

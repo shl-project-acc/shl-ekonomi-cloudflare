@@ -128,7 +128,7 @@ data
 
 Rumus daya beli riil perbankan dapat dirumuskan secara sederhana:
 
-$$ ext{Tingkat Imbal Hasil Riil} = ext{Suku Bunga Tabungan} - ext{Pajak Bunga (20%)} - ext{Biaya Administrasi} - ext{Laju Inflasi Riil}$$
+$$\text{Tingkat Imbal Hasil Riil} =\text{Suku Bunga Tabungan} -\text{Pajak Bunga (20\%)} -\text{Biaya Administrasi} -\text{Laju Inflasi Riil}$$
 
 Jika bank memberikan bunga tabungan 2.0% per tahun, setelah dipotong pajak bunga 20% (sisa 1.6%) dan biaya administrasi bulanan Rp15.000, imbal hasil bersih kamu mungkin hanya sekitar 1.0%. Jika pada saat yang sama inflasi harga kebutuhan pokok melaju pada angka 6.0% per tahun, maka secara riil kekayaan kamu sedang **menyusut sebesar 5.0% setiap tahunnya** tanpa kamu sadari.
 
@@ -228,17 +228,17 @@ data
       icon mdi/shield-crown-outline
 ```
 
-### Keluarga A (Strategi Konservatif Tabungan Kas 100%)
+### Keluarga A (Strategi Konservatif Tabungan Kas 100\%)
 
-* **Struktur Alokasi Aset:** Rp300.000.000 disimpan 100% di rekening tabungan bank biasa (bunga bersih rata-rata 1.5% per tahun).
+* **Struktur Alokasi Aset:** Rp300.000.000 disimpan 100\% di rekening tabungan bank biasa (bunga bersih rata-rata 1.5% per tahun).
 
 * **Posisi Finansial Setelah 5 Tahun:**
 
-  * Saldo Nominal di Bank: $ ext{Rp300.000.000} imes (1 + 0.015)^5 = ext{Rp323.185.000}$.
+  * Saldo Nominal di Bank: $\text{Rp300.000.000} imes (1 + 0.015)^5 =\text{Rp323.185.000}$.
 
   * Pertumbuhan Nominal: Bertambah Rp23.185.000 (+7.7%).
 
-  * Daya Beli Riil (Disesuaikan Inflasi Kumulatif 35%): $ rac{ ext{Rp323.185.000}}{1.35} = ext{Rp239.396.000}$.
+  * Daya Beli Riil (Disesuaikan Inflasi Kumulatif 35%): $\frac{\text{Rp323.185.000}}{1.35} =\text{Rp239.396.000}$.
 
   * **Hasil Riil:** Nilai kekayaan Keluarga A **menyusut Rp60.604.000 secara daya beli riil (-20.2%)**.
 
@@ -246,7 +246,7 @@ data
 
 * **Struktur Alokasi Aset Awal:**
 
-  * Dana Darurat Kas & Deposito Likuid (20%): Rp60.000.000
+  * Dana Darurat Kas & Deposito Likuid (20\%): Rp60.000.000
 
   * Emas Batangan Logam Mulia (25%): Rp75.000.000 (Setara 75 gram emas @ Rp1.000.000/gram)
 
@@ -258,7 +258,7 @@ data
 
   * Kas Darurat (tumbuh 1.5%/thn): Rp64.637.000
 
-  * Emas Batangan (harga emas naik ke Rp1.600.000/gram akibat devaluasi): $75 imes ext{Rp1.600.000} = ext{Rp120.000.000}$
+  * Emas Batangan (harga emas naik ke Rp1.600.000/gram akibat devaluasi): $75 imes\text{Rp1.600.000} =\text{Rp120.000.000}$
 
   * Sukuk Ritel (kupon bersih 5.85%/thn terakumulasi): Rp119.595.000
 
@@ -266,13 +266,13 @@ data
 
 * **Total Nilai Kekayaan Nominal:** Rp425.020.000 (+41.7%).
 
-* **Daya Beli Riil (Disesuaikan Inflasi Kumulatif 35%):** $ rac{ ext{Rp425.020.000}}{1.35} = ext{Rp314.829.000}$.
+* **Daya Beli Riil (Disesuaikan Inflasi Kumulatif 35%):** $\frac{\text{Rp425.020.000}}{1.35} =\text{Rp314.829.000}$.
 
 * **Hasil Riil:** Nilai kekayaan Keluarga B **tumbuh positif Rp14.829.000 di atas inflasi (+4.9% riil)**.
 
 Tabel di bawah ini memperlihatkan perbandingan hasil akhir yang sangat mencolok antara kedua strategi tersebut.
 
-| Parameter Finansial          | Keluarga A (Kas 100%)       | Keluarga B (Portofolio Terdiversifikasi) | Selisih Dampak Finansial               |
+| Parameter Finansial          | Keluarga A (Kas 100\%)       | Keluarga B (Portofolio Terdiversifikasi) | Selisih Dampak Finansial               |
 | ---------------------------- | --------------------------- | ---------------------------------------- | -------------------------------------- |
 | **Modal Awal Tahun 0**       | Rp300.000.000               | Rp300.000.000                            | ⚪ Modal Awal Sama                      |
 | **Nilai Nominal Tahun ke-5** | Rp323.185.000               | Rp425.020.000                            | 🟢 Keluarga B Unggul Rp101.835.000     |
@@ -284,7 +284,7 @@ Simulasi di atas membuktikan dengan sangat gamblang bahwa diversifikasi aset buk
 
 ## Kesimpulan dan Langkah Taktis Keluarga
 
-Pelemahan nilai tukar dan devaluasi mata uang kertas adalah kenyataan struktural dalam sistem keuangan global yang tidak dapat kita kendalikan secara individu. Namun, kita memiliki kendali penuh 100% atas bagaimana kita menyusun dan mengalokasikan aset kekayaan yang telah kita kumpulkan dengan susah payah. Jangan pernah membiarkan masa depan keluarga kamu dipertaruhkan pada ilusi nominal uang kas yang terus menyusut daya belinya.
+Pelemahan nilai tukar dan devaluasi mata uang kertas adalah kenyataan struktural dalam sistem keuangan global yang tidak dapat kita kendalikan secara individu. Namun, kita memiliki kendali penuh 100\% atas bagaimana kita menyusun dan mengalokasikan aset kekayaan yang telah kita kumpulkan dengan susah payah. Jangan pernah membiarkan masa depan keluarga kamu dipertaruhkan pada ilusi nominal uang kas yang terus menyusut daya belinya.
 
 Sebagai langkah taktis yang dapat kamu eksekusi mulai bulan ini:
 

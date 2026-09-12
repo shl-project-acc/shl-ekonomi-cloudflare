@@ -216,7 +216,7 @@ Simulasi Komparasi Imbal Hasil Bersih Selama 3 Tahun (Modal Rp 100.000.000)
 
 2. Perhitungan Deposito Konvensional (Bunga 5,00% Gross per Tahun):
    - Bunga Bruto per Tahun      : Rp 100.000.000 x 5,00% = Rp 5.000.000
-   - Potongan Pajak Final (20%) : Rp 5.000.000 x 20%    = Rp 1.000.000
+   - Potongan Pajak Final (20\%) : Rp 5.000.000 x 20%    = Rp 1.000.000
    - Bunga Bersih per Tahun     : Rp 5.000.000 - Rp 1.000.000 = Rp 4.000.000
    - Bunga Bersih per Bulan     : Rp 4.000.000 / 12 = Rp 333.333
    - Total Bunga Bersih 3 Tahun : Rp 4.000.000 x 3 = Rp 12.000.000

@@ -136,7 +136,7 @@ Mari kita bedah kedua tahap penyaringan ini secara sangat mendalam:
 
 ### Tahap 1 – Screening Model Bisnis Utama (*Business Screening*)
 
-Perusahaan yang menerbitkan saham atau instrumen investasi wajib **bebas 100% dari aktivitas bisnis yang diharamkan syariat**, antara lain:
+Perusahaan yang menerbitkan saham atau instrumen investasi wajib **bebas 100\% dari aktivitas bisnis yang diharamkan syariat**, antara lain:
 
 * **Perbankan dan Lembaga Keuangan Konvensional:** Menjalankan bisnis penyaluran kredit berbasis bunga riba (*Riba Duyun*).
 
@@ -156,11 +156,11 @@ Karena di dunia modern saat ini hampir seluruh sistem perbankan global masih ter
 
 #### 1. Rasio Utang Berbasis Bunga terhadap Total Aset (*Interest-Bearing Debt Ratio*)
 
-Total utang berbasis bunga (pinjaman bank konvensional, obligasi konvensional) dibandingkan dengan total nilai aset perusahaan **tidak boleh melebihi 45%** ($\le 45%$). Jika utang berbunga perusahaan mencapai 50% atau lebih dari total asetnya, maka saham tersebut otomatis gugur dan dicoret dari Daftar Efek Syariah.
+Total utang berbasis bunga (pinjaman bank konvensional, obligasi konvensional) dibandingkan dengan total nilai aset perusahaan **tidak boleh melebihi 45%** ($\le 45\%$). Jika utang berbunga perusahaan mencapai 50% atau lebih dari total asetnya, maka saham tersebut otomatis gugur dan dicoret dari Daftar Efek Syariah.
 
 #### 2. Rasio Pendapatan Non-Halal terhadap Total Pendapatan (*Non-Halal Income Ratio*)
 
-Total pendapatan bunga dari simpanan giro/deposito bank konvensional dan pendapatan non-halal lainnya dibandingkan dengan total pendapatan usaha (*revenue*) **tidak boleh melebihi 10%** ($\le 10%$).
+Total pendapatan bunga dari simpanan giro/deposito bank konvensional dan pendapatan non-halal lainnya dibandingkan dengan total pendapatan usaha (*revenue*) **tidak boleh melebihi 10%** ($\le 10\%$).
 
 Setelah memahami kriteria penyaringan saham, mari kita pelajari kewajiban moral penting yang sering dilupakan oleh para investor saham syariah: **rumus purifikasi dividen**.
 
@@ -186,7 +186,7 @@ $$\text{Nominal Purifikasi} = \text{Total Dividen yang Diterima} \times \left( \
 
 * Maka porsi dana yang wajib kamu purifikasikan adalah: $$\text{Dana Purifikasi} = \text{Rp } 10.000.000 \times 1,5% = \text{Rp } 150.000$$
 
-* Uang Rp 150.000 tersebut kamu transfer ke lembaga amil zakat resmi untuk program pembuatan sumur air bersih atau renovasi jembatan desa, sedangkan sisa **Rp 9.850.000** berstatus 100% halal murni dan bersih untuk kamu nikmati.
+* Uang Rp 150.000 tersebut kamu transfer ke lembaga amil zakat resmi untuk program pembuatan sumur air bersih atau renovasi jembatan desa, sedangkan sisa **Rp 9.850.000** berstatus 100\% halal murni dan bersih untuk kamu nikmati.
 
 Setelah memahami mekanisme penyucian dividen, mari kita bedah ragam instrumen investasi syariah resmi lainnya secara menyeluruh.
 
@@ -202,7 +202,7 @@ Banyak orang yang mengira sukuk sama persis dengan surat utang obligasi konvensi
 
 * **Sukuk (Surat Berharga Syariah):** Sertifikat bukti kepemilikan bersama atas suatu aset fisik riil (*Underlying Asset*), misalnya proyek jembatan, jalan tol, gedung universitas, atau fasilitas umum. Imbal hasil yang diterima investor bukanlah bunga pinjaman, melainkan **uang sewa manfaat aset (*****Akad Ijarah*****) atau bagi hasil keuntungan proyek (*****Akad Mudharabah/Musyarakah*****)**.
 
-Sukuk Negara Ritel (seperti Sukuk Ritel SR atau Sukuk Tabungan ST) adalah instrumen investasi syariah paling aman di Indonesia karena nilai pokok dan uang sewanya dijamin 100% oleh Undang-Undang Republik Indonesia.
+Sukuk Negara Ritel (seperti Sukuk Ritel SR atau Sukuk Tabungan ST) adalah instrumen investasi syariah paling aman di Indonesia karena nilai pokok dan uang sewanya dijamin 100\% oleh Undang-Undang Republik Indonesia.
 
 Setelah instrumen berpendapatan sewa tetap, instrumen kedua sangat cocok bagi pemula yang tidak punya waktu menganalisis pasar.
 
@@ -214,7 +214,7 @@ Akad yang digunakan adalah **Akad Wakalah bil Ujrah** (investor memberikan kuasa
 
 Terdapat 3 jenis reksadana syariah sesuai profil risikomu:
 
-* **Reksadana Pasar Uang Syariah (RDPU):** 100% dana ditempatkan pada deposito bank syariah dan sukuk berjangka waktu kurang dari 1 tahun. Risikonya sangat rendah, likuid (bisa dicairkan kapan saja), dan sangat ideal untuk menempatkan **dana darurat kas usahamu**.
+* **Reksadana Pasar Uang Syariah (RDPU):** 100\% dana ditempatkan pada deposito bank syariah dan sukuk berjangka waktu kurang dari 1 tahun. Risikonya sangat rendah, likuid (bisa dicairkan kapan saja), dan sangat ideal untuk menempatkan **dana darurat kas usahamu**.
 
 * **Reksadana Pendapatan Tetap Syariah (RDPT):** Mayoritas dana (minimal 80%) diinvestasikan pada Sukuk Negara/Korporasi. Cocok untuk tujuan keuangan jangka menengah (1 hingga 3 tahun).
 
@@ -384,7 +384,7 @@ Sebagai bekal pengingat singkat sebelum kamu membuka aplikasi investasimu, mari 
 
 * **Teladani Karakter Sahabat:** Jadilah investor yang mandiri, berakar pada sektor riil, dan dermawan seperti Abdurrahman bin Auf dan Utsman bin 'Affan.
 
-* **Dua Tahap Screening Wajib:** Pastikan instrumen investasimu lulus seleksi model bisnis utama (bebas miras, babi, bank riba, judi, rokok) dan lulus seleksi rasio keuangan neraca (utang bunga $\le 45%$, pendapatan non-halal $\le 10%$).
+* **Dua Tahap Screening Wajib:** Pastikan instrumen investasimu lulus seleksi model bisnis utama (bebas miras, babi, bank riba, judi, rokok) dan lulus seleksi rasio keuangan neraca (utang bunga $\le 45\%$, pendapatan non-halal $\le 10\%$).
 
 * **Lakukan Purifikasi Dividen:** Bersihkan sebagian kecil pendapatan bunga non-halal dari dividen yang kamu terima untuk fasilitas sosial kaum dhuafa.
 

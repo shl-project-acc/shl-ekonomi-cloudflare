@@ -79,13 +79,13 @@ Meskipun sama-sama merupakan transaksi jual beli barang pesanan yang belum berwu
 
 ### 1. Akad Salam (Jual Beli Pesanan Terstandarisasi)
 
-Akad Salam adalah transaksi jual beli barang pesanan dengan kriteria terstandarisasi tertentu (*Mabi' fi adz-Dzimmah*), di mana **pembayaran harga wajib diserahkan 100% secara tunai di muka di majelis akad**, sedangkan penyerahan barang ditangguhkan pada waktu yang disepakati di masa depan.
+Akad Salam adalah transaksi jual beli barang pesanan dengan kriteria terstandarisasi tertentu (*Mabi' fi adz-Dzimmah*), di mana **pembayaran harga wajib diserahkan 100\% secara tunai di muka di majelis akad**, sedangkan penyerahan barang ditangguhkan pada waktu yang disepakati di masa depan.
 
 Ciri khas utama Akad Salam meliputi:
 
 * **Komoditas Terstandarisasi:** Umumnya digunakan untuk komoditas pertanian, hasil perkebunan, atau barang pabrikan massal yang memiliki spesifikasi ukuran dan takaran yang seragam.
 
-* **Pembayaran Wajib Lunas 100% di Muka:** Pembeli (*Muslam*) wajib menyerahkan seluruh uang pembayaran (*Ra'sul Maal as-Salam*) kepada penjual (*Muslam Ilaih*) sebelum mereka berpisah dari majelis akad. Jika pembayaran dicicil atau diutang, transaksi tersebut rusak karena jatuh ke dalam larangan memperjualbelikan hutang dengan hutang (*Kali bi al-Kali*).
+* **Pembayaran Wajib Lunas 100\% di Muka:** Pembeli (*Muslam*) wajib menyerahkan seluruh uang pembayaran (*Ra'sul Maal as-Salam*) kepada penjual (*Muslam Ilaih*) sebelum mereka berpisah dari majelis akad. Jika pembayaran dicicil atau diutang, transaksi tersebut rusak karena jatuh ke dalam larangan memperjualbelikan hutang dengan hutang (*Kali bi al-Kali*).
 
 * **Waktu Penyerahan Wajib Ditetapkan Pasti:** Tanggal, bulan, dan lokasi serah terima barang wajib ditentukan secara definitif (misalnya tanggal 20 November di gudang pembeli).
 
@@ -97,7 +97,7 @@ Ciri khas utama Akad Istishna meliputi:
 
 * **Adanya Proses Manufaktur/Pengerjaan Fisik:** Barang yang dipesan bukan barang yang sudah jadi di pasar, melainkan membutuhkan proses pengerjaan, perakitan, penjahitan, atau pembangunan fisik dari bahan mentah.
 
-* **Fleksibilitas Sistem Pembayaran:** Pembayaran dalam akad Istishna sangat fleksibel. Pembeli boleh membayar lunas 100% di muka, membayar dengan uang muka (*Down Payment*) bertahap sesuai progres persentase pengerjaan proyek (termin), atau dibayar lunas setelah barang selesai dibuat dan diserahkan.
+* **Fleksibilitas Sistem Pembayaran:** Pembayaran dalam akad Istishna sangat fleksibel. Pembeli boleh membayar lunas 100\% di muka, membayar dengan uang muka (*Down Payment*) bertahap sesuai progres persentase pengerjaan proyek (termin), atau dibayar lunas setelah barang selesai dibuat dan diserahkan.
 
 * **Hak Khiyar Ru'yah (Hak Pemeriksaan Mutu):** Menurut Madzhab Hanafi, pembeli memiliki hak khiyar (memilih melanjutkan atau membatalkan pesanan) jika saat barang jadi diserahkan, kualitas fisiknya terbukti cacat atau melenceng dari kesepakatan spesifikasi awal.
 
@@ -106,7 +106,7 @@ Mari kita cermati tabel perbandingan komprehensif antara kedua akad ini berikut:
 | Parameter Evaluasi             | Akad Salam (Pesanan Komoditas Standar)                 | Akad Istishna (Pesanan Manufaktur Kustom)                      |
 | ------------------------------ | ------------------------------------------------------ | -------------------------------------------------------------- |
 | **Karakteristik Obyek Barang** | Komoditas massal terstandarisasi (pertanian/komoditas) | Barang kustom yang membutuhkan proses manufaktur/rakit         |
-| **Syarat Pembayaran**          | **Wajib lunas 100% tunai di muka di awal akad**        | **Sangat fleksibel** (di muka, bertahap/termin, atau di akhir) |
+| **Syarat Pembayaran**          | **Wajib lunas 100\% tunai di muka di awal akad**        | **Sangat fleksibel** (di muka, bertahap/termin, atau di akhir) |
 | **Waktu Penyerahan Barang**    | Wajib ditentukan tanggal pastinya secara mengikat      | Ditentukan jadwal perkiraan selesai pengerjaan                 |
 | **Sifat Keberlakuan Akad**     | Mengikat secara mutlak (*Lazim*) sejak awal            | Mengikat (*Lazim*) setelah pengerjaan fisik dimulai            |
 
@@ -122,7 +122,7 @@ Terdiri atas Pembeli (*Muslam / Mustashni'*) dan Penjual atau Produsen (*Muslam 
 
 ### 2. Modal Pembayaran (*Ra'sul Maal / Tsaman*)
 
-* Pada Akad Salam: Nilai uang wajib diserahkan tunai 100% di awal sebelum berpisah.
+* Pada Akad Salam: Nilai uang wajib diserahkan tunai 100\% di awal sebelum berpisah.
 
 * Pada Akad Istishna: Besaran nilai harga, skema uang muka (*DP*), dan jadwal termin wajib disepakati secara transparan di awal tanpa ada klausul denda bunga ribawi jika terjadi keterlambatan pembayaran wajar.
 
@@ -188,15 +188,15 @@ Ibu Siti mengelola brand busana muslim *Mukena Al-Barokah*. Pada awal bulan Raja
 
 1. **Harga Jual:** Rp500.000 per set mukena.
 
-2. **Syarat Pembayaran:** Pembeli wajib membayar lunas Rp500.000 di muka via transfer bank pada saat mengisi formulir pemesanan (100% Cash in Advance sesuai syarat Akad Salam).
+2. **Syarat Pembayaran:** Pembeli wajib membayar lunas Rp500.000 di muka via transfer bank pada saat mengisi formulir pemesanan (100\% Cash in Advance sesuai syarat Akad Salam).
 
-3. **Spesifikasi Detail:** Bahan kain Sutra Armani 100%, renda katun rajut import lebar 12 cm, tas pouch serut eksklusif, warna Broken White kode Pantone 11-0601 TCX.
+3. **Spesifikasi Detail:** Bahan kain Sutra Armani 100\%, renda katun rajut import lebar 12 cm, tas pouch serut eksklusif, warna Broken White kode Pantone 11-0601 TCX.
 
 4. **Waktu Pengiriman:** Paket diserahkan ke kurir ekspedisi tepat pada tanggal 10 Ramadhan.
 
-5. **Mitigasi Cacat:** Jika saat diterima terdapat cacat jahitan atau noda kain, Ibu Siti wajib mengganti unit mukena baru 100% tanpa membebankan biaya retur ke pembeli.
+5. **Mitigasi Cacat:** Jika saat diterima terdapat cacat jahitan atau noda kain, Ibu Siti wajib mengganti unit mukena baru 100\% tanpa membebankan biaya retur ke pembeli.
 
-*Status Hukum:* **Sah dan Halal 100% sesuai rukun Akad Salam**.
+*Status Hukum:* **Sah dan Halal 100\% sesuai rukun Akad Salam**.
 
 ### Studi Kasus 2 Pembuatan Set Interior Kitchen Set Kustom (Akad Istishna Termin)
 
@@ -218,14 +218,14 @@ Bapak Rahmat memesan pembuatan kitchen set dapur rumah minimalis kepada bengkel 
 
 4. **Waktu Pengerjaan:** 30 hari kerja kalender.
 
-*Status Hukum:* **Sah dan Halal 100% sesuai rukun Akad Istishna**.
+*Status Hukum:* **Sah dan Halal 100\% sesuai rukun Akad Istishna**.
 
 Mari kita rangkum perbandingan skenario kedua studi kasus di atas dalam tabel rekapitulasi berikut:
 
 | Parameter Evaluasi         | Kasus 1: PO Mukena (Akad Salam)            | Kasus 2: Kitchen Set (Akad Istishna)           |
 | -------------------------- | ------------------------------------------ | ---------------------------------------------- |
 | **Bentuk Barang**          | Komoditas massal terstandarisasi           | Properti kustom pesanan khusus                 |
-| **Skema Pembayaran**       | Wajib lunas 100% di awal pendaftaran       | Bertahap 3 termin (30% - 40% - 30%)            |
+| **Skema Pembayaran**       | Wajib lunas 100\% di awal pendaftaran       | Bertahap 3 termin (30% - 40% - 30%)            |
 | **Kompensasi Cacat**       | Retur ganti unit baru berspesifikasi sama  | Perbaikan fisik di lokasi hingga sesuai desain |
 | **Tingkat Kepastian Mutu** | Terkunci pada kode pantone dan ukuran kain | Terkunci pada gambar kerja 3D dan jenis HPL    |
 

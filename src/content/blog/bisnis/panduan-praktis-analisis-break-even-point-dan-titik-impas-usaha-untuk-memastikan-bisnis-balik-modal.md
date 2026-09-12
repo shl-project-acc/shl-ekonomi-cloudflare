@@ -54,7 +54,7 @@ Mengapa titik laba nol ini begitu berharga untuk diketahui sejak awal pendirian 
 
 ## Anatomi Struktur Biaya Usaha, Membedakan Tiga Pilar Utama
 
-Kunci keberhasilan dalam menghitung BEP dengan presisi 100% terletak pada ketepatan kita dalam memilah dan mengelompokkan pos pengeluaran usaha. Terdapat tiga pilar biaya utama yang wajib kamu petakan dengan cermat.
+Kunci keberhasilan dalam menghitung BEP dengan presisi 100\% terletak pada ketepatan kita dalam memilah dan mengelompokkan pos pengeluaran usaha. Terdapat tiga pilar biaya utama yang wajib kamu petakan dengan cermat.
 
 ### 1. Biaya Tetap (Fixed Cost)
 
@@ -98,7 +98,7 @@ Margin kontribusi adalah selisih antara harga jual produk per unit dengan biaya 
 
 ```text
 Margin Kontribusi per Unit = Harga Jual per Unit - Biaya Variabel per Unit
-Rasio Margin Kontribusi (%) = (Margin Kontribusi per Unit / Harga Jual per Unit) x 100%
+Rasio Margin Kontribusi (\%) = (Margin Kontribusi per Unit / Harga Jual per Unit) x 100\%
 ```
 
 Jika margin kontribusimu terlalu tipis (misal hanya Rp 500 per bungkus), maka kamu membutuhkan volume penjualan yang sangat luar biasa besar hanya untuk menutup biaya sewa ruko sebesar Rp 2.000.000 per bulan.
@@ -165,7 +165,7 @@ Agar teori di atas menjadi sangat hidup dan mudah dipraktikkan langsung pada bis
 
 * Margin Kontribusi per Cup = $\text{Rp } 20.000 - \text{Rp } 8.000 = \text{Rp } 12.000$
 
-* Rasio Margin Kontribusi = $(\text{Rp } 12.000 / \text{Rp } 20.000) \times 100% = 60%$
+* Rasio Margin Kontribusi = $(\text{Rp } 12.000 / \text{Rp } 20.000) \times 100\% = 60\%$
 
 ### Langkah 2 Menghitung Titik Impas (BEP Unit dan BEP Rupiah)
 
@@ -210,14 +210,14 @@ Margin of Safety (MoS) menunjukkan seberapa besar persentase penurunan omzet pen
 
 ```text
 Margin of Safety (Rp) = Estimasi Total Penjualan Riil - Penjualan BEP Rupiah
-Rasio Margin of Safety (%) = (Margin of Safety Rp / Estimasi Penjualan Riil) x 100%
+Rasio Margin of Safety (\%) = (Margin of Safety Rp / Estimasi Penjualan Riil) x 100\%
 ```
 
 Contoh: Jika rata-rata penjualan riil *Kopi Sahabat* saat ini adalah 1.200 cup per bulan (Omzet Rp 24.000.000):
 
 * $\text{MoS (Rp)} = \text{Rp } 24.000.000 - \text{Rp } 15.000.000 = \text{Rp } 9.000.000$
 
-* $\text{Rasio MoS} = (\text{Rp } 9.000.000 / \text{Rp } 24.000.000) \times 100% = 37,5%$
+* $\text{Rasio MoS} = (\text{Rp } 9.000.000 / \text{Rp } 24.000.000) \times 100\% = 37,5\%$
 
 Artinya, jika terjadi penurunan penjualan hingga 37,5% akibat cuaca buruk atau persaingan pasar, kedai kopi tersebut masih aman dan belum mengalami kerugian uang kas operasional.
 

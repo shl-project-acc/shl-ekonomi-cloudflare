@@ -288,9 +288,9 @@ Dalam praktiknya, terdapat dua metode permodalan yang diterapkan oleh para penye
 |             KOMPARASI 2 METODE PERMODALAN JASTIP MODERN                 |
 +-------------------------------------------------------------------------+
 | Model A: Pre-Order Dana Penuh di Muka (Murni Wakalah bil Ujrah)         |
-| 1. Konsumen mentransfer 100% harga barang + Jasa Fee Jastip.           |
+| 1. Konsumen mentransfer 100\% harga barang + Jasa Fee Jastip.           |
 | 2. Jastiper membelikan barang menggunakan uang titipan konsumen.       |
-| 3. Status hukum: Sah, jernih, dan 100% bebas dari jeratan riba qardh.   |
+| 3. Status hukum: Sah, jernih, dan 100\% bebas dari jeratan riba qardh.   |
 |                                                                         |
 | Model B: Dana Talangan Pribadi Jastiper (Kombinasi Qardh & Ijarah)      |
 | 1. Jastiper menalangi dulu pembelian barang dengan modal sendiri.       |

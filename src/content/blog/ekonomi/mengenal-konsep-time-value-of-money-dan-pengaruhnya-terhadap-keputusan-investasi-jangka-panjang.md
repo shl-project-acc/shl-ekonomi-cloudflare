@@ -21,7 +21,7 @@ link: ekonomi/mengenal-konsep-time-value-of-money-dan-pengaruhnya-terhadap-keput
 ---
 Bayangkan sebuah skenario sederhana yang sering menjadi bahan renungan finansial: Jika hari ini ada seorang kerabat yang menawarkan kepadamu dua pilihan mutlak, yaitu menerima uang tunai sebesar Rp 10.000.000 hari ini juga, atau menerima uang dengan nominal yang sama persis sebesar Rp 10.000.000 namun baru akan diserahkan 10 tahun yang akan datang, manakah opsi yang akan kamu pilih tanpa ragu?
 
-Hampir dapat dipastikan, 100% orang yang berpikir rasional akan memilih untuk menerima uang Rp 10.000.000 hari ini.
+Hampir dapat dipastikan, 100\% orang yang berpikir rasional akan memilih untuk menerima uang Rp 10.000.000 hari ini.
 
 Mengapa demikian? Mengapa nominal uang yang di atas kertas tertera sama persis memiliki arti yang sangat berbeda ketika diletakkan pada garis waktu yang berlainan?
 

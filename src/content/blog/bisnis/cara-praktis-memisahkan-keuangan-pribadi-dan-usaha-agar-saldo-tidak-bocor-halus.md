@@ -72,7 +72,7 @@ Menata keuangan usahamu tidak butuh software akuntansi canggih seharga puluhan j
 
 ### 1. Buka Rekening Bank dan Dompet Digital Khusus Operasional Usaha
 
-Langkah pertama yang wajib kamu eksekusi adalah membuka satu rekening bank baru dan satu akun QRIS/e-wallet yang **murni 100% didedikasikan untuk transaksi usahamu**.
+Langkah pertama yang wajib kamu eksekusi adalah membuka satu rekening bank baru dan satu akun QRIS/e-wallet yang **murni 100\% didedikasikan untuk transaksi usahamu**.
 
 * **Aturan Main Rekening Usaha:**\
   Seluruh uang pembayaran dari pelanggan, pesanan online, dan transfer klien wajib masuk ke rekening ini. Dan seluruh pembayaran untuk belanja bahan baku, kemasan kardus, biaya sewa ruko, tagihan wifi toko, dan gaji karyawan wajib dibayarkan dari rekening ini.

@@ -97,7 +97,7 @@ Terdapat empat formula utama yang menjadi fondasi pengukuran efisiensi biaya ope
 
 Rasio Beban Operasional (*Operating Expense Ratio*) mengukur proporsi pendapatan bersih yang habis terserap untuk membiayai operasional rutin harian. Rasio ini memberikan indikator langsung mengenai tingkat efisiensi mesin bisnis dalam menghasilkan penjualan.
 
-$$Opex\ Ratio = \left( \frac{\text{Total Operating Expenses}}{\text{Total Revenue}} \right) \times 100%$$
+$$Opex\ Ratio = \left( \frac{\text{Total Operating Expenses}}{\text{Total Revenue}} \right) \times 100\%$$
 
 Keterangan parameter:
 
@@ -127,7 +127,7 @@ Berikut adalah rentang patokan Opex Ratio tipikal di berbagai sektor industri:
 
 Operating Expense Efficiency Index (OEEI) mengukur tingkat responsivitas atau elastisitas pertumbuhan pendapatan terhadap perubahan beban operasional antar-dua periode fiskal. Formula ini digunakan untuk memastikan bahwa setiap penambahan biaya operasional mampu menghasilkan pertumbuhan omzet yang berlipat ganda.
 
-$$OEEI = \frac{\left( \frac{\text{Revenue}*{t} - \text{Revenue}*{t-1}}{\text{Revenue}*{t-1}} \right)}{\left( \frac{\text{Opex}*{t} - \text{Opex}*{t-1}}{\text{Opex}*{t-1}} \right)} = \frac{% \Delta \text{Revenue}}{% \Delta \text{Opex}}$$
+$$OEEI = \frac{\left( \frac{\text{Revenue}_{t} - \text{Revenue}_{t-1}}{\text{Revenue}_{t-1}} \right)}{\left( \frac{\text{Opex}_{t} - \text{Opex}_{t-1}}{\text{Opex}_{t-1}} \right)} = \frac{\% \Delta \text{Revenue}}{\% \Delta \text{Opex}}$$
 
 Keterangan interpretasi nilai OEEI:
 
@@ -145,9 +145,9 @@ Dalam kerangka penganggaran berbasis nol (*Zero-Based Budgeting*), varians angga
 
 $$\Delta ZBB = \text{Actual Opex} - \text{Justified Baseline Budget}$$
 
-$$% \text{ZBB Variance} = \left( \frac{\text{Actual Opex} - \text{Justified Baseline Budget}}{\text{Justified Baseline Budget}} \right) \times 100%$$
+$$% \text{ZBB Variance} = \left( \frac{\text{Actual Opex} - \text{Justified Baseline Budget}}{\text{Justified Baseline Budget}} \right) \times 100\%$$
 
-Jika $% \text{ZBB Variance}$ bernilai positif, hal tersebut menandakan adanya pembengkakan biaya tidak terjustifikasi (*budget padding* atau *unauthorized spending*) yang harus segera dieliminasi pada siklus anggaran berikutnya.
+Jika $\% \text{ZBB Variance}$ bernilai positif, hal tersebut menandakan adanya pembengkakan biaya tidak terjustifikasi (*budget padding* atau *unauthorized spending*) yang harus segera dieliminasi pada siklus anggaran berikutnya.
 
 ### Formula 4 Cost Benefit Ratio of Lean Automation
 
@@ -381,25 +381,25 @@ Berikut adalah data komparasi komprehensif performa pendapatan, beban operasiona
 | Laba Kotor (Gross Profit 40%)                  | Rp 1.440.000.000    | Rp 1.368.000.000 | Rp 1.231.200.000 | Rp 1.108.080.000 | Rp 997.272.000   | Rp 4.704.552.000  |
 | Beban Operasional (Total Opex)                 | Rp 1.080.000.000    | Rp 810.000.000   | Rp 810.000.000   | Rp 810.000.000   | Rp 810.000.000   | Rp 3.240.000.000  |
 | Laba Operasional (EBIT)                        | Rp 360.000.000      | Rp 558.000.000   | Rp 421.200.000   | Rp 298.080.000   | Rp 187.272.000   | Rp 1.464.552.000  |
-| Opex Ratio (%)                                 | 30,00%              | 23,68%           | 26,32%           | 29,24%           | 32,49%           | 27,55%            |
-| Operating Margin (%)                           | 10,00%              | 16,32%           | 13,68%           | 10,76%           | 7,51%            | 12,45%            |
-| Skor Retensi Pelanggan (%)                     | 88,0%               | 81,0%            | 72,0%            | 63,0%            | 55,0%            | 55,0% (Akhir)     |
+| Opex Ratio (\%)                                 | 30,00%              | 23,68%           | 26,32%           | 29,24%           | 32,49%           | 27,55%            |
+| Operating Margin (\%)                           | 10,00%              | 16,32%           | 13,68%           | 10,76%           | 7,51%            | 12,45%            |
+| Skor Retensi Pelanggan (\%)                     | 88,0%               | 81,0%            | 72,0%            | 63,0%            | 55,0%            | 55,0% (Akhir)     |
 | **Skenario B (Restrukturisasi Lean Sistemik)** |                     |                  |                  |                  |                  |                   |
 | Pendapatan Bersih (Revenue)                    | Rp 3.600.000.000    | Rp 3.600.000.000 | Rp 3.780.000.000 | Rp 3.969.000.000 | Rp 4.167.450.000 | Rp 15.516.450.000 |
 | Laba Kotor (Gross Profit 40%)                  | Rp 1.440.000.000    | Rp 1.440.000.000 | Rp 1.512.000.000 | Rp 1.587.600.000 | Rp 1.666.980.000 | Rp 6.206.580.000  |
 | Beban Operasional (Total Opex)                 | Rp 1.080.000.000    | Rp 918.000.000   | Rp 882.000.000   | Rp 870.000.000   | Rp 864.000.000   | Rp 3.534.000.000  |
 | Laba Operasional (EBIT)                        | Rp 360.000.000      | Rp 522.000.000   | Rp 630.000.000   | Rp 717.600.000   | Rp 802.980.000   | Rp 2.672.580.000  |
-| Opex Ratio (%)                                 | 30,00%              | 25,50%           | 23,33%           | 21,92%           | 20,73%           | 22,78%            |
-| Operating Margin (%)                           | 10,00%              | 14,50%           | 16,67%           | 18,08%           | 19,27%           | 17,22%            |
-| Skor Retensi Pelanggan (%)                     | 88,0%               | 88,5%            | 90,2%            | 91,8%            | 93,5%            | 93,5% (Akhir)     |
+| Opex Ratio (\%)                                 | 30,00%              | 25,50%           | 23,33%           | 21,92%           | 20,73%           | 22,78%            |
+| Operating Margin (\%)                           | 10,00%              | 14,50%           | 16,67%           | 18,08%           | 19,27%           | 17,22%            |
+| Skor Retensi Pelanggan (\%)                     | 88,0%               | 88,5%            | 90,2%            | 91,8%            | 93,5%            | 93,5% (Akhir)     |
 | **Skenario C (Optimasi Skala & Daya Ungkit)**  |                     |                  |                  |                  |                  |                   |
 | Pendapatan Bersih (Revenue)                    | Rp 3.600.000.000    | Rp 3.780.000.000 | Rp 4.158.000.000 | Rp 4.656.960.000 | Rp 5.215.795.000 | Rp 17.810.755.000 |
 | Laba Kotor (Gross Profit 40%)                  | Rp 1.440.000.000    | Rp 1.512.000.000 | Rp 1.663.200.000 | Rp 1.862.784.000 | Rp 2.086.318.000 | Rp 7.124.302.000  |
 | Beban Operasional (Total Opex)                 | Rp 1.080.000.000    | Rp 1.134.000.000 | Rp 1.176.000.000 | Rp 1.218.000.000 | Rp 1.260.000.000 | Rp 4.788.000.000  |
 | Laba Operasional (EBIT)                        | Rp 360.000.000      | Rp 378.000.000   | Rp 487.200.000   | Rp 644.784.000   | Rp 826.318.000   | Rp 2.336.302.000  |
-| Opex Ratio (%)                                 | 30,00%              | 30,00%           | 28,28%           | 26,15%           | 24,16%           | 26,88%            |
-| Operating Margin (%)                           | 10,00%              | 10,00%           | 11,72%           | 13,85%           | 15,84%           | 13,12%            |
-| Skor Retensi Pelanggan (%)                     | 88,0%               | 89,0%            | 90,0%            | 91,0%            | 92,0%            | 92,0% (Akhir)     |
+| Opex Ratio (\%)                                 | 30,00%              | 30,00%           | 28,28%           | 26,15%           | 24,16%           | 26,88%            |
+| Operating Margin (\%)                           | 10,00%              | 10,00%           | 11,72%           | 13,85%           | 15,84%           | 13,12%            |
+| Skor Retensi Pelanggan (\%)                     | 88,0%               | 89,0%            | 90,0%            | 91,0%            | 92,0%            | 92,0% (Akhir)     |
 
 ### Analisis Dampak Arus Kas Operasional Kuartalan
 

@@ -43,7 +43,7 @@ Prinsip dasar ini berlandaskan langsung pada ancaman keras firman Allah Subhanah
 
 Dalam sistem paylater dan kartu kredit konvensional, perusahaan pembiayaan (*fintech lending* atau bank penerbit) menalangi pembayaran belanja nasabah kepada *merchant*. Sebagai imbalannya, perusahaan pembiayaan membebankan suku bunga berjalan (misalnya 2% hingga 4% per bulan) atas sisa saldo tagihan yang belum dibayar.
 
-Meskipun dalam strategi pemasarannya perusahaan sering menyamarkan bunga tersebut dengan istilah yang tampak ramah seperti "Biaya Layanan Fleksibel", "Biaya Kemudahan Transaksi", atau "Biaya Cicilan Ringan", secara substansi fiqh muamalah kelebihan uang tersebut 100% berstatus **Riba Nasi'ah** karena dipungut sebagai kompensasi atas penundaan pembayaran waktu (*riba al-jahiliyyah: imma an taqdhiya wa imma an turbiya*).
+Meskipun dalam strategi pemasarannya perusahaan sering menyamarkan bunga tersebut dengan istilah yang tampak ramah seperti "Biaya Layanan Fleksibel", "Biaya Kemudahan Transaksi", atau "Biaya Cicilan Ringan", secara substansi fiqh muamalah kelebihan uang tersebut 100\% berstatus **Riba Nasi'ah** karena dipungut sebagai kompensasi atas penundaan pembayaran waktu (*riba al-jahiliyyah: imma an taqdhiya wa imma an turbiya*).
 
 ```text
 +-------------------------------------------------------------------------+
@@ -84,7 +84,7 @@ Fatwa ini mengonstruksikan produk pembiayaan kartu talangan syariah menggunakan 
 |  [AKAD 2: QARDH (Talangan Dana Sosial)]                                 |
 |  Bank memberikan pinjaman talangan dana untuk melunasi transaksi belanja|
 |  ke merchant atau penarikan tunai darurat di ATM.                       |
-|  Nasabah wajib mengembalikan pokok pinjaman 100% tanpa bunga sepeserpun.|
+|  Nasabah wajib mengembalikan pokok pinjaman 100\% tanpa bunga sepeserpun.|
 |                                                                         |
 |  [AKAD 3: IJARAH (Sewa Jasa Layanan dan Sistem)]                        |
 |  Bank menyediakan infrastruktur sistem pembayaran digital, jaringan     |
@@ -101,7 +101,7 @@ Dalam akad ini, penerbit kartu (bank syariah atau institusi fintech syariah) ber
 
 ### 2. Akad Qardh (Pemberian Pinjaman Talangan Murni 0% Bunga)
 
-Ketika nasabah melakukan transaksi belanja di lokapasar atau melakukan penarikan uang tunai darurat di mesin ATM, penerbit kartu syariah bertindak sebagai pemberi pinjaman (*muqridh*) yang menalangi pembayaran dana belanja tersebut kepada toko terlebih dahulu. Karena transaksi ini berstatus sebagai akad kebajikan *qardh*, penerbit kartu syariah **diharamkan secara mutlak untuk memungut bunga atau keuntungan satu rupiah pun** atas dana pokok yang ditalangi. Nasabah hanya memiliki kewajiban untuk mengembalikan pokok dana belanja yang terpakai secara utuh 100%.
+Ketika nasabah melakukan transaksi belanja di lokapasar atau melakukan penarikan uang tunai darurat di mesin ATM, penerbit kartu syariah bertindak sebagai pemberi pinjaman (*muqridh*) yang menalangi pembayaran dana belanja tersebut kepada toko terlebih dahulu. Karena transaksi ini berstatus sebagai akad kebajikan *qardh*, penerbit kartu syariah **diharamkan secara mutlak untuk memungut bunga atau keuntungan satu rupiah pun** atas dana pokok yang ditalangi. Nasabah hanya memiliki kewajiban untuk mengembalikan pokok dana belanja yang terpakai secara utuh 100\%.
 
 ### 3. Akad Ijarah (Penyediaan Fasilitas dan Sistem Teknologi Digital)
 
@@ -218,7 +218,7 @@ Dalam pandangan fiqh Islam, menjadikan keterlambatan pembayaran utang sebagai su
 |         +---> 2. Dikenakan Gharamah (Denda Sanksi Disiplin Finansial)   |
 |                  - Persentase denda disiplin untuk efek jera.           |
 |                  - HARAM diakui sebagai keuntungan bank.                |
-|                  - 100% Wajib disalurkan ke Dana Kebajikan Sosial       |
+|                  - 100\% Wajib disalurkan ke Dana Kebajikan Sosial       |
 |                    (Fakir miskin, yatim, kemaslahatan umum).            |
 +-------------------------------------------------------------------------+
 ```
@@ -229,7 +229,7 @@ Merupakan kompensasi ganti rugi yang hanya boleh ditagihkan kepada nasabah sebes
 
 ### 2. Instrumen Gharamah (Denda Finansial Efek Jera)
 
-Merupakan sanksi denda finansial (*ta'zir bi al-mal*) yang dijatuhkan kepada nasabah mampu yang sengaja menunda-nunda pembayaran kewajibannya (*mathlul ghaniyyi zhulmun*). Tujuan utama denda ini adalah mendisiplinkan nasabah agar tidak meremehkan akad. Seluruh dana denda keterlambatan ini **diharamkan secara mutlak untuk diakui sebagai laba perusahaan**, dan wajib disalurkan 100% ke rekening dana kebajikan sosial (*dana qardh hasan / baitul mal*) untuk membantu kaum dhuafa.
+Merupakan sanksi denda finansial (*ta'zir bi al-mal*) yang dijatuhkan kepada nasabah mampu yang sengaja menunda-nunda pembayaran kewajibannya (*mathlul ghaniyyi zhulmun*). Tujuan utama denda ini adalah mendisiplinkan nasabah agar tidak meremehkan akad. Seluruh dana denda keterlambatan ini **diharamkan secara mutlak untuk diakui sebagai laba perusahaan**, dan wajib disalurkan 100\% ke rekening dana kebajikan sosial (*dana qardh hasan / baitul mal*) untuk membantu kaum dhuafa.
 
 Dengan mekanisme ini, lembaga pembiayaan syariah tidak pernah memetik keuntungan finansial dari penderitaan atau kelalaian nasabahnya, sehingga kemurnian akad tetap terjaga.
 
@@ -327,7 +327,7 @@ Sebelum kamu tergoda mengaktifkan limit paylater di aplikasi belanja online atau
 
 [ ] 5. KLAUSUL ALOKASI DANA DENDA SOSIAL
        Pastikan dalam lembar syarat dan ketentuan (T&C) tertulis tegas bahwa dana denda
-       keterlambatan disalurkan 100% untuk rekening kebajikan sosial kemaslahatan umat.
+       keterlambatan disalurkan 100\% untuk rekening kebajikan sosial kemaslahatan umat.
 
 [ ] 6. TIDAK ADA BIAYA PENARIKAN TUNAI PERSENTASE
        Jika fasilitas mendukung penarikan uang tunai di ATM, pastikan biayanya adalah biaya
